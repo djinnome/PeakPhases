@@ -1,0 +1,97 @@
+
+<html> <head>
+<title> Expression Viewer Animation</title>
+
+<script>
+<!--
+
+var exprImages = new Array();
+var keyImages = new Array()
+var currentTimepointIndex = 0;
+var numTimepoints = 12;
+var animationRunning = false;
+var animatorID = null
+
+function preload(imgObj, imgSrc) {
+  if (document.images) {
+    imgSrc = '' + imgSrc;
+    eval(imgObj+' = new Image()')
+    eval(imgObj+'.src = "'+ imgSrc + '"')
+    }
+  }
+
+function requestAllImgs () {
+  var href='batch-images?'
+  for (var i=0; i< exprImages.length; i++) {
+    href += exprImages[i].src
+    href += '&'
+    href += keyImages[i].src
+    href += '&'
+  }
+  window.location=href
+}
+
+function changeTimepoint (value) {
+  currentTimepointIndex = value % numTimepoints;
+  top.frames.mapframe.document.images["expr"].src = top.exprImages[currentTimepointIndex].src;
+  top.frames.keyframe.document.images["key"].src = top.keyImages[currentTimepointIndex].src;
+  }
+
+function stopAnimation () {
+  if (animationRunning)
+    clearTimeout(animatorID)
+  animationRunning = false
+  }
+
+function playAnimation () {
+  changeTimepoint(currentTimepointIndex + 1)
+  animatorID = setTimeout("playAnimation()", 1000)
+  animationRunning = true
+}
+
+preload('exprImages[0]', 'LJ24445.gif');
+preload('keyImages[0]', 'LJ24446.gif');
+
+preload('exprImages[1]', 'LJ24447.gif');
+preload('keyImages[1]', 'LJ24448.gif');
+
+preload('exprImages[2]', 'LJ24449.gif');
+preload('keyImages[2]', 'LJ24450.gif');
+
+preload('exprImages[3]', 'LJ24451.gif');
+preload('keyImages[3]', 'LJ24452.gif');
+
+preload('exprImages[4]', 'LJ24453.gif');
+preload('keyImages[4]', 'LJ24454.gif');
+
+preload('exprImages[5]', 'LJ24455.gif');
+preload('keyImages[5]', 'LJ24456.gif');
+
+preload('exprImages[6]', 'LJ24457.gif');
+preload('keyImages[6]', 'LJ24458.gif');
+
+preload('exprImages[7]', 'LJ24459.gif');
+preload('keyImages[7]', 'LJ24460.gif');
+
+preload('exprImages[8]', 'LJ24461.gif');
+preload('keyImages[8]', 'LJ24462.gif');
+
+preload('exprImages[9]', 'LJ24463.gif');
+preload('keyImages[9]', 'LJ24464.gif');
+
+preload('exprImages[10]', 'LJ24465.gif');
+preload('keyImages[10]', 'LJ24466.gif');
+
+preload('exprImages[11]', 'LJ24467.gif');
+preload('keyImages[11]', 'LJ24468.gif');
+
+//-->
+</script>
+</head>
+
+
+  <frameset cols="200,*">
+    <frame src="ov-expression-keyframe.html" name=keyframe>
+    <frame src="ov-expression-mapframe.html" name=mapframe>
+  </frameset>
+
