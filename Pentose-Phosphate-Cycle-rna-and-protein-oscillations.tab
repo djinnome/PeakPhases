@@ -10,7 +10,6 @@ NCU07281.7	0h_RNA	0.133974596216	False	0	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	0h_RNA	0.133974596216	False	0	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	0h_RNA	1.5	False	0	RNA	Pentose-Phosphate-Cycle
 Average	0h_RNA	1.13660254038	True	0	RNA	Pentose-Phosphate-Cycle
-StdDev	0h_RNA	0.825433065705	False	0	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 NCU04963.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 NCU07169.7	0h_protein	1.0	False	0	protein	Pentose-Phosphate-Cycle
@@ -22,7 +21,6 @@ NCU07281.7	0h_protein	2.0	False	0	protein	Pentose-Phosphate-Cycle
 NCU03100.7	0h_protein	0.5	False	0	protein	Pentose-Phosphate-Cycle
 NCU09111.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 Average	0h_protein	1.04019237886	True	0	protein	Pentose-Phosphate-Cycle
-StdDev	0h_protein	0.820600129589	False	0	protein	Pentose-Phosphate-Cycle
 NCU03254.7	2h_RNA	1.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	2h_RNA	2.0	False	2	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	2h_RNA	2.0	False	2	RNA	Pentose-Phosphate-Cycle
@@ -34,7 +32,6 @@ NCU07281.7	2h_RNA	0.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	2h_RNA	0.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	2h_RNA	1.86602540378	False	2	RNA	Pentose-Phosphate-Cycle
 Average	2h_RNA	1.28660254038	True	2	RNA	Pentose-Phosphate-Cycle
-StdDev	2h_RNA	0.665476508863	False	2	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	2h_protein	0.0	False	2	protein	Pentose-Phosphate-Cycle
 NCU04963.7	2h_protein	0.5	False	2	protein	Pentose-Phosphate-Cycle
 NCU07169.7	2h_protein	1.5	False	2	protein	Pentose-Phosphate-Cycle
@@ -46,7 +43,6 @@ NCU07281.7	2h_protein	1.86602540378	False	2	protein	Pentose-Phosphate-Cycle
 NCU03100.7	2h_protein	1.0	False	2	protein	Pentose-Phosphate-Cycle
 NCU09111.7	2h_protein	0.5	False	2	protein	Pentose-Phosphate-Cycle
 Average	2h_protein	1.19641016151	True	2	protein	Pentose-Phosphate-Cycle
-StdDev	2h_protein	0.660623227303	False	2	protein	Pentose-Phosphate-Cycle
 NCU03254.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	4h_RNA	1.86602540378	False	4	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	4h_RNA	1.86602540378	False	4	RNA	Pentose-Phosphate-Cycle
@@ -58,7 +54,6 @@ NCU07281.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	4h_RNA	2.0	False	4	RNA	Pentose-Phosphate-Cycle
 Average	4h_RNA	1.35980762113	True	4	RNA	Pentose-Phosphate-Cycle
-StdDev	4h_RNA	0.442197326735	False	4	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	4h_protein	0.133974596216	False	4	protein	Pentose-Phosphate-Cycle
 NCU04963.7	4h_protein	1.0	False	4	protein	Pentose-Phosphate-Cycle
 NCU07169.7	4h_protein	1.86602540378	False	4	protein	Pentose-Phosphate-Cycle
@@ -70,7 +65,6 @@ NCU07281.7	4h_protein	1.5	False	4	protein	Pentose-Phosphate-Cycle
 NCU03100.7	4h_protein	1.5	False	4	protein	Pentose-Phosphate-Cycle
 NCU09111.7	4h_protein	1.0	False	4	protein	Pentose-Phosphate-Cycle
 Average	4h_protein	1.3	True	4	protein	Pentose-Phosphate-Cycle
-StdDev	4h_protein	0.458257569495	False	4	protein	Pentose-Phosphate-Cycle
 NCU03254.7	6h_RNA	0.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
@@ -82,7 +76,6 @@ NCU07281.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	6h_RNA	1.86602540378	False	6	RNA	Pentose-Phosphate-Cycle
 Average	6h_RNA	1.33660254038	True	6	RNA	Pentose-Phosphate-Cycle
-StdDev	6h_RNA	0.432086484179	False	6	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	6h_protein	0.5	False	6	protein	Pentose-Phosphate-Cycle
 NCU04963.7	6h_protein	1.5	False	6	protein	Pentose-Phosphate-Cycle
 NCU07169.7	6h_protein	2.0	False	6	protein	Pentose-Phosphate-Cycle
@@ -94,7 +87,6 @@ NCU07281.7	6h_protein	1.0	False	6	protein	Pentose-Phosphate-Cycle
 NCU03100.7	6h_protein	1.86602540378	False	6	protein	Pentose-Phosphate-Cycle
 NCU09111.7	6h_protein	1.5	False	6	protein	Pentose-Phosphate-Cycle
 Average	6h_protein	1.32320508076	True	6	protein	Pentose-Phosphate-Cycle
-StdDev	6h_protein	0.46961524227	False	6	protein	Pentose-Phosphate-Cycle
 NCU03254.7	8h_RNA	0.133974596216	False	8	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	8h_RNA	1.0	False	8	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	8h_RNA	1.0	False	8	RNA	Pentose-Phosphate-Cycle
@@ -106,7 +98,6 @@ NCU07281.7	8h_RNA	1.86602540378	False	8	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	8h_RNA	1.86602540378	False	8	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	8h_RNA	1.5	False	8	RNA	Pentose-Phosphate-Cycle
 Average	8h_RNA	1.22320508076	True	8	RNA	Pentose-Phosphate-Cycle
-StdDev	8h_RNA	0.652057890008	False	8	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	8h_protein	1.0	False	8	protein	Pentose-Phosphate-Cycle
 NCU04963.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
 NCU07169.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
@@ -118,7 +109,6 @@ NCU07281.7	8h_protein	0.5	False	8	protein	Pentose-Phosphate-Cycle
 NCU03100.7	8h_protein	2.0	False	8	protein	Pentose-Phosphate-Cycle
 NCU09111.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
 Average	8h_protein	1.25980762113	True	8	protein	Pentose-Phosphate-Cycle
-StdDev	8h_protein	0.676387462922	False	8	protein	Pentose-Phosphate-Cycle
 NCU03254.7	10h_RNA	0.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	10h_RNA	0.5	False	10	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	10h_RNA	0.5	False	10	RNA	Pentose-Phosphate-Cycle
@@ -130,7 +120,6 @@ NCU07281.7	10h_RNA	2.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	10h_RNA	2.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	10h_RNA	1.0	False	10	RNA	Pentose-Phosphate-Cycle
 Average	10h_RNA	1.05	True	10	RNA	Pentose-Phosphate-Cycle
-StdDev	10h_RNA	0.820060973343	False	10	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	10h_protein	1.5	False	10	protein	Pentose-Phosphate-Cycle
 NCU04963.7	10h_protein	2.0	False	10	protein	Pentose-Phosphate-Cycle
 NCU07169.7	10h_protein	1.5	False	10	protein	Pentose-Phosphate-Cycle
@@ -142,7 +131,6 @@ NCU07281.7	10h_protein	0.133974596216	False	10	protein	Pentose-Phosphate-Cycle
 NCU03100.7	10h_protein	1.86602540378	False	10	protein	Pentose-Phosphate-Cycle
 NCU09111.7	10h_protein	2.0	False	10	protein	Pentose-Phosphate-Cycle
 Average	10h_protein	1.12679491924	True	10	protein	Pentose-Phosphate-Cycle
-StdDev	10h_protein	0.826996401717	False	10	protein	Pentose-Phosphate-Cycle
 NCU03254.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
@@ -154,7 +142,6 @@ NCU07281.7	12h_RNA	1.86602540378	False	12	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	12h_RNA	1.86602540378	False	12	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	12h_RNA	0.5	False	12	RNA	Pentose-Phosphate-Cycle
 Average	12h_RNA	0.86339745962	True	12	RNA	Pentose-Phosphate-Cycle
-StdDev	12h_RNA	0.825433065704	False	12	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 NCU04963.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 NCU07169.7	12h_protein	1.0	False	12	protein	Pentose-Phosphate-Cycle
@@ -166,7 +153,6 @@ NCU07281.7	12h_protein	0.0	False	12	protein	Pentose-Phosphate-Cycle
 NCU03100.7	12h_protein	1.5	False	12	protein	Pentose-Phosphate-Cycle
 NCU09111.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 Average	12h_protein	0.959807621134	True	12	protein	Pentose-Phosphate-Cycle
-StdDev	12h_protein	0.820600129587	False	12	protein	Pentose-Phosphate-Cycle
 NCU03254.7	14h_RNA	0.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	14h_RNA	0.0	False	14	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	14h_RNA	0.0	False	14	RNA	Pentose-Phosphate-Cycle
@@ -178,7 +164,6 @@ NCU07281.7	14h_RNA	1.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	14h_RNA	1.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	14h_RNA	0.133974596216	False	14	RNA	Pentose-Phosphate-Cycle
 Average	14h_RNA	0.713397459622	True	14	RNA	Pentose-Phosphate-Cycle
-StdDev	14h_RNA	0.665476508863	False	14	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	14h_protein	2.0	False	14	protein	Pentose-Phosphate-Cycle
 NCU04963.7	14h_protein	1.5	False	14	protein	Pentose-Phosphate-Cycle
 NCU07169.7	14h_protein	0.5	False	14	protein	Pentose-Phosphate-Cycle
@@ -190,7 +175,6 @@ NCU07281.7	14h_protein	0.133974596216	False	14	protein	Pentose-Phosphate-Cycle
 NCU03100.7	14h_protein	1.0	False	14	protein	Pentose-Phosphate-Cycle
 NCU09111.7	14h_protein	1.5	False	14	protein	Pentose-Phosphate-Cycle
 Average	14h_protein	0.803589838486	True	14	protein	Pentose-Phosphate-Cycle
-StdDev	14h_protein	0.660623227304	False	14	protein	Pentose-Phosphate-Cycle
 NCU03254.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	16h_RNA	0.133974596216	False	16	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	16h_RNA	0.133974596216	False	16	RNA	Pentose-Phosphate-Cycle
@@ -202,7 +186,6 @@ NCU07281.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	16h_RNA	0.0	False	16	RNA	Pentose-Phosphate-Cycle
 Average	16h_RNA	0.640192378865	True	16	RNA	Pentose-Phosphate-Cycle
-StdDev	16h_RNA	0.442197326736	False	16	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	16h_protein	1.86602540378	False	16	protein	Pentose-Phosphate-Cycle
 NCU04963.7	16h_protein	1.0	False	16	protein	Pentose-Phosphate-Cycle
 NCU07169.7	16h_protein	0.133974596216	False	16	protein	Pentose-Phosphate-Cycle
@@ -214,7 +197,6 @@ NCU07281.7	16h_protein	0.5	False	16	protein	Pentose-Phosphate-Cycle
 NCU03100.7	16h_protein	0.5	False	16	protein	Pentose-Phosphate-Cycle
 NCU09111.7	16h_protein	1.0	False	16	protein	Pentose-Phosphate-Cycle
 Average	16h_protein	0.7	True	16	protein	Pentose-Phosphate-Cycle
-StdDev	16h_protein	0.458257569494	False	16	protein	Pentose-Phosphate-Cycle
 NCU03254.7	18h_RNA	1.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
@@ -226,7 +208,6 @@ NCU07281.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	18h_RNA	0.133974596216	False	18	RNA	Pentose-Phosphate-Cycle
 Average	18h_RNA	0.663397459622	True	18	RNA	Pentose-Phosphate-Cycle
-StdDev	18h_RNA	0.43208648418	False	18	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	18h_protein	1.5	False	18	protein	Pentose-Phosphate-Cycle
 NCU04963.7	18h_protein	0.5	False	18	protein	Pentose-Phosphate-Cycle
 NCU07169.7	18h_protein	0.0	False	18	protein	Pentose-Phosphate-Cycle
@@ -238,7 +219,6 @@ NCU07281.7	18h_protein	1.0	False	18	protein	Pentose-Phosphate-Cycle
 NCU03100.7	18h_protein	0.133974596216	False	18	protein	Pentose-Phosphate-Cycle
 NCU09111.7	18h_protein	0.5	False	18	protein	Pentose-Phosphate-Cycle
 Average	18h_protein	0.676794919243	True	18	protein	Pentose-Phosphate-Cycle
-StdDev	18h_protein	0.469615242271	False	18	protein	Pentose-Phosphate-Cycle
 NCU03254.7	20h_RNA	1.86602540378	False	20	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	20h_RNA	1.0	False	20	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	20h_RNA	1.0	False	20	RNA	Pentose-Phosphate-Cycle
@@ -250,7 +230,6 @@ NCU07281.7	20h_RNA	0.133974596216	False	20	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	20h_RNA	0.133974596216	False	20	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	20h_RNA	0.5	False	20	RNA	Pentose-Phosphate-Cycle
 Average	20h_RNA	0.776794919242	True	20	RNA	Pentose-Phosphate-Cycle
-StdDev	20h_RNA	0.652057890008	False	20	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	20h_protein	1.0	False	20	protein	Pentose-Phosphate-Cycle
 NCU04963.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
 NCU07169.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
@@ -262,7 +241,6 @@ NCU07281.7	20h_protein	1.5	False	20	protein	Pentose-Phosphate-Cycle
 NCU03100.7	20h_protein	0.0	False	20	protein	Pentose-Phosphate-Cycle
 NCU09111.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
 Average	20h_protein	0.740192378865	True	20	protein	Pentose-Phosphate-Cycle
-StdDev	20h_protein	0.676387462923	False	20	protein	Pentose-Phosphate-Cycle
 NCU03254.7	22h_RNA	2.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	22h_RNA	1.5	False	22	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	22h_RNA	1.5	False	22	RNA	Pentose-Phosphate-Cycle
@@ -274,7 +252,6 @@ NCU07281.7	22h_RNA	0.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	22h_RNA	0.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	22h_RNA	1.0	False	22	RNA	Pentose-Phosphate-Cycle
 Average	22h_RNA	0.95	True	22	RNA	Pentose-Phosphate-Cycle
-StdDev	22h_RNA	0.820060973343	False	22	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	22h_protein	0.5	False	22	protein	Pentose-Phosphate-Cycle
 NCU04963.7	22h_protein	0.0	False	22	protein	Pentose-Phosphate-Cycle
 NCU07169.7	22h_protein	0.5	False	22	protein	Pentose-Phosphate-Cycle
@@ -286,4 +263,3 @@ NCU07281.7	22h_protein	1.86602540378	False	22	protein	Pentose-Phosphate-Cycle
 NCU03100.7	22h_protein	0.133974596216	False	22	protein	Pentose-Phosphate-Cycle
 NCU09111.7	22h_protein	0.0	False	22	protein	Pentose-Phosphate-Cycle
 Average	22h_protein	0.873205080755	True	22	protein	Pentose-Phosphate-Cycle
-StdDev	22h_protein	0.826996401716	False	22	protein	Pentose-Phosphate-Cycle

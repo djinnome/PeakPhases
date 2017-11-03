@@ -32,7 +32,6 @@ NCU03254.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 NCU04963.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 NCU07169.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 Average	0h_RNA	0.814743649053	True	0	RNA	Carbohydrates-Degradation
-StdDev	0h_RNA	0.758323865134	False	0	RNA	Carbohydrates-Degradation
 NCU08687.7	0h_protein	2.0	False	0	protein	Carbohydrates-Degradation
 NCU05454.7	0h_protein	1.86602540378	False	0	protein	Carbohydrates-Degradation
 NCU02322.7	0h_protein	2.0	False	0	protein	Carbohydrates-Degradation
@@ -66,7 +65,6 @@ NCU03254.7	0h_protein	0.133974596216	False	0	protein	Carbohydrates-Degradation
 NCU04963.7	0h_protein	0.133974596216	False	0	protein	Carbohydrates-Degradation
 NCU07169.7	0h_protein	1.0	False	0	protein	Carbohydrates-Degradation
 Average	0h_protein	1.4249398816	True	0	protein	Carbohydrates-Degradation
-StdDev	0h_protein	0.717452853518	False	0	protein	Carbohydrates-Degradation
 NCU08687.7	2h_RNA	1.5	False	2	RNA	Carbohydrates-Degradation
 NCU05454.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Degradation
 NCU02322.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Degradation
@@ -100,7 +98,6 @@ NCU03254.7	2h_RNA	1.5	False	2	RNA	Carbohydrates-Degradation
 NCU04963.7	2h_RNA	2.0	False	2	RNA	Carbohydrates-Degradation
 NCU07169.7	2h_RNA	2.0	False	2	RNA	Carbohydrates-Degradation
 Average	2h_RNA	1.06137817547	True	2	RNA	Carbohydrates-Degradation
-StdDev	2h_RNA	0.709961421187	False	2	RNA	Carbohydrates-Degradation
 NCU08687.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Degradation
 NCU05454.7	2h_protein	2.0	False	2	protein	Carbohydrates-Degradation
 NCU02322.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Degradation
@@ -134,7 +131,6 @@ NCU03254.7	2h_protein	0.0	False	2	protein	Carbohydrates-Degradation
 NCU04963.7	2h_protein	0.5	False	2	protein	Carbohydrates-Degradation
 NCU07169.7	2h_protein	1.5	False	2	protein	Carbohydrates-Degradation
 Average	2h_protein	1.42269623255	True	2	protein	Carbohydrates-Degradation
-StdDev	2h_protein	0.600325241003	False	2	protein	Carbohydrates-Degradation
 NCU08687.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 NCU05454.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
 NCU02322.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
@@ -168,7 +164,6 @@ NCU03254.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
 NCU04963.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 NCU07169.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 Average	4h_RNA	1.29156646934	True	4	RNA	Carbohydrates-Degradation
-StdDev	4h_RNA	0.559845062454	False	4	RNA	Carbohydrates-Degradation
 NCU08687.7	4h_protein	1.5	False	4	protein	Carbohydrates-Degradation
 NCU05454.7	4h_protein	1.86602540378	False	4	protein	Carbohydrates-Degradation
 NCU02322.7	4h_protein	1.5	False	4	protein	Carbohydrates-Degradation
@@ -202,7 +197,6 @@ NCU03254.7	4h_protein	0.133974596216	False	4	protein	Carbohydrates-Degradation
 NCU04963.7	4h_protein	1.0	False	4	protein	Carbohydrates-Degradation
 NCU07169.7	4h_protein	1.86602540378	False	4	protein	Carbohydrates-Degradation
 Average	4h_protein	1.30719146934	True	4	protein	Carbohydrates-Degradation
-StdDev	4h_protein	0.499383020499	False	4	protein	Carbohydrates-Degradation
 NCU08687.7	6h_RNA	2.0	False	6	RNA	Carbohydrates-Degradation
 NCU05454.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 NCU02322.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
@@ -236,7 +230,6 @@ NCU03254.7	6h_RNA	0.5	False	6	RNA	Carbohydrates-Degradation
 NCU04963.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 NCU07169.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 Average	6h_RNA	1.44362976321	True	6	RNA	Carbohydrates-Degradation
-StdDev	6h_RNA	0.440247240984	False	6	RNA	Carbohydrates-Degradation
 NCU08687.7	6h_protein	1.0	False	6	protein	Carbohydrates-Degradation
 NCU05454.7	6h_protein	1.5	False	6	protein	Carbohydrates-Degradation
 NCU02322.7	6h_protein	1.0	False	6	protein	Carbohydrates-Degradation
@@ -270,7 +263,6 @@ NCU03254.7	6h_protein	0.5	False	6	protein	Carbohydrates-Degradation
 NCU04963.7	6h_protein	1.5	False	6	protein	Carbohydrates-Degradation
 NCU07169.7	6h_protein	2.0	False	6	protein	Carbohydrates-Degradation
 Average	6h_protein	1.109375	True	6	protein	Carbohydrates-Degradation
-StdDev	6h_protein	0.541040302911	False	6	protein	Carbohydrates-Degradation
 NCU08687.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
 NCU05454.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
 NCU02322.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
@@ -304,7 +296,6 @@ NCU03254.7	8h_RNA	0.133974596216	False	8	RNA	Carbohydrates-Degradation
 NCU04963.7	8h_RNA	1.0	False	8	RNA	Carbohydrates-Degradation
 NCU07169.7	8h_RNA	1.0	False	8	RNA	Carbohydrates-Degradation
 Average	8h_RNA	1.47682282029	True	8	RNA	Carbohydrates-Degradation
-StdDev	8h_RNA	0.51461393107	False	8	RNA	Carbohydrates-Degradation
 NCU08687.7	8h_protein	0.5	False	8	protein	Carbohydrates-Degradation
 NCU05454.7	8h_protein	1.0	False	8	protein	Carbohydrates-Degradation
 NCU02322.7	8h_protein	0.5	False	8	protein	Carbohydrates-Degradation
@@ -338,7 +329,6 @@ NCU03254.7	8h_protein	1.0	False	8	protein	Carbohydrates-Degradation
 NCU04963.7	8h_protein	1.86602540378	False	8	protein	Carbohydrates-Degradation
 NCU07169.7	8h_protein	1.86602540378	False	8	protein	Carbohydrates-Degradation
 Average	8h_protein	0.882251587736	True	8	protein	Carbohydrates-Degradation
-StdDev	8h_protein	0.668635036031	False	8	protein	Carbohydrates-Degradation
 NCU08687.7	10h_RNA	1.5	False	10	RNA	Carbohydrates-Degradation
 NCU05454.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Degradation
 NCU02322.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Degradation
@@ -372,7 +362,6 @@ NCU03254.7	10h_RNA	0.0	False	10	RNA	Carbohydrates-Degradation
 NCU04963.7	10h_RNA	0.5	False	10	RNA	Carbohydrates-Degradation
 NCU07169.7	10h_RNA	0.5	False	10	RNA	Carbohydrates-Degradation
 Average	10h_RNA	1.38225158774	True	10	RNA	Carbohydrates-Degradation
-StdDev	10h_RNA	0.674867560098	False	10	RNA	Carbohydrates-Degradation
 NCU08687.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Degradation
 NCU05454.7	10h_protein	0.5	False	10	protein	Carbohydrates-Degradation
 NCU02322.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Degradation
@@ -406,7 +395,6 @@ NCU03254.7	10h_protein	1.5	False	10	protein	Carbohydrates-Degradation
 NCU04963.7	10h_protein	2.0	False	10	protein	Carbohydrates-Degradation
 NCU07169.7	10h_protein	1.5	False	10	protein	Carbohydrates-Degradation
 Average	10h_protein	0.686678767449	True	10	protein	Carbohydrates-Degradation
-StdDev	10h_protein	0.747047391557	False	10	protein	Carbohydrates-Degradation
 NCU08687.7	12h_RNA	1.0	False	12	RNA	Carbohydrates-Degradation
 NCU05454.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Degradation
 NCU02322.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Degradation
@@ -440,7 +428,6 @@ NCU03254.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 NCU04963.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 NCU07169.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 Average	12h_RNA	1.18525635094	True	12	RNA	Carbohydrates-Degradation
-StdDev	12h_RNA	0.758323865134	False	12	RNA	Carbohydrates-Degradation
 NCU08687.7	12h_protein	0.0	False	12	protein	Carbohydrates-Degradation
 NCU05454.7	12h_protein	0.133974596216	False	12	protein	Carbohydrates-Degradation
 NCU02322.7	12h_protein	0.0	False	12	protein	Carbohydrates-Degradation
@@ -474,7 +461,6 @@ NCU03254.7	12h_protein	1.86602540378	False	12	protein	Carbohydrates-Degradation
 NCU04963.7	12h_protein	1.86602540378	False	12	protein	Carbohydrates-Degradation
 NCU07169.7	12h_protein	1.0	False	12	protein	Carbohydrates-Degradation
 Average	12h_protein	0.575060118395	True	12	protein	Carbohydrates-Degradation
-StdDev	12h_protein	0.717452853517	False	12	protein	Carbohydrates-Degradation
 NCU08687.7	14h_RNA	0.5	False	14	RNA	Carbohydrates-Degradation
 NCU05454.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Degradation
 NCU02322.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Degradation
@@ -508,7 +494,6 @@ NCU03254.7	14h_RNA	0.5	False	14	RNA	Carbohydrates-Degradation
 NCU04963.7	14h_RNA	0.0	False	14	RNA	Carbohydrates-Degradation
 NCU07169.7	14h_RNA	0.0	False	14	RNA	Carbohydrates-Degradation
 Average	14h_RNA	0.938621824527	True	14	RNA	Carbohydrates-Degradation
-StdDev	14h_RNA	0.709961421188	False	14	RNA	Carbohydrates-Degradation
 NCU08687.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Degradation
 NCU05454.7	14h_protein	0.0	False	14	protein	Carbohydrates-Degradation
 NCU02322.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Degradation
@@ -542,7 +527,6 @@ NCU03254.7	14h_protein	2.0	False	14	protein	Carbohydrates-Degradation
 NCU04963.7	14h_protein	1.5	False	14	protein	Carbohydrates-Degradation
 NCU07169.7	14h_protein	0.5	False	14	protein	Carbohydrates-Degradation
 Average	14h_protein	0.577303767449	True	14	protein	Carbohydrates-Degradation
-StdDev	14h_protein	0.600325241004	False	14	protein	Carbohydrates-Degradation
 NCU08687.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 NCU05454.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
 NCU02322.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
@@ -576,7 +560,6 @@ NCU03254.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
 NCU04963.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 NCU07169.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 Average	16h_RNA	0.708433530658	True	16	RNA	Carbohydrates-Degradation
-StdDev	16h_RNA	0.559845062455	False	16	RNA	Carbohydrates-Degradation
 NCU08687.7	16h_protein	0.5	False	16	protein	Carbohydrates-Degradation
 NCU05454.7	16h_protein	0.133974596216	False	16	protein	Carbohydrates-Degradation
 NCU02322.7	16h_protein	0.5	False	16	protein	Carbohydrates-Degradation
@@ -610,7 +593,6 @@ NCU03254.7	16h_protein	1.86602540378	False	16	protein	Carbohydrates-Degradation
 NCU04963.7	16h_protein	1.0	False	16	protein	Carbohydrates-Degradation
 NCU07169.7	16h_protein	0.133974596216	False	16	protein	Carbohydrates-Degradation
 Average	16h_protein	0.692808530658	True	16	protein	Carbohydrates-Degradation
-StdDev	16h_protein	0.499383020499	False	16	protein	Carbohydrates-Degradation
 NCU08687.7	18h_RNA	0.0	False	18	RNA	Carbohydrates-Degradation
 NCU05454.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 NCU02322.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
@@ -644,7 +626,6 @@ NCU03254.7	18h_RNA	1.5	False	18	RNA	Carbohydrates-Degradation
 NCU04963.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 NCU07169.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 Average	18h_RNA	0.55637023679	True	18	RNA	Carbohydrates-Degradation
-StdDev	18h_RNA	0.440247240985	False	18	RNA	Carbohydrates-Degradation
 NCU08687.7	18h_protein	1.0	False	18	protein	Carbohydrates-Degradation
 NCU05454.7	18h_protein	0.5	False	18	protein	Carbohydrates-Degradation
 NCU02322.7	18h_protein	1.0	False	18	protein	Carbohydrates-Degradation
@@ -678,7 +659,6 @@ NCU03254.7	18h_protein	1.5	False	18	protein	Carbohydrates-Degradation
 NCU04963.7	18h_protein	0.5	False	18	protein	Carbohydrates-Degradation
 NCU07169.7	18h_protein	0.0	False	18	protein	Carbohydrates-Degradation
 Average	18h_protein	0.890625	True	18	protein	Carbohydrates-Degradation
-StdDev	18h_protein	0.541040302911	False	18	protein	Carbohydrates-Degradation
 NCU08687.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
 NCU05454.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
 NCU02322.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
@@ -712,7 +692,6 @@ NCU03254.7	20h_RNA	1.86602540378	False	20	RNA	Carbohydrates-Degradation
 NCU04963.7	20h_RNA	1.0	False	20	RNA	Carbohydrates-Degradation
 NCU07169.7	20h_RNA	1.0	False	20	RNA	Carbohydrates-Degradation
 Average	20h_RNA	0.523177179712	True	20	RNA	Carbohydrates-Degradation
-StdDev	20h_RNA	0.514613931071	False	20	RNA	Carbohydrates-Degradation
 NCU08687.7	20h_protein	1.5	False	20	protein	Carbohydrates-Degradation
 NCU05454.7	20h_protein	1.0	False	20	protein	Carbohydrates-Degradation
 NCU02322.7	20h_protein	1.5	False	20	protein	Carbohydrates-Degradation
@@ -746,7 +725,6 @@ NCU03254.7	20h_protein	1.0	False	20	protein	Carbohydrates-Degradation
 NCU04963.7	20h_protein	0.133974596216	False	20	protein	Carbohydrates-Degradation
 NCU07169.7	20h_protein	0.133974596216	False	20	protein	Carbohydrates-Degradation
 Average	20h_protein	1.11774841226	True	20	protein	Carbohydrates-Degradation
-StdDev	20h_protein	0.668635036031	False	20	protein	Carbohydrates-Degradation
 NCU08687.7	22h_RNA	0.5	False	22	RNA	Carbohydrates-Degradation
 NCU05454.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Degradation
 NCU02322.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Degradation
@@ -780,7 +758,6 @@ NCU03254.7	22h_RNA	2.0	False	22	RNA	Carbohydrates-Degradation
 NCU04963.7	22h_RNA	1.5	False	22	RNA	Carbohydrates-Degradation
 NCU07169.7	22h_RNA	1.5	False	22	RNA	Carbohydrates-Degradation
 Average	22h_RNA	0.617748412263	True	22	RNA	Carbohydrates-Degradation
-StdDev	22h_RNA	0.674867560098	False	22	RNA	Carbohydrates-Degradation
 NCU08687.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Degradation
 NCU05454.7	22h_protein	1.5	False	22	protein	Carbohydrates-Degradation
 NCU02322.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Degradation
@@ -814,4 +791,3 @@ NCU03254.7	22h_protein	0.5	False	22	protein	Carbohydrates-Degradation
 NCU04963.7	22h_protein	0.0	False	22	protein	Carbohydrates-Degradation
 NCU07169.7	22h_protein	0.5	False	22	protein	Carbohydrates-Degradation
 Average	22h_protein	1.31332123255	True	22	protein	Carbohydrates-Degradation
-StdDev	22h_protein	0.747047391556	False	22	protein	Carbohydrates-Degradation

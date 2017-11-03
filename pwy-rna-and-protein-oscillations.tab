@@ -32,7 +32,6 @@ NCU03254.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 NCU04963.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 NCU07169.7	0h_RNA	1.86602540378	False	0	RNA	Carbohydrates-Degradation
 Average	0h_RNA	0.814743649053	True	0	RNA	Carbohydrates-Degradation
-StdDev	0h_RNA	0.758323865134	False	0	RNA	Carbohydrates-Degradation
 NCU08687.7	0h_protein	2.0	False	0	protein	Carbohydrates-Degradation
 NCU05454.7	0h_protein	1.86602540378	False	0	protein	Carbohydrates-Degradation
 NCU02322.7	0h_protein	2.0	False	0	protein	Carbohydrates-Degradation
@@ -66,7 +65,6 @@ NCU03254.7	0h_protein	0.133974596216	False	0	protein	Carbohydrates-Degradation
 NCU04963.7	0h_protein	0.133974596216	False	0	protein	Carbohydrates-Degradation
 NCU07169.7	0h_protein	1.0	False	0	protein	Carbohydrates-Degradation
 Average	0h_protein	1.4249398816	True	0	protein	Carbohydrates-Degradation
-StdDev	0h_protein	0.717452853518	False	0	protein	Carbohydrates-Degradation
 NCU08687.7	2h_RNA	1.5	False	2	RNA	Carbohydrates-Degradation
 NCU05454.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Degradation
 NCU02322.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Degradation
@@ -100,7 +98,6 @@ NCU03254.7	2h_RNA	1.5	False	2	RNA	Carbohydrates-Degradation
 NCU04963.7	2h_RNA	2.0	False	2	RNA	Carbohydrates-Degradation
 NCU07169.7	2h_RNA	2.0	False	2	RNA	Carbohydrates-Degradation
 Average	2h_RNA	1.06137817547	True	2	RNA	Carbohydrates-Degradation
-StdDev	2h_RNA	0.709961421187	False	2	RNA	Carbohydrates-Degradation
 NCU08687.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Degradation
 NCU05454.7	2h_protein	2.0	False	2	protein	Carbohydrates-Degradation
 NCU02322.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Degradation
@@ -134,7 +131,6 @@ NCU03254.7	2h_protein	0.0	False	2	protein	Carbohydrates-Degradation
 NCU04963.7	2h_protein	0.5	False	2	protein	Carbohydrates-Degradation
 NCU07169.7	2h_protein	1.5	False	2	protein	Carbohydrates-Degradation
 Average	2h_protein	1.42269623255	True	2	protein	Carbohydrates-Degradation
-StdDev	2h_protein	0.600325241003	False	2	protein	Carbohydrates-Degradation
 NCU08687.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 NCU05454.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
 NCU02322.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
@@ -168,7 +164,6 @@ NCU03254.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Degradation
 NCU04963.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 NCU07169.7	4h_RNA	1.86602540378	False	4	RNA	Carbohydrates-Degradation
 Average	4h_RNA	1.29156646934	True	4	RNA	Carbohydrates-Degradation
-StdDev	4h_RNA	0.559845062454	False	4	RNA	Carbohydrates-Degradation
 NCU08687.7	4h_protein	1.5	False	4	protein	Carbohydrates-Degradation
 NCU05454.7	4h_protein	1.86602540378	False	4	protein	Carbohydrates-Degradation
 NCU02322.7	4h_protein	1.5	False	4	protein	Carbohydrates-Degradation
@@ -202,7 +197,6 @@ NCU03254.7	4h_protein	0.133974596216	False	4	protein	Carbohydrates-Degradation
 NCU04963.7	4h_protein	1.0	False	4	protein	Carbohydrates-Degradation
 NCU07169.7	4h_protein	1.86602540378	False	4	protein	Carbohydrates-Degradation
 Average	4h_protein	1.30719146934	True	4	protein	Carbohydrates-Degradation
-StdDev	4h_protein	0.499383020499	False	4	protein	Carbohydrates-Degradation
 NCU08687.7	6h_RNA	2.0	False	6	RNA	Carbohydrates-Degradation
 NCU05454.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 NCU02322.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
@@ -236,7 +230,6 @@ NCU03254.7	6h_RNA	0.5	False	6	RNA	Carbohydrates-Degradation
 NCU04963.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 NCU07169.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Degradation
 Average	6h_RNA	1.44362976321	True	6	RNA	Carbohydrates-Degradation
-StdDev	6h_RNA	0.440247240984	False	6	RNA	Carbohydrates-Degradation
 NCU08687.7	6h_protein	1.0	False	6	protein	Carbohydrates-Degradation
 NCU05454.7	6h_protein	1.5	False	6	protein	Carbohydrates-Degradation
 NCU02322.7	6h_protein	1.0	False	6	protein	Carbohydrates-Degradation
@@ -270,7 +263,6 @@ NCU03254.7	6h_protein	0.5	False	6	protein	Carbohydrates-Degradation
 NCU04963.7	6h_protein	1.5	False	6	protein	Carbohydrates-Degradation
 NCU07169.7	6h_protein	2.0	False	6	protein	Carbohydrates-Degradation
 Average	6h_protein	1.109375	True	6	protein	Carbohydrates-Degradation
-StdDev	6h_protein	0.541040302911	False	6	protein	Carbohydrates-Degradation
 NCU08687.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
 NCU05454.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
 NCU02322.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Degradation
@@ -304,7 +296,6 @@ NCU03254.7	8h_RNA	0.133974596216	False	8	RNA	Carbohydrates-Degradation
 NCU04963.7	8h_RNA	1.0	False	8	RNA	Carbohydrates-Degradation
 NCU07169.7	8h_RNA	1.0	False	8	RNA	Carbohydrates-Degradation
 Average	8h_RNA	1.47682282029	True	8	RNA	Carbohydrates-Degradation
-StdDev	8h_RNA	0.51461393107	False	8	RNA	Carbohydrates-Degradation
 NCU08687.7	8h_protein	0.5	False	8	protein	Carbohydrates-Degradation
 NCU05454.7	8h_protein	1.0	False	8	protein	Carbohydrates-Degradation
 NCU02322.7	8h_protein	0.5	False	8	protein	Carbohydrates-Degradation
@@ -338,7 +329,6 @@ NCU03254.7	8h_protein	1.0	False	8	protein	Carbohydrates-Degradation
 NCU04963.7	8h_protein	1.86602540378	False	8	protein	Carbohydrates-Degradation
 NCU07169.7	8h_protein	1.86602540378	False	8	protein	Carbohydrates-Degradation
 Average	8h_protein	0.882251587736	True	8	protein	Carbohydrates-Degradation
-StdDev	8h_protein	0.668635036031	False	8	protein	Carbohydrates-Degradation
 NCU08687.7	10h_RNA	1.5	False	10	RNA	Carbohydrates-Degradation
 NCU05454.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Degradation
 NCU02322.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Degradation
@@ -372,7 +362,6 @@ NCU03254.7	10h_RNA	0.0	False	10	RNA	Carbohydrates-Degradation
 NCU04963.7	10h_RNA	0.5	False	10	RNA	Carbohydrates-Degradation
 NCU07169.7	10h_RNA	0.5	False	10	RNA	Carbohydrates-Degradation
 Average	10h_RNA	1.38225158774	True	10	RNA	Carbohydrates-Degradation
-StdDev	10h_RNA	0.674867560098	False	10	RNA	Carbohydrates-Degradation
 NCU08687.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Degradation
 NCU05454.7	10h_protein	0.5	False	10	protein	Carbohydrates-Degradation
 NCU02322.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Degradation
@@ -406,7 +395,6 @@ NCU03254.7	10h_protein	1.5	False	10	protein	Carbohydrates-Degradation
 NCU04963.7	10h_protein	2.0	False	10	protein	Carbohydrates-Degradation
 NCU07169.7	10h_protein	1.5	False	10	protein	Carbohydrates-Degradation
 Average	10h_protein	0.686678767449	True	10	protein	Carbohydrates-Degradation
-StdDev	10h_protein	0.747047391557	False	10	protein	Carbohydrates-Degradation
 NCU08687.7	12h_RNA	1.0	False	12	RNA	Carbohydrates-Degradation
 NCU05454.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Degradation
 NCU02322.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Degradation
@@ -440,7 +428,6 @@ NCU03254.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 NCU04963.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 NCU07169.7	12h_RNA	0.133974596216	False	12	RNA	Carbohydrates-Degradation
 Average	12h_RNA	1.18525635094	True	12	RNA	Carbohydrates-Degradation
-StdDev	12h_RNA	0.758323865134	False	12	RNA	Carbohydrates-Degradation
 NCU08687.7	12h_protein	0.0	False	12	protein	Carbohydrates-Degradation
 NCU05454.7	12h_protein	0.133974596216	False	12	protein	Carbohydrates-Degradation
 NCU02322.7	12h_protein	0.0	False	12	protein	Carbohydrates-Degradation
@@ -474,7 +461,6 @@ NCU03254.7	12h_protein	1.86602540378	False	12	protein	Carbohydrates-Degradation
 NCU04963.7	12h_protein	1.86602540378	False	12	protein	Carbohydrates-Degradation
 NCU07169.7	12h_protein	1.0	False	12	protein	Carbohydrates-Degradation
 Average	12h_protein	0.575060118395	True	12	protein	Carbohydrates-Degradation
-StdDev	12h_protein	0.717452853517	False	12	protein	Carbohydrates-Degradation
 NCU08687.7	14h_RNA	0.5	False	14	RNA	Carbohydrates-Degradation
 NCU05454.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Degradation
 NCU02322.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Degradation
@@ -508,7 +494,6 @@ NCU03254.7	14h_RNA	0.5	False	14	RNA	Carbohydrates-Degradation
 NCU04963.7	14h_RNA	0.0	False	14	RNA	Carbohydrates-Degradation
 NCU07169.7	14h_RNA	0.0	False	14	RNA	Carbohydrates-Degradation
 Average	14h_RNA	0.938621824527	True	14	RNA	Carbohydrates-Degradation
-StdDev	14h_RNA	0.709961421188	False	14	RNA	Carbohydrates-Degradation
 NCU08687.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Degradation
 NCU05454.7	14h_protein	0.0	False	14	protein	Carbohydrates-Degradation
 NCU02322.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Degradation
@@ -542,7 +527,6 @@ NCU03254.7	14h_protein	2.0	False	14	protein	Carbohydrates-Degradation
 NCU04963.7	14h_protein	1.5	False	14	protein	Carbohydrates-Degradation
 NCU07169.7	14h_protein	0.5	False	14	protein	Carbohydrates-Degradation
 Average	14h_protein	0.577303767449	True	14	protein	Carbohydrates-Degradation
-StdDev	14h_protein	0.600325241004	False	14	protein	Carbohydrates-Degradation
 NCU08687.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 NCU05454.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
 NCU02322.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
@@ -576,7 +560,6 @@ NCU03254.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Degradation
 NCU04963.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 NCU07169.7	16h_RNA	0.133974596216	False	16	RNA	Carbohydrates-Degradation
 Average	16h_RNA	0.708433530658	True	16	RNA	Carbohydrates-Degradation
-StdDev	16h_RNA	0.559845062455	False	16	RNA	Carbohydrates-Degradation
 NCU08687.7	16h_protein	0.5	False	16	protein	Carbohydrates-Degradation
 NCU05454.7	16h_protein	0.133974596216	False	16	protein	Carbohydrates-Degradation
 NCU02322.7	16h_protein	0.5	False	16	protein	Carbohydrates-Degradation
@@ -610,7 +593,6 @@ NCU03254.7	16h_protein	1.86602540378	False	16	protein	Carbohydrates-Degradation
 NCU04963.7	16h_protein	1.0	False	16	protein	Carbohydrates-Degradation
 NCU07169.7	16h_protein	0.133974596216	False	16	protein	Carbohydrates-Degradation
 Average	16h_protein	0.692808530658	True	16	protein	Carbohydrates-Degradation
-StdDev	16h_protein	0.499383020499	False	16	protein	Carbohydrates-Degradation
 NCU08687.7	18h_RNA	0.0	False	18	RNA	Carbohydrates-Degradation
 NCU05454.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 NCU02322.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
@@ -644,7 +626,6 @@ NCU03254.7	18h_RNA	1.5	False	18	RNA	Carbohydrates-Degradation
 NCU04963.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 NCU07169.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Degradation
 Average	18h_RNA	0.55637023679	True	18	RNA	Carbohydrates-Degradation
-StdDev	18h_RNA	0.440247240985	False	18	RNA	Carbohydrates-Degradation
 NCU08687.7	18h_protein	1.0	False	18	protein	Carbohydrates-Degradation
 NCU05454.7	18h_protein	0.5	False	18	protein	Carbohydrates-Degradation
 NCU02322.7	18h_protein	1.0	False	18	protein	Carbohydrates-Degradation
@@ -678,7 +659,6 @@ NCU03254.7	18h_protein	1.5	False	18	protein	Carbohydrates-Degradation
 NCU04963.7	18h_protein	0.5	False	18	protein	Carbohydrates-Degradation
 NCU07169.7	18h_protein	0.0	False	18	protein	Carbohydrates-Degradation
 Average	18h_protein	0.890625	True	18	protein	Carbohydrates-Degradation
-StdDev	18h_protein	0.541040302911	False	18	protein	Carbohydrates-Degradation
 NCU08687.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
 NCU05454.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
 NCU02322.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Degradation
@@ -712,7 +692,6 @@ NCU03254.7	20h_RNA	1.86602540378	False	20	RNA	Carbohydrates-Degradation
 NCU04963.7	20h_RNA	1.0	False	20	RNA	Carbohydrates-Degradation
 NCU07169.7	20h_RNA	1.0	False	20	RNA	Carbohydrates-Degradation
 Average	20h_RNA	0.523177179712	True	20	RNA	Carbohydrates-Degradation
-StdDev	20h_RNA	0.514613931071	False	20	RNA	Carbohydrates-Degradation
 NCU08687.7	20h_protein	1.5	False	20	protein	Carbohydrates-Degradation
 NCU05454.7	20h_protein	1.0	False	20	protein	Carbohydrates-Degradation
 NCU02322.7	20h_protein	1.5	False	20	protein	Carbohydrates-Degradation
@@ -746,7 +725,6 @@ NCU03254.7	20h_protein	1.0	False	20	protein	Carbohydrates-Degradation
 NCU04963.7	20h_protein	0.133974596216	False	20	protein	Carbohydrates-Degradation
 NCU07169.7	20h_protein	0.133974596216	False	20	protein	Carbohydrates-Degradation
 Average	20h_protein	1.11774841226	True	20	protein	Carbohydrates-Degradation
-StdDev	20h_protein	0.668635036031	False	20	protein	Carbohydrates-Degradation
 NCU08687.7	22h_RNA	0.5	False	22	RNA	Carbohydrates-Degradation
 NCU05454.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Degradation
 NCU02322.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Degradation
@@ -780,7 +758,6 @@ NCU03254.7	22h_RNA	2.0	False	22	RNA	Carbohydrates-Degradation
 NCU04963.7	22h_RNA	1.5	False	22	RNA	Carbohydrates-Degradation
 NCU07169.7	22h_RNA	1.5	False	22	RNA	Carbohydrates-Degradation
 Average	22h_RNA	0.617748412263	True	22	RNA	Carbohydrates-Degradation
-StdDev	22h_RNA	0.674867560098	False	22	RNA	Carbohydrates-Degradation
 NCU08687.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Degradation
 NCU05454.7	22h_protein	1.5	False	22	protein	Carbohydrates-Degradation
 NCU02322.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Degradation
@@ -814,7 +791,6 @@ NCU03254.7	22h_protein	0.5	False	22	protein	Carbohydrates-Degradation
 NCU04963.7	22h_protein	0.0	False	22	protein	Carbohydrates-Degradation
 NCU07169.7	22h_protein	0.5	False	22	protein	Carbohydrates-Degradation
 Average	22h_protein	1.31332123255	True	22	protein	Carbohydrates-Degradation
-StdDev	22h_protein	0.747047391556	False	22	protein	Carbohydrates-Degradation
 NCU03254.7	0h_RNA	1.86602540378	False	0	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	0h_RNA	1.86602540378	False	0	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	0h_RNA	1.86602540378	False	0	RNA	Pentose-Phosphate-Cycle
@@ -826,7 +802,6 @@ NCU07281.7	0h_RNA	0.133974596216	False	0	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	0h_RNA	0.133974596216	False	0	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	0h_RNA	1.5	False	0	RNA	Pentose-Phosphate-Cycle
 Average	0h_RNA	1.13660254038	True	0	RNA	Pentose-Phosphate-Cycle
-StdDev	0h_RNA	0.825433065705	False	0	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 NCU04963.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 NCU07169.7	0h_protein	1.0	False	0	protein	Pentose-Phosphate-Cycle
@@ -838,7 +813,6 @@ NCU07281.7	0h_protein	2.0	False	0	protein	Pentose-Phosphate-Cycle
 NCU03100.7	0h_protein	0.5	False	0	protein	Pentose-Phosphate-Cycle
 NCU09111.7	0h_protein	0.133974596216	False	0	protein	Pentose-Phosphate-Cycle
 Average	0h_protein	1.04019237886	True	0	protein	Pentose-Phosphate-Cycle
-StdDev	0h_protein	0.820600129589	False	0	protein	Pentose-Phosphate-Cycle
 NCU03254.7	2h_RNA	1.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	2h_RNA	2.0	False	2	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	2h_RNA	2.0	False	2	RNA	Pentose-Phosphate-Cycle
@@ -850,7 +824,6 @@ NCU07281.7	2h_RNA	0.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	2h_RNA	0.5	False	2	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	2h_RNA	1.86602540378	False	2	RNA	Pentose-Phosphate-Cycle
 Average	2h_RNA	1.28660254038	True	2	RNA	Pentose-Phosphate-Cycle
-StdDev	2h_RNA	0.665476508863	False	2	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	2h_protein	0.0	False	2	protein	Pentose-Phosphate-Cycle
 NCU04963.7	2h_protein	0.5	False	2	protein	Pentose-Phosphate-Cycle
 NCU07169.7	2h_protein	1.5	False	2	protein	Pentose-Phosphate-Cycle
@@ -862,7 +835,6 @@ NCU07281.7	2h_protein	1.86602540378	False	2	protein	Pentose-Phosphate-Cycle
 NCU03100.7	2h_protein	1.0	False	2	protein	Pentose-Phosphate-Cycle
 NCU09111.7	2h_protein	0.5	False	2	protein	Pentose-Phosphate-Cycle
 Average	2h_protein	1.19641016151	True	2	protein	Pentose-Phosphate-Cycle
-StdDev	2h_protein	0.660623227303	False	2	protein	Pentose-Phosphate-Cycle
 NCU03254.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	4h_RNA	1.86602540378	False	4	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	4h_RNA	1.86602540378	False	4	RNA	Pentose-Phosphate-Cycle
@@ -874,7 +846,6 @@ NCU07281.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	4h_RNA	1.0	False	4	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	4h_RNA	2.0	False	4	RNA	Pentose-Phosphate-Cycle
 Average	4h_RNA	1.35980762113	True	4	RNA	Pentose-Phosphate-Cycle
-StdDev	4h_RNA	0.442197326735	False	4	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	4h_protein	0.133974596216	False	4	protein	Pentose-Phosphate-Cycle
 NCU04963.7	4h_protein	1.0	False	4	protein	Pentose-Phosphate-Cycle
 NCU07169.7	4h_protein	1.86602540378	False	4	protein	Pentose-Phosphate-Cycle
@@ -886,7 +857,6 @@ NCU07281.7	4h_protein	1.5	False	4	protein	Pentose-Phosphate-Cycle
 NCU03100.7	4h_protein	1.5	False	4	protein	Pentose-Phosphate-Cycle
 NCU09111.7	4h_protein	1.0	False	4	protein	Pentose-Phosphate-Cycle
 Average	4h_protein	1.3	True	4	protein	Pentose-Phosphate-Cycle
-StdDev	4h_protein	0.458257569495	False	4	protein	Pentose-Phosphate-Cycle
 NCU03254.7	6h_RNA	0.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
@@ -898,7 +868,6 @@ NCU07281.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	6h_RNA	1.5	False	6	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	6h_RNA	1.86602540378	False	6	RNA	Pentose-Phosphate-Cycle
 Average	6h_RNA	1.33660254038	True	6	RNA	Pentose-Phosphate-Cycle
-StdDev	6h_RNA	0.432086484179	False	6	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	6h_protein	0.5	False	6	protein	Pentose-Phosphate-Cycle
 NCU04963.7	6h_protein	1.5	False	6	protein	Pentose-Phosphate-Cycle
 NCU07169.7	6h_protein	2.0	False	6	protein	Pentose-Phosphate-Cycle
@@ -910,7 +879,6 @@ NCU07281.7	6h_protein	1.0	False	6	protein	Pentose-Phosphate-Cycle
 NCU03100.7	6h_protein	1.86602540378	False	6	protein	Pentose-Phosphate-Cycle
 NCU09111.7	6h_protein	1.5	False	6	protein	Pentose-Phosphate-Cycle
 Average	6h_protein	1.32320508076	True	6	protein	Pentose-Phosphate-Cycle
-StdDev	6h_protein	0.46961524227	False	6	protein	Pentose-Phosphate-Cycle
 NCU03254.7	8h_RNA	0.133974596216	False	8	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	8h_RNA	1.0	False	8	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	8h_RNA	1.0	False	8	RNA	Pentose-Phosphate-Cycle
@@ -922,7 +890,6 @@ NCU07281.7	8h_RNA	1.86602540378	False	8	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	8h_RNA	1.86602540378	False	8	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	8h_RNA	1.5	False	8	RNA	Pentose-Phosphate-Cycle
 Average	8h_RNA	1.22320508076	True	8	RNA	Pentose-Phosphate-Cycle
-StdDev	8h_RNA	0.652057890008	False	8	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	8h_protein	1.0	False	8	protein	Pentose-Phosphate-Cycle
 NCU04963.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
 NCU07169.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
@@ -934,7 +901,6 @@ NCU07281.7	8h_protein	0.5	False	8	protein	Pentose-Phosphate-Cycle
 NCU03100.7	8h_protein	2.0	False	8	protein	Pentose-Phosphate-Cycle
 NCU09111.7	8h_protein	1.86602540378	False	8	protein	Pentose-Phosphate-Cycle
 Average	8h_protein	1.25980762113	True	8	protein	Pentose-Phosphate-Cycle
-StdDev	8h_protein	0.676387462922	False	8	protein	Pentose-Phosphate-Cycle
 NCU03254.7	10h_RNA	0.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	10h_RNA	0.5	False	10	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	10h_RNA	0.5	False	10	RNA	Pentose-Phosphate-Cycle
@@ -946,7 +912,6 @@ NCU07281.7	10h_RNA	2.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	10h_RNA	2.0	False	10	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	10h_RNA	1.0	False	10	RNA	Pentose-Phosphate-Cycle
 Average	10h_RNA	1.05	True	10	RNA	Pentose-Phosphate-Cycle
-StdDev	10h_RNA	0.820060973343	False	10	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	10h_protein	1.5	False	10	protein	Pentose-Phosphate-Cycle
 NCU04963.7	10h_protein	2.0	False	10	protein	Pentose-Phosphate-Cycle
 NCU07169.7	10h_protein	1.5	False	10	protein	Pentose-Phosphate-Cycle
@@ -958,7 +923,6 @@ NCU07281.7	10h_protein	0.133974596216	False	10	protein	Pentose-Phosphate-Cycle
 NCU03100.7	10h_protein	1.86602540378	False	10	protein	Pentose-Phosphate-Cycle
 NCU09111.7	10h_protein	2.0	False	10	protein	Pentose-Phosphate-Cycle
 Average	10h_protein	1.12679491924	True	10	protein	Pentose-Phosphate-Cycle
-StdDev	10h_protein	0.826996401717	False	10	protein	Pentose-Phosphate-Cycle
 NCU03254.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	12h_RNA	0.133974596216	False	12	RNA	Pentose-Phosphate-Cycle
@@ -970,7 +934,6 @@ NCU07281.7	12h_RNA	1.86602540378	False	12	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	12h_RNA	1.86602540378	False	12	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	12h_RNA	0.5	False	12	RNA	Pentose-Phosphate-Cycle
 Average	12h_RNA	0.86339745962	True	12	RNA	Pentose-Phosphate-Cycle
-StdDev	12h_RNA	0.825433065704	False	12	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 NCU04963.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 NCU07169.7	12h_protein	1.0	False	12	protein	Pentose-Phosphate-Cycle
@@ -982,7 +945,6 @@ NCU07281.7	12h_protein	0.0	False	12	protein	Pentose-Phosphate-Cycle
 NCU03100.7	12h_protein	1.5	False	12	protein	Pentose-Phosphate-Cycle
 NCU09111.7	12h_protein	1.86602540378	False	12	protein	Pentose-Phosphate-Cycle
 Average	12h_protein	0.959807621134	True	12	protein	Pentose-Phosphate-Cycle
-StdDev	12h_protein	0.820600129587	False	12	protein	Pentose-Phosphate-Cycle
 NCU03254.7	14h_RNA	0.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	14h_RNA	0.0	False	14	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	14h_RNA	0.0	False	14	RNA	Pentose-Phosphate-Cycle
@@ -994,7 +956,6 @@ NCU07281.7	14h_RNA	1.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	14h_RNA	1.5	False	14	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	14h_RNA	0.133974596216	False	14	RNA	Pentose-Phosphate-Cycle
 Average	14h_RNA	0.713397459622	True	14	RNA	Pentose-Phosphate-Cycle
-StdDev	14h_RNA	0.665476508863	False	14	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	14h_protein	2.0	False	14	protein	Pentose-Phosphate-Cycle
 NCU04963.7	14h_protein	1.5	False	14	protein	Pentose-Phosphate-Cycle
 NCU07169.7	14h_protein	0.5	False	14	protein	Pentose-Phosphate-Cycle
@@ -1006,7 +967,6 @@ NCU07281.7	14h_protein	0.133974596216	False	14	protein	Pentose-Phosphate-Cycle
 NCU03100.7	14h_protein	1.0	False	14	protein	Pentose-Phosphate-Cycle
 NCU09111.7	14h_protein	1.5	False	14	protein	Pentose-Phosphate-Cycle
 Average	14h_protein	0.803589838486	True	14	protein	Pentose-Phosphate-Cycle
-StdDev	14h_protein	0.660623227304	False	14	protein	Pentose-Phosphate-Cycle
 NCU03254.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	16h_RNA	0.133974596216	False	16	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	16h_RNA	0.133974596216	False	16	RNA	Pentose-Phosphate-Cycle
@@ -1018,7 +978,6 @@ NCU07281.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	16h_RNA	1.0	False	16	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	16h_RNA	0.0	False	16	RNA	Pentose-Phosphate-Cycle
 Average	16h_RNA	0.640192378865	True	16	RNA	Pentose-Phosphate-Cycle
-StdDev	16h_RNA	0.442197326736	False	16	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	16h_protein	1.86602540378	False	16	protein	Pentose-Phosphate-Cycle
 NCU04963.7	16h_protein	1.0	False	16	protein	Pentose-Phosphate-Cycle
 NCU07169.7	16h_protein	0.133974596216	False	16	protein	Pentose-Phosphate-Cycle
@@ -1030,7 +989,6 @@ NCU07281.7	16h_protein	0.5	False	16	protein	Pentose-Phosphate-Cycle
 NCU03100.7	16h_protein	0.5	False	16	protein	Pentose-Phosphate-Cycle
 NCU09111.7	16h_protein	1.0	False	16	protein	Pentose-Phosphate-Cycle
 Average	16h_protein	0.7	True	16	protein	Pentose-Phosphate-Cycle
-StdDev	16h_protein	0.458257569494	False	16	protein	Pentose-Phosphate-Cycle
 NCU03254.7	18h_RNA	1.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
@@ -1042,7 +1000,6 @@ NCU07281.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	18h_RNA	0.5	False	18	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	18h_RNA	0.133974596216	False	18	RNA	Pentose-Phosphate-Cycle
 Average	18h_RNA	0.663397459622	True	18	RNA	Pentose-Phosphate-Cycle
-StdDev	18h_RNA	0.43208648418	False	18	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	18h_protein	1.5	False	18	protein	Pentose-Phosphate-Cycle
 NCU04963.7	18h_protein	0.5	False	18	protein	Pentose-Phosphate-Cycle
 NCU07169.7	18h_protein	0.0	False	18	protein	Pentose-Phosphate-Cycle
@@ -1054,7 +1011,6 @@ NCU07281.7	18h_protein	1.0	False	18	protein	Pentose-Phosphate-Cycle
 NCU03100.7	18h_protein	0.133974596216	False	18	protein	Pentose-Phosphate-Cycle
 NCU09111.7	18h_protein	0.5	False	18	protein	Pentose-Phosphate-Cycle
 Average	18h_protein	0.676794919243	True	18	protein	Pentose-Phosphate-Cycle
-StdDev	18h_protein	0.469615242271	False	18	protein	Pentose-Phosphate-Cycle
 NCU03254.7	20h_RNA	1.86602540378	False	20	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	20h_RNA	1.0	False	20	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	20h_RNA	1.0	False	20	RNA	Pentose-Phosphate-Cycle
@@ -1066,7 +1022,6 @@ NCU07281.7	20h_RNA	0.133974596216	False	20	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	20h_RNA	0.133974596216	False	20	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	20h_RNA	0.5	False	20	RNA	Pentose-Phosphate-Cycle
 Average	20h_RNA	0.776794919242	True	20	RNA	Pentose-Phosphate-Cycle
-StdDev	20h_RNA	0.652057890008	False	20	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	20h_protein	1.0	False	20	protein	Pentose-Phosphate-Cycle
 NCU04963.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
 NCU07169.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
@@ -1078,7 +1033,6 @@ NCU07281.7	20h_protein	1.5	False	20	protein	Pentose-Phosphate-Cycle
 NCU03100.7	20h_protein	0.0	False	20	protein	Pentose-Phosphate-Cycle
 NCU09111.7	20h_protein	0.133974596216	False	20	protein	Pentose-Phosphate-Cycle
 Average	20h_protein	0.740192378865	True	20	protein	Pentose-Phosphate-Cycle
-StdDev	20h_protein	0.676387462923	False	20	protein	Pentose-Phosphate-Cycle
 NCU03254.7	22h_RNA	2.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU04963.7	22h_RNA	1.5	False	22	RNA	Pentose-Phosphate-Cycle
 NCU07169.7	22h_RNA	1.5	False	22	RNA	Pentose-Phosphate-Cycle
@@ -1090,7 +1044,6 @@ NCU07281.7	22h_RNA	0.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU03100.7	22h_RNA	0.0	False	22	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	22h_RNA	1.0	False	22	RNA	Pentose-Phosphate-Cycle
 Average	22h_RNA	0.95	True	22	RNA	Pentose-Phosphate-Cycle
-StdDev	22h_RNA	0.820060973343	False	22	RNA	Pentose-Phosphate-Cycle
 NCU03254.7	22h_protein	0.5	False	22	protein	Pentose-Phosphate-Cycle
 NCU04963.7	22h_protein	0.0	False	22	protein	Pentose-Phosphate-Cycle
 NCU07169.7	22h_protein	0.5	False	22	protein	Pentose-Phosphate-Cycle
@@ -1102,7 +1055,6 @@ NCU07281.7	22h_protein	1.86602540378	False	22	protein	Pentose-Phosphate-Cycle
 NCU03100.7	22h_protein	0.133974596216	False	22	protein	Pentose-Phosphate-Cycle
 NCU09111.7	22h_protein	0.0	False	22	protein	Pentose-Phosphate-Cycle
 Average	22h_protein	0.873205080755	True	22	protein	Pentose-Phosphate-Cycle
-StdDev	22h_protein	0.826996401716	False	22	protein	Pentose-Phosphate-Cycle
 NCU03756.7	0h_RNA	0.5	False	0	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	0h_RNA	0.133974596216	False	0	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	0h_RNA	1.0	False	0	RNA	Amino-Acid-Biosynthesis
@@ -1125,7 +1077,6 @@ NCU00792.7	0h_RNA	1.5	False	0	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	0h_RNA	0.133974596216	False	0	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	0h_RNA	0.133974596216	False	0	RNA	Amino-Acid-Biosynthesis
 Average	0h_RNA	0.823992741776	True	0	RNA	Amino-Acid-Biosynthesis
-StdDev	0h_RNA	0.693488433182	False	0	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	0h_protein	1.5	False	0	protein	Amino-Acid-Biosynthesis
 NCU00409.7	0h_protein	0.0	False	0	protein	Amino-Acid-Biosynthesis
 NCU02333.7	0h_protein	0.5	False	0	protein	Amino-Acid-Biosynthesis
@@ -1148,7 +1099,6 @@ NCU00792.7	0h_protein	0.133974596216	False	0	protein	Amino-Acid-Biosynthesis
 NCU01666.7	0h_protein	1.86602540378	False	0	protein	Amino-Acid-Biosynthesis
 NCU02450.7	0h_protein	1.5	False	0	protein	Amino-Acid-Biosynthesis
 Average	0h_protein	1.07142857143	True	0	protein	Amino-Acid-Biosynthesis
-StdDev	0h_protein	0.791107034562	False	0	protein	Amino-Acid-Biosynthesis
 NCU03756.7	2h_RNA	1.0	False	2	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	2h_RNA	0.5	False	2	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	2h_RNA	1.5	False	2	RNA	Amino-Acid-Biosynthesis
@@ -1171,7 +1121,6 @@ NCU00792.7	2h_RNA	1.86602540378	False	2	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	2h_RNA	0.5	False	2	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	2h_RNA	0.5	False	2	RNA	Amino-Acid-Biosynthesis
 Average	2h_RNA	1.04590960072	True	2	RNA	Amino-Acid-Biosynthesis
-StdDev	2h_RNA	0.697128070483	False	2	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	2h_protein	1.0	False	2	protein	Amino-Acid-Biosynthesis
 NCU00409.7	2h_protein	0.133974596216	False	2	protein	Amino-Acid-Biosynthesis
 NCU02333.7	2h_protein	0.133974596216	False	2	protein	Amino-Acid-Biosynthesis
@@ -1194,7 +1143,6 @@ NCU00792.7	2h_protein	0.5	False	2	protein	Amino-Acid-Biosynthesis
 NCU01666.7	2h_protein	2.0	False	2	protein	Amino-Acid-Biosynthesis
 NCU02450.7	2h_protein	1.86602540378	False	2	protein	Amino-Acid-Biosynthesis
 Average	2h_protein	1.13647740018	True	2	protein	Amino-Acid-Biosynthesis
-StdDev	2h_protein	0.79758123348	False	2	protein	Amino-Acid-Biosynthesis
 NCU03756.7	4h_RNA	1.5	False	4	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	4h_RNA	1.0	False	4	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	4h_RNA	1.86602540378	False	4	RNA	Amino-Acid-Biosynthesis
@@ -1217,7 +1165,6 @@ NCU00792.7	4h_RNA	2.0	False	4	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	4h_RNA	1.0	False	4	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	4h_RNA	1.0	False	4	RNA	Amino-Acid-Biosynthesis
 Average	4h_RNA	1.25552501923	True	4	RNA	Amino-Acid-Biosynthesis
-StdDev	4h_RNA	0.641012824161	False	4	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	4h_protein	0.5	False	4	protein	Amino-Acid-Biosynthesis
 NCU00409.7	4h_protein	0.5	False	4	protein	Amino-Acid-Biosynthesis
 NCU02333.7	4h_protein	0.0	False	4	protein	Amino-Acid-Biosynthesis
@@ -1240,7 +1187,6 @@ NCU00792.7	4h_protein	1.0	False	4	protein	Amino-Acid-Biosynthesis
 NCU01666.7	4h_protein	1.86602540378	False	4	protein	Amino-Acid-Biosynthesis
 NCU02450.7	4h_protein	2.0	False	4	protein	Amino-Acid-Biosynthesis
 Average	4h_protein	1.16495721977	True	4	protein	Amino-Acid-Biosynthesis
-StdDev	4h_protein	0.704697551758	False	4	protein	Amino-Acid-Biosynthesis
 NCU03756.7	6h_RNA	1.86602540378	False	6	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	6h_RNA	1.5	False	6	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	6h_RNA	2.0	False	6	RNA	Amino-Acid-Biosynthesis
@@ -1263,7 +1209,6 @@ NCU00792.7	6h_RNA	1.86602540378	False	6	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	6h_RNA	1.5	False	6	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	6h_RNA	1.5	False	6	RNA	Amino-Acid-Biosynthesis
 Average	6h_RNA	1.39667271519	True	6	RNA	Amino-Acid-Biosynthesis
-StdDev	6h_RNA	0.575105203524	False	6	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	6h_protein	0.133974596216	False	6	protein	Amino-Acid-Biosynthesis
 NCU00409.7	6h_protein	1.0	False	6	protein	Amino-Acid-Biosynthesis
 NCU02333.7	6h_protein	0.133974596216	False	6	protein	Amino-Acid-Biosynthesis
@@ -1286,7 +1231,6 @@ NCU00792.7	6h_protein	1.5	False	6	protein	Amino-Acid-Biosynthesis
 NCU01666.7	6h_protein	1.5	False	6	protein	Amino-Acid-Biosynthesis
 NCU02450.7	6h_protein	1.86602540378	False	6	protein	Amino-Acid-Biosynthesis
 Average	6h_protein	1.14923688553	True	6	protein	Amino-Acid-Biosynthesis
-StdDev	6h_protein	0.588876872566	False	6	protein	Amino-Acid-Biosynthesis
 NCU03756.7	8h_RNA	2.0	False	8	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	8h_RNA	1.86602540378	False	8	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	8h_RNA	1.86602540378	False	8	RNA	Amino-Acid-Biosynthesis
@@ -1309,7 +1253,6 @@ NCU00792.7	8h_RNA	1.5	False	8	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	8h_RNA	1.86602540378	False	8	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	8h_RNA	1.86602540378	False	8	RNA	Amino-Acid-Biosynthesis
 Average	8h_RNA	1.43153227745	True	8	RNA	Amino-Acid-Biosynthesis
-StdDev	8h_RNA	0.57068787916	False	8	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	8h_protein	0.0	False	8	protein	Amino-Acid-Biosynthesis
 NCU00409.7	8h_protein	1.5	False	8	protein	Amino-Acid-Biosynthesis
 NCU02333.7	8h_protein	0.5	False	8	protein	Amino-Acid-Biosynthesis
@@ -1332,7 +1275,6 @@ NCU00792.7	8h_protein	1.86602540378	False	8	protein	Amino-Acid-Biosynthesis
 NCU01666.7	8h_protein	1.0	False	8	protein	Amino-Acid-Biosynthesis
 NCU02450.7	8h_protein	1.5	False	8	protein	Amino-Acid-Biosynthesis
 Average	8h_protein	1.09352864834	True	8	protein	Amino-Acid-Biosynthesis
-StdDev	8h_protein	0.580078000942	False	8	protein	Amino-Acid-Biosynthesis
 NCU03756.7	10h_RNA	1.86602540378	False	10	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	10h_RNA	2.0	False	10	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	10h_RNA	1.5	False	10	RNA	Amino-Acid-Biosynthesis
@@ -1355,7 +1297,6 @@ NCU00792.7	10h_RNA	1.0	False	10	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	10h_RNA	2.0	False	10	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	10h_RNA	2.0	False	10	RNA	Amino-Acid-Biosynthesis
 Average	10h_RNA	1.35076311447	True	10	RNA	Amino-Acid-Biosynthesis
-StdDev	10h_RNA	0.633067738349	False	10	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	10h_protein	0.133974596216	False	10	protein	Amino-Acid-Biosynthesis
 NCU00409.7	10h_protein	1.86602540378	False	10	protein	Amino-Acid-Biosynthesis
 NCU02333.7	10h_protein	1.0	False	10	protein	Amino-Acid-Biosynthesis
@@ -1378,7 +1319,6 @@ NCU00792.7	10h_protein	2.0	False	10	protein	Amino-Acid-Biosynthesis
 NCU01666.7	10h_protein	0.5	False	10	protein	Amino-Acid-Biosynthesis
 NCU02450.7	10h_protein	1.0	False	10	protein	Amino-Acid-Biosynthesis
 Average	10h_protein	1.01275948535	True	10	protein	Amino-Acid-Biosynthesis
-StdDev	10h_protein	0.689947586214	False	10	protein	Amino-Acid-Biosynthesis
 NCU03756.7	12h_RNA	1.5	False	12	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	12h_RNA	1.86602540378	False	12	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	12h_RNA	1.0	False	12	RNA	Amino-Acid-Biosynthesis
@@ -1401,7 +1341,6 @@ NCU00792.7	12h_RNA	0.5	False	12	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	12h_RNA	1.86602540378	False	12	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	12h_RNA	1.86602540378	False	12	RNA	Amino-Acid-Biosynthesis
 Average	12h_RNA	1.17600725822	True	12	RNA	Amino-Acid-Biosynthesis
-StdDev	12h_RNA	0.69348843318	False	12	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	12h_protein	0.5	False	12	protein	Amino-Acid-Biosynthesis
 NCU00409.7	12h_protein	2.0	False	12	protein	Amino-Acid-Biosynthesis
 NCU02333.7	12h_protein	1.5	False	12	protein	Amino-Acid-Biosynthesis
@@ -1424,7 +1363,6 @@ NCU00792.7	12h_protein	1.86602540378	False	12	protein	Amino-Acid-Biosynthesis
 NCU01666.7	12h_protein	0.133974596216	False	12	protein	Amino-Acid-Biosynthesis
 NCU02450.7	12h_protein	0.5	False	12	protein	Amino-Acid-Biosynthesis
 Average	12h_protein	0.92857142857	True	12	protein	Amino-Acid-Biosynthesis
-StdDev	12h_protein	0.791107034562	False	12	protein	Amino-Acid-Biosynthesis
 NCU03756.7	14h_RNA	1.0	False	14	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	14h_RNA	1.5	False	14	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	14h_RNA	0.5	False	14	RNA	Amino-Acid-Biosynthesis
@@ -1447,7 +1385,6 @@ NCU00792.7	14h_RNA	0.133974596216	False	14	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	14h_RNA	1.5	False	14	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	14h_RNA	1.5	False	14	RNA	Amino-Acid-Biosynthesis
 Average	14h_RNA	0.954090399279	True	14	RNA	Amino-Acid-Biosynthesis
-StdDev	14h_RNA	0.697128070483	False	14	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	14h_protein	1.0	False	14	protein	Amino-Acid-Biosynthesis
 NCU00409.7	14h_protein	1.86602540378	False	14	protein	Amino-Acid-Biosynthesis
 NCU02333.7	14h_protein	1.86602540378	False	14	protein	Amino-Acid-Biosynthesis
@@ -1470,7 +1407,6 @@ NCU00792.7	14h_protein	1.5	False	14	protein	Amino-Acid-Biosynthesis
 NCU01666.7	14h_protein	0.0	False	14	protein	Amino-Acid-Biosynthesis
 NCU02450.7	14h_protein	0.133974596216	False	14	protein	Amino-Acid-Biosynthesis
 Average	14h_protein	0.863522599819	True	14	protein	Amino-Acid-Biosynthesis
-StdDev	14h_protein	0.79758123348	False	14	protein	Amino-Acid-Biosynthesis
 NCU03756.7	16h_RNA	0.5	False	16	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	16h_RNA	1.0	False	16	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	16h_RNA	0.133974596216	False	16	RNA	Amino-Acid-Biosynthesis
@@ -1493,7 +1429,6 @@ NCU00792.7	16h_RNA	0.0	False	16	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	16h_RNA	1.0	False	16	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	16h_RNA	1.0	False	16	RNA	Amino-Acid-Biosynthesis
 Average	16h_RNA	0.744474980772	True	16	RNA	Amino-Acid-Biosynthesis
-StdDev	16h_RNA	0.64101282416	False	16	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	16h_protein	1.5	False	16	protein	Amino-Acid-Biosynthesis
 NCU00409.7	16h_protein	1.5	False	16	protein	Amino-Acid-Biosynthesis
 NCU02333.7	16h_protein	2.0	False	16	protein	Amino-Acid-Biosynthesis
@@ -1516,7 +1451,6 @@ NCU00792.7	16h_protein	1.0	False	16	protein	Amino-Acid-Biosynthesis
 NCU01666.7	16h_protein	0.133974596216	False	16	protein	Amino-Acid-Biosynthesis
 NCU02450.7	16h_protein	0.0	False	16	protein	Amino-Acid-Biosynthesis
 Average	16h_protein	0.835042780231	True	16	protein	Amino-Acid-Biosynthesis
-StdDev	16h_protein	0.704697551759	False	16	protein	Amino-Acid-Biosynthesis
 NCU03756.7	18h_RNA	0.133974596216	False	18	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	18h_RNA	0.5	False	18	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	18h_RNA	0.0	False	18	RNA	Amino-Acid-Biosynthesis
@@ -1539,7 +1473,6 @@ NCU00792.7	18h_RNA	0.133974596216	False	18	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	18h_RNA	0.5	False	18	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	18h_RNA	0.5	False	18	RNA	Amino-Acid-Biosynthesis
 Average	18h_RNA	0.603327284813	True	18	RNA	Amino-Acid-Biosynthesis
-StdDev	18h_RNA	0.575105203524	False	18	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	18h_protein	1.86602540378	False	18	protein	Amino-Acid-Biosynthesis
 NCU00409.7	18h_protein	1.0	False	18	protein	Amino-Acid-Biosynthesis
 NCU02333.7	18h_protein	1.86602540378	False	18	protein	Amino-Acid-Biosynthesis
@@ -1562,7 +1495,6 @@ NCU00792.7	18h_protein	0.5	False	18	protein	Amino-Acid-Biosynthesis
 NCU01666.7	18h_protein	0.5	False	18	protein	Amino-Acid-Biosynthesis
 NCU02450.7	18h_protein	0.133974596216	False	18	protein	Amino-Acid-Biosynthesis
 Average	18h_protein	0.850763114465	True	18	protein	Amino-Acid-Biosynthesis
-StdDev	18h_protein	0.588876872565	False	18	protein	Amino-Acid-Biosynthesis
 NCU03756.7	20h_RNA	0.0	False	20	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	20h_RNA	0.133974596216	False	20	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	20h_RNA	0.133974596216	False	20	RNA	Amino-Acid-Biosynthesis
@@ -1585,7 +1517,6 @@ NCU00792.7	20h_RNA	0.5	False	20	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	20h_RNA	0.133974596216	False	20	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	20h_RNA	0.133974596216	False	20	RNA	Amino-Acid-Biosynthesis
 Average	20h_RNA	0.568467722548	True	20	RNA	Amino-Acid-Biosynthesis
-StdDev	20h_RNA	0.570687879161	False	20	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	20h_protein	2.0	False	20	protein	Amino-Acid-Biosynthesis
 NCU00409.7	20h_protein	0.5	False	20	protein	Amino-Acid-Biosynthesis
 NCU02333.7	20h_protein	1.5	False	20	protein	Amino-Acid-Biosynthesis
@@ -1608,7 +1539,6 @@ NCU00792.7	20h_protein	0.133974596216	False	20	protein	Amino-Acid-Biosynthesis
 NCU01666.7	20h_protein	1.0	False	20	protein	Amino-Acid-Biosynthesis
 NCU02450.7	20h_protein	0.5	False	20	protein	Amino-Acid-Biosynthesis
 Average	20h_protein	0.90647135166	True	20	protein	Amino-Acid-Biosynthesis
-StdDev	20h_protein	0.580078000943	False	20	protein	Amino-Acid-Biosynthesis
 NCU03756.7	22h_RNA	0.133974596216	False	22	RNA	Amino-Acid-Biosynthesis
 NCU00409.7	22h_RNA	0.0	False	22	RNA	Amino-Acid-Biosynthesis
 NCU02333.7	22h_RNA	0.5	False	22	RNA	Amino-Acid-Biosynthesis
@@ -1631,7 +1561,6 @@ NCU00792.7	22h_RNA	1.0	False	22	RNA	Amino-Acid-Biosynthesis
 NCU01666.7	22h_RNA	0.0	False	22	RNA	Amino-Acid-Biosynthesis
 NCU02450.7	22h_RNA	0.0	False	22	RNA	Amino-Acid-Biosynthesis
 Average	22h_RNA	0.649236885534	True	22	RNA	Amino-Acid-Biosynthesis
-StdDev	22h_RNA	0.633067738349	False	22	RNA	Amino-Acid-Biosynthesis
 NCU03756.7	22h_protein	1.86602540378	False	22	protein	Amino-Acid-Biosynthesis
 NCU00409.7	22h_protein	0.133974596216	False	22	protein	Amino-Acid-Biosynthesis
 NCU02333.7	22h_protein	1.0	False	22	protein	Amino-Acid-Biosynthesis
@@ -1654,7 +1583,6 @@ NCU00792.7	22h_protein	0.0	False	22	protein	Amino-Acid-Biosynthesis
 NCU01666.7	22h_protein	1.5	False	22	protein	Amino-Acid-Biosynthesis
 NCU02450.7	22h_protein	1.0	False	22	protein	Amino-Acid-Biosynthesis
 Average	22h_protein	0.987240514645	True	22	protein	Amino-Acid-Biosynthesis
-StdDev	22h_protein	0.689947586214	False	22	protein	Amino-Acid-Biosynthesis
 NCU02322.7	0h_RNA	0.133974596216	False	0	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	0h_RNA	0.5	False	0	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	0h_RNA	0.133974596216	False	0	RNA	Carbohydrates-Biosynthesis
@@ -1663,7 +1591,6 @@ NCU07281.7	0h_RNA	0.133974596216	False	0	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	0h_RNA	0.133974596216	False	0	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	0h_RNA	0.133974596216	False	0	RNA	Carbohydrates-Biosynthesis
 Average	0h_RNA	0.186263939614	True	0	RNA	Carbohydrates-Biosynthesis
-StdDev	0h_RNA	0.12808221031	False	0	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	0h_protein	2.0	False	0	protein	Carbohydrates-Biosynthesis
 NCU02829.7	0h_protein	1.86602540378	False	0	protein	Carbohydrates-Biosynthesis
 NCU02109.7	0h_protein	1.86602540378	False	0	protein	Carbohydrates-Biosynthesis
@@ -1672,7 +1599,6 @@ NCU07281.7	0h_protein	2.0	False	0	protein	Carbohydrates-Biosynthesis
 NCU02252.7	0h_protein	2.0	False	0	protein	Carbohydrates-Biosynthesis
 NCU02906.7	0h_protein	1.0	False	0	protein	Carbohydrates-Biosynthesis
 Average	0h_protein	1.81886440108	True	0	protein	Carbohydrates-Biosynthesis
-StdDev	0h_protein	0.339374981924	False	0	protein	Carbohydrates-Biosynthesis
 NCU02322.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	2h_RNA	0.133974596216	False	2	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Biosynthesis
@@ -1681,7 +1607,6 @@ NCU07281.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	2h_RNA	0.5	False	2	RNA	Carbohydrates-Biosynthesis
 Average	2h_RNA	0.447710656602	True	2	RNA	Carbohydrates-Biosynthesis
-StdDev	2h_RNA	0.12808221031	False	2	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Biosynthesis
 NCU02829.7	2h_protein	1.5	False	2	protein	Carbohydrates-Biosynthesis
 NCU02109.7	2h_protein	1.5	False	2	protein	Carbohydrates-Biosynthesis
@@ -1690,7 +1615,6 @@ NCU07281.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Biosynthesis
 NCU02252.7	2h_protein	1.86602540378	False	2	protein	Carbohydrates-Biosynthesis
 NCU02906.7	2h_protein	0.5	False	2	protein	Carbohydrates-Biosynthesis
 Average	2h_protein	1.56630023073	True	2	protein	Carbohydrates-Biosynthesis
-StdDev	2h_protein	0.463700694827	False	2	protein	Carbohydrates-Biosynthesis
 NCU02322.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	4h_RNA	0.0	False	4	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Biosynthesis
@@ -1699,7 +1623,6 @@ NCU07281.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	4h_RNA	1.0	False	4	RNA	Carbohydrates-Biosynthesis
 Average	4h_RNA	0.857142857143	True	4	RNA	Carbohydrates-Biosynthesis
-StdDev	4h_RNA	0.349927106112	False	4	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	4h_protein	1.5	False	4	protein	Carbohydrates-Biosynthesis
 NCU02829.7	4h_protein	1.0	False	4	protein	Carbohydrates-Biosynthesis
 NCU02109.7	4h_protein	1.0	False	4	protein	Carbohydrates-Biosynthesis
@@ -1708,7 +1631,6 @@ NCU07281.7	4h_protein	1.5	False	4	protein	Carbohydrates-Biosynthesis
 NCU02252.7	4h_protein	1.5	False	4	protein	Carbohydrates-Biosynthesis
 NCU02906.7	4h_protein	0.133974596216	False	4	protein	Carbohydrates-Biosynthesis
 Average	4h_protein	1.16199637089	True	4	protein	Carbohydrates-Biosynthesis
-StdDev	4h_protein	0.473029783226	False	4	protein	Carbohydrates-Biosynthesis
 NCU02322.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	6h_RNA	0.133974596216	False	6	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Biosynthesis
@@ -1717,7 +1639,6 @@ NCU07281.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	6h_RNA	1.5	False	6	RNA	Carbohydrates-Biosynthesis
 Average	6h_RNA	1.30485351375	True	6	RNA	Carbohydrates-Biosynthesis
-StdDev	6h_RNA	0.478009316421	False	6	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	6h_protein	1.0	False	6	protein	Carbohydrates-Biosynthesis
 NCU02829.7	6h_protein	0.5	False	6	protein	Carbohydrates-Biosynthesis
 NCU02109.7	6h_protein	0.5	False	6	protein	Carbohydrates-Biosynthesis
@@ -1726,7 +1647,6 @@ NCU07281.7	6h_protein	1.0	False	6	protein	Carbohydrates-Biosynthesis
 NCU02252.7	6h_protein	1.0	False	6	protein	Carbohydrates-Biosynthesis
 NCU02906.7	6h_protein	0.0	False	6	protein	Carbohydrates-Biosynthesis
 Average	6h_protein	0.714285714286	True	6	protein	Carbohydrates-Biosynthesis
-StdDev	6h_protein	0.364215679542	False	6	protein	Carbohydrates-Biosynthesis
 NCU02322.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	8h_RNA	0.5	False	8	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Biosynthesis
@@ -1735,7 +1655,6 @@ NCU07281.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	8h_RNA	1.86602540378	False	8	RNA	Carbohydrates-Biosynthesis
 Average	8h_RNA	1.67087891753	True	8	RNA	Carbohydrates-Biosynthesis
-StdDev	8h_RNA	0.47800931642	False	8	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	8h_protein	0.5	False	8	protein	Carbohydrates-Biosynthesis
 NCU02829.7	8h_protein	0.133974596216	False	8	protein	Carbohydrates-Biosynthesis
 NCU02109.7	8h_protein	0.133974596216	False	8	protein	Carbohydrates-Biosynthesis
@@ -1744,7 +1663,6 @@ NCU07281.7	8h_protein	0.5	False	8	protein	Carbohydrates-Biosynthesis
 NCU02252.7	8h_protein	0.5	False	8	protein	Carbohydrates-Biosynthesis
 NCU02906.7	8h_protein	0.133974596216	False	8	protein	Carbohydrates-Biosynthesis
 Average	8h_protein	0.343131969807	True	8	protein	Carbohydrates-Biosynthesis
-StdDev	8h_protein	0.181135598919	False	8	protein	Carbohydrates-Biosynthesis
 NCU02322.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	10h_RNA	1.0	False	10	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Biosynthesis
@@ -1753,7 +1671,6 @@ NCU07281.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	10h_RNA	2.0	False	10	RNA	Carbohydrates-Biosynthesis
 Average	10h_RNA	1.85714285714	True	10	RNA	Carbohydrates-Biosynthesis
-StdDev	10h_RNA	0.349927106112	False	10	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Biosynthesis
 NCU02829.7	10h_protein	0.0	False	10	protein	Carbohydrates-Biosynthesis
 NCU02109.7	10h_protein	0.0	False	10	protein	Carbohydrates-Biosynthesis
@@ -1762,7 +1679,6 @@ NCU07281.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Biosynthesi
 NCU02252.7	10h_protein	0.133974596216	False	10	protein	Carbohydrates-Biosynthesis
 NCU02906.7	10h_protein	0.5	False	10	protein	Carbohydrates-Biosynthesis
 Average	10h_protein	0.147985483552	True	10	protein	Carbohydrates-Biosynthesis
-StdDev	10h_protein	0.155149166164	False	10	protein	Carbohydrates-Biosynthesis
 NCU02322.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	12h_RNA	1.5	False	12	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Biosynthesis
@@ -1771,7 +1687,6 @@ NCU07281.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	12h_RNA	1.86602540378	False	12	RNA	Carbohydrates-Biosynthesis
 Average	12h_RNA	1.81373606038	True	12	RNA	Carbohydrates-Biosynthesis
-StdDev	12h_RNA	0.128082210308	False	12	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	12h_protein	0.0	False	12	protein	Carbohydrates-Biosynthesis
 NCU02829.7	12h_protein	0.133974596216	False	12	protein	Carbohydrates-Biosynthesis
 NCU02109.7	12h_protein	0.133974596216	False	12	protein	Carbohydrates-Biosynthesis
@@ -1780,7 +1695,6 @@ NCU07281.7	12h_protein	0.0	False	12	protein	Carbohydrates-Biosynthesis
 NCU02252.7	12h_protein	0.0	False	12	protein	Carbohydrates-Biosynthesis
 NCU02906.7	12h_protein	1.0	False	12	protein	Carbohydrates-Biosynthesis
 Average	12h_protein	0.181135598919	True	12	protein	Carbohydrates-Biosynthesis
-StdDev	12h_protein	0.339374981924	False	12	protein	Carbohydrates-Biosynthesis
 NCU02322.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	14h_RNA	1.86602540378	False	14	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Biosynthesis
@@ -1789,7 +1703,6 @@ NCU07281.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	14h_RNA	1.5	False	14	RNA	Carbohydrates-Biosynthesis
 Average	14h_RNA	1.5522893434	True	14	RNA	Carbohydrates-Biosynthesis
-StdDev	14h_RNA	0.128082210308	False	14	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Biosynthesis
 NCU02829.7	14h_protein	0.5	False	14	protein	Carbohydrates-Biosynthesis
 NCU02109.7	14h_protein	0.5	False	14	protein	Carbohydrates-Biosynthesis
@@ -1798,7 +1711,6 @@ NCU07281.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Biosynthesi
 NCU02252.7	14h_protein	0.133974596216	False	14	protein	Carbohydrates-Biosynthesis
 NCU02906.7	14h_protein	1.5	False	14	protein	Carbohydrates-Biosynthesis
 Average	14h_protein	0.433699769266	True	14	protein	Carbohydrates-Biosynthesis
-StdDev	14h_protein	0.463700694829	False	14	protein	Carbohydrates-Biosynthesis
 NCU02322.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	16h_RNA	2.0	False	16	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Biosynthesis
@@ -1807,7 +1719,6 @@ NCU07281.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	16h_RNA	1.0	False	16	RNA	Carbohydrates-Biosynthesis
 Average	16h_RNA	1.14285714286	True	16	RNA	Carbohydrates-Biosynthesis
-StdDev	16h_RNA	0.349927106112	False	16	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	16h_protein	0.5	False	16	protein	Carbohydrates-Biosynthesis
 NCU02829.7	16h_protein	1.0	False	16	protein	Carbohydrates-Biosynthesis
 NCU02109.7	16h_protein	1.0	False	16	protein	Carbohydrates-Biosynthesis
@@ -1816,7 +1727,6 @@ NCU07281.7	16h_protein	0.5	False	16	protein	Carbohydrates-Biosynthesis
 NCU02252.7	16h_protein	0.5	False	16	protein	Carbohydrates-Biosynthesis
 NCU02906.7	16h_protein	1.86602540378	False	16	protein	Carbohydrates-Biosynthesis
 Average	16h_protein	0.838003629111	True	16	protein	Carbohydrates-Biosynthesis
-StdDev	16h_protein	0.473029783225	False	16	protein	Carbohydrates-Biosynthesis
 NCU02322.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	18h_RNA	1.86602540378	False	18	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Biosynthesis
@@ -1825,7 +1735,6 @@ NCU07281.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	18h_RNA	0.5	False	18	RNA	Carbohydrates-Biosynthesis
 Average	18h_RNA	0.695146486254	True	18	RNA	Carbohydrates-Biosynthesis
-StdDev	18h_RNA	0.47800931642	False	18	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	18h_protein	1.0	False	18	protein	Carbohydrates-Biosynthesis
 NCU02829.7	18h_protein	1.5	False	18	protein	Carbohydrates-Biosynthesis
 NCU02109.7	18h_protein	1.5	False	18	protein	Carbohydrates-Biosynthesis
@@ -1834,7 +1743,6 @@ NCU07281.7	18h_protein	1.0	False	18	protein	Carbohydrates-Biosynthesis
 NCU02252.7	18h_protein	1.0	False	18	protein	Carbohydrates-Biosynthesis
 NCU02906.7	18h_protein	2.0	False	18	protein	Carbohydrates-Biosynthesis
 Average	18h_protein	1.28571428571	True	18	protein	Carbohydrates-Biosynthesis
-StdDev	18h_protein	0.364215679542	False	18	protein	Carbohydrates-Biosynthesis
 NCU02322.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	20h_RNA	1.5	False	20	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Biosynthesis
@@ -1843,7 +1751,6 @@ NCU07281.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	20h_RNA	0.133974596216	False	20	RNA	Carbohydrates-Biosynthesis
 Average	20h_RNA	0.329121082471	True	20	RNA	Carbohydrates-Biosynthesis
-StdDev	20h_RNA	0.478009316421	False	20	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	20h_protein	1.5	False	20	protein	Carbohydrates-Biosynthesis
 NCU02829.7	20h_protein	1.86602540378	False	20	protein	Carbohydrates-Biosynthesis
 NCU02109.7	20h_protein	1.86602540378	False	20	protein	Carbohydrates-Biosynthesis
@@ -1852,7 +1759,6 @@ NCU07281.7	20h_protein	1.5	False	20	protein	Carbohydrates-Biosynthesis
 NCU02252.7	20h_protein	1.5	False	20	protein	Carbohydrates-Biosynthesis
 NCU02906.7	20h_protein	1.86602540378	False	20	protein	Carbohydrates-Biosynthesis
 Average	20h_protein	1.65686803019	True	20	protein	Carbohydrates-Biosynthesis
-StdDev	20h_protein	0.181135598917	False	20	protein	Carbohydrates-Biosynthesis
 NCU02322.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	22h_RNA	1.0	False	22	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Biosynthesis
@@ -1861,7 +1767,6 @@ NCU07281.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	22h_RNA	0.0	False	22	RNA	Carbohydrates-Biosynthesis
 Average	22h_RNA	0.142857142857	True	22	RNA	Carbohydrates-Biosynthesis
-StdDev	22h_RNA	0.349927106112	False	22	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Biosynthesis
 NCU02829.7	22h_protein	2.0	False	22	protein	Carbohydrates-Biosynthesis
 NCU02109.7	22h_protein	2.0	False	22	protein	Carbohydrates-Biosynthesis
@@ -1870,7 +1775,6 @@ NCU07281.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Biosynthesis
 NCU02252.7	22h_protein	1.86602540378	False	22	protein	Carbohydrates-Biosynthesis
 NCU02906.7	22h_protein	1.5	False	22	protein	Carbohydrates-Biosynthesis
 Average	22h_protein	1.85201451645	True	22	protein	Carbohydrates-Biosynthesis
-StdDev	22h_protein	0.155149166164	False	22	protein	Carbohydrates-Biosynthesis
 NCU02209.7	0h_RNA	1.5	False	0	RNA	Lipid-Biosynthesis
 NCU08280.7	0h_RNA	0.5	False	0	RNA	Lipid-Biosynthesis
 NCU00712.7	0h_RNA	1.86602540378	False	0	RNA	Lipid-Biosynthesis
@@ -1883,7 +1787,6 @@ NCU10400.7	0h_RNA	0.133974596216	False	0	RNA	Lipid-Biosynthesis
 NCU02726.7	0h_RNA	1.5	False	0	RNA	Lipid-Biosynthesis
 NCU04289.7	0h_RNA	1.0	False	0	RNA	Lipid-Biosynthesis
 Average	0h_RNA	1.13636363636	True	0	RNA	Lipid-Biosynthesis
-StdDev	0h_RNA	0.606439275642	False	0	RNA	Lipid-Biosynthesis
 NCU02209.7	0h_protein	1.0	False	0	protein	Lipid-Biosynthesis
 NCU08280.7	0h_protein	2.0	False	0	protein	Lipid-Biosynthesis
 NCU00712.7	0h_protein	1.86602540378	False	0	protein	Lipid-Biosynthesis
@@ -1896,7 +1799,6 @@ NCU10400.7	0h_protein	1.0	False	0	protein	Lipid-Biosynthesis
 NCU02726.7	0h_protein	1.86602540378	False	0	protein	Lipid-Biosynthesis
 NCU04289.7	0h_protein	2.0	False	0	protein	Lipid-Biosynthesis
 Average	0h_protein	1.71182972899	True	0	protein	Lipid-Biosynthesis
-StdDev	0h_protein	0.360086202575	False	0	protein	Lipid-Biosynthesis
 NCU02209.7	2h_RNA	1.86602540378	False	2	RNA	Lipid-Biosynthesis
 NCU08280.7	2h_RNA	0.133974596216	False	2	RNA	Lipid-Biosynthesis
 NCU00712.7	2h_RNA	2.0	False	2	RNA	Lipid-Biosynthesis
@@ -1909,7 +1811,6 @@ NCU10400.7	2h_RNA	0.5	False	2	RNA	Lipid-Biosynthesis
 NCU02726.7	2h_RNA	1.0	False	2	RNA	Lipid-Biosynthesis
 NCU04289.7	2h_RNA	0.5	False	2	RNA	Lipid-Biosynthesis
 Average	2h_RNA	0.999999999999	True	2	RNA	Lipid-Biosynthesis
-StdDev	2h_RNA	0.738548945874	False	2	RNA	Lipid-Biosynthesis
 NCU02209.7	2h_protein	1.5	False	2	protein	Lipid-Biosynthesis
 NCU08280.7	2h_protein	1.86602540378	False	2	protein	Lipid-Biosynthesis
 NCU00712.7	2h_protein	2.0	False	2	protein	Lipid-Biosynthesis
@@ -1922,7 +1823,6 @@ NCU10400.7	2h_protein	0.5	False	2	protein	Lipid-Biosynthesis
 NCU02726.7	2h_protein	2.0	False	2	protein	Lipid-Biosynthesis
 NCU04289.7	2h_protein	1.86602540378	False	2	protein	Lipid-Biosynthesis
 Average	2h_protein	1.72400923774	True	2	protein	Lipid-Biosynthesis
-StdDev	2h_protein	0.424683503579	False	2	protein	Lipid-Biosynthesis
 NCU02209.7	4h_RNA	2.0	False	4	RNA	Lipid-Biosynthesis
 NCU08280.7	4h_RNA	0.0	False	4	RNA	Lipid-Biosynthesis
 NCU00712.7	4h_RNA	1.86602540378	False	4	RNA	Lipid-Biosynthesis
@@ -1935,7 +1835,6 @@ NCU10400.7	4h_RNA	1.0	False	4	RNA	Lipid-Biosynthesis
 NCU02726.7	4h_RNA	0.5	False	4	RNA	Lipid-Biosynthesis
 NCU04289.7	4h_RNA	0.133974596216	False	4	RNA	Lipid-Biosynthesis
 Average	4h_RNA	0.863636363636	True	4	RNA	Lipid-Biosynthesis
-StdDev	4h_RNA	0.800309857348	False	4	RNA	Lipid-Biosynthesis
 NCU02209.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
 NCU08280.7	4h_protein	1.5	False	4	protein	Lipid-Biosynthesis
 NCU00712.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
@@ -1948,7 +1847,6 @@ NCU10400.7	4h_protein	0.133974596216	False	4	protein	Lipid-Biosynthesis
 NCU02726.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
 NCU04289.7	4h_protein	1.5	False	4	protein	Lipid-Biosynthesis
 Average	4h_protein	1.54219105592	True	4	protein	Lipid-Biosynthesis
-StdDev	4h_protein	0.52365129338	False	4	protein	Lipid-Biosynthesis
 NCU02209.7	6h_RNA	1.86602540378	False	6	RNA	Lipid-Biosynthesis
 NCU08280.7	6h_RNA	0.133974596216	False	6	RNA	Lipid-Biosynthesis
 NCU00712.7	6h_RNA	1.5	False	6	RNA	Lipid-Biosynthesis
@@ -1961,7 +1859,6 @@ NCU10400.7	6h_RNA	1.5	False	6	RNA	Lipid-Biosynthesis
 NCU02726.7	6h_RNA	0.133974596216	False	6	RNA	Lipid-Biosynthesis
 NCU04289.7	6h_RNA	0.0	False	6	RNA	Lipid-Biosynthesis
 Average	6h_RNA	0.763811253513	True	6	RNA	Lipid-Biosynthesis
-StdDev	6h_RNA	0.746894396597	False	6	RNA	Lipid-Biosynthesis
 NCU02209.7	6h_protein	2.0	False	6	protein	Lipid-Biosynthesis
 NCU08280.7	6h_protein	1.0	False	6	protein	Lipid-Biosynthesis
 NCU00712.7	6h_protein	1.5	False	6	protein	Lipid-Biosynthesis
@@ -1974,7 +1871,6 @@ NCU10400.7	6h_protein	0.0	False	6	protein	Lipid-Biosynthesis
 NCU02726.7	6h_protein	1.5	False	6	protein	Lipid-Biosynthesis
 NCU04289.7	6h_protein	1.0	False	6	protein	Lipid-Biosynthesis
 Average	6h_protein	1.21509321853	True	6	protein	Lipid-Biosynthesis
-StdDev	6h_protein	0.563357143365	False	6	protein	Lipid-Biosynthesis
 NCU02209.7	8h_RNA	1.5	False	8	RNA	Lipid-Biosynthesis
 NCU08280.7	8h_RNA	0.5	False	8	RNA	Lipid-Biosynthesis
 NCU00712.7	8h_RNA	1.0	False	8	RNA	Lipid-Biosynthesis
@@ -1987,7 +1883,6 @@ NCU10400.7	8h_RNA	1.86602540378	False	8	RNA	Lipid-Biosynthesis
 NCU02726.7	8h_RNA	0.0	False	8	RNA	Lipid-Biosynthesis
 NCU04289.7	8h_RNA	0.133974596216	False	8	RNA	Lipid-Biosynthesis
 Average	8h_RNA	0.727272727272	True	8	RNA	Lipid-Biosynthesis
-StdDev	8h_RNA	0.616575453011	False	8	RNA	Lipid-Biosynthesis
 NCU02209.7	8h_protein	1.86602540378	False	8	protein	Lipid-Biosynthesis
 NCU08280.7	8h_protein	0.5	False	8	protein	Lipid-Biosynthesis
 NCU00712.7	8h_protein	1.0	False	8	protein	Lipid-Biosynthesis
@@ -2000,7 +1895,6 @@ NCU10400.7	8h_protein	0.133974596216	False	8	protein	Lipid-Biosynthesis
 NCU02726.7	8h_protein	1.0	False	8	protein	Lipid-Biosynthesis
 NCU04289.7	8h_protein	0.5	False	8	protein	Lipid-Biosynthesis
 Average	8h_protein	0.830361326928	True	8	protein	Lipid-Biosynthesis
-StdDev	8h_protein	0.516408042203	False	8	protein	Lipid-Biosynthesis
 NCU02209.7	10h_RNA	1.0	False	10	RNA	Lipid-Biosynthesis
 NCU08280.7	10h_RNA	1.0	False	10	RNA	Lipid-Biosynthesis
 NCU00712.7	10h_RNA	0.5	False	10	RNA	Lipid-Biosynthesis
@@ -2013,7 +1907,6 @@ NCU10400.7	10h_RNA	2.0	False	10	RNA	Lipid-Biosynthesis
 NCU02726.7	10h_RNA	0.133974596216	False	10	RNA	Lipid-Biosynthesis
 NCU04289.7	10h_RNA	0.5	False	10	RNA	Lipid-Biosynthesis
 Average	10h_RNA	0.763811253513	True	10	RNA	Lipid-Biosynthesis
-StdDev	10h_RNA	0.533970005658	False	10	RNA	Lipid-Biosynthesis
 NCU02209.7	10h_protein	1.5	False	10	protein	Lipid-Biosynthesis
 NCU08280.7	10h_protein	0.133974596216	False	10	protein	Lipid-Biosynthesis
 NCU00712.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
@@ -2026,7 +1919,6 @@ NCU10400.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
 NCU02726.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
 NCU04289.7	10h_protein	0.133974596216	False	10	protein	Lipid-Biosynthesis
 Average	10h_protein	0.491083980786	True	10	protein	Lipid-Biosynthesis
-StdDev	10h_protein	0.415719457333	False	10	protein	Lipid-Biosynthesis
 NCU02209.7	12h_RNA	0.5	False	12	RNA	Lipid-Biosynthesis
 NCU08280.7	12h_RNA	1.5	False	12	RNA	Lipid-Biosynthesis
 NCU00712.7	12h_RNA	0.133974596216	False	12	RNA	Lipid-Biosynthesis
@@ -2039,7 +1931,6 @@ NCU10400.7	12h_RNA	1.86602540378	False	12	RNA	Lipid-Biosynthesis
 NCU02726.7	12h_RNA	0.5	False	12	RNA	Lipid-Biosynthesis
 NCU04289.7	12h_RNA	1.0	False	12	RNA	Lipid-Biosynthesis
 Average	12h_RNA	0.863636363636	True	12	RNA	Lipid-Biosynthesis
-StdDev	12h_RNA	0.606439275641	False	12	RNA	Lipid-Biosynthesis
 NCU02209.7	12h_protein	1.0	False	12	protein	Lipid-Biosynthesis
 NCU08280.7	12h_protein	0.0	False	12	protein	Lipid-Biosynthesis
 NCU00712.7	12h_protein	0.133974596216	False	12	protein	Lipid-Biosynthesis
@@ -2052,7 +1943,6 @@ NCU10400.7	12h_protein	1.0	False	12	protein	Lipid-Biosynthesis
 NCU02726.7	12h_protein	0.133974596216	False	12	protein	Lipid-Biosynthesis
 NCU04289.7	12h_protein	0.0	False	12	protein	Lipid-Biosynthesis
 Average	12h_protein	0.288170271007	True	12	protein	Lipid-Biosynthesis
-StdDev	12h_protein	0.360086202576	False	12	protein	Lipid-Biosynthesis
 NCU02209.7	14h_RNA	0.133974596216	False	14	RNA	Lipid-Biosynthesis
 NCU08280.7	14h_RNA	1.86602540378	False	14	RNA	Lipid-Biosynthesis
 NCU00712.7	14h_RNA	0.0	False	14	RNA	Lipid-Biosynthesis
@@ -2065,7 +1955,6 @@ NCU10400.7	14h_RNA	1.5	False	14	RNA	Lipid-Biosynthesis
 NCU02726.7	14h_RNA	1.0	False	14	RNA	Lipid-Biosynthesis
 NCU04289.7	14h_RNA	1.5	False	14	RNA	Lipid-Biosynthesis
 Average	14h_RNA	0.999999999999	True	14	RNA	Lipid-Biosynthesis
-StdDev	14h_RNA	0.738548945874	False	14	RNA	Lipid-Biosynthesis
 NCU02209.7	14h_protein	0.5	False	14	protein	Lipid-Biosynthesis
 NCU08280.7	14h_protein	0.133974596216	False	14	protein	Lipid-Biosynthesis
 NCU00712.7	14h_protein	0.0	False	14	protein	Lipid-Biosynthesis
@@ -2078,7 +1967,6 @@ NCU10400.7	14h_protein	1.5	False	14	protein	Lipid-Biosynthesis
 NCU02726.7	14h_protein	0.0	False	14	protein	Lipid-Biosynthesis
 NCU04289.7	14h_protein	0.133974596216	False	14	protein	Lipid-Biosynthesis
 Average	14h_protein	0.27599076226	True	14	protein	Lipid-Biosynthesis
-StdDev	14h_protein	0.42468350358	False	14	protein	Lipid-Biosynthesis
 NCU02209.7	16h_RNA	0.0	False	16	RNA	Lipid-Biosynthesis
 NCU08280.7	16h_RNA	2.0	False	16	RNA	Lipid-Biosynthesis
 NCU00712.7	16h_RNA	0.133974596216	False	16	RNA	Lipid-Biosynthesis
@@ -2091,7 +1979,6 @@ NCU10400.7	16h_RNA	1.0	False	16	RNA	Lipid-Biosynthesis
 NCU02726.7	16h_RNA	1.5	False	16	RNA	Lipid-Biosynthesis
 NCU04289.7	16h_RNA	1.86602540378	False	16	RNA	Lipid-Biosynthesis
 Average	16h_RNA	1.13636363636	True	16	RNA	Lipid-Biosynthesis
-StdDev	16h_RNA	0.800309857348	False	16	RNA	Lipid-Biosynthesis
 NCU02209.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
 NCU08280.7	16h_protein	0.5	False	16	protein	Lipid-Biosynthesis
 NCU00712.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
@@ -2104,7 +1991,6 @@ NCU10400.7	16h_protein	1.86602540378	False	16	protein	Lipid-Biosynthesis
 NCU02726.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
 NCU04289.7	16h_protein	0.5	False	16	protein	Lipid-Biosynthesis
 Average	16h_protein	0.457808944078	True	16	protein	Lipid-Biosynthesis
-StdDev	16h_protein	0.523651293381	False	16	protein	Lipid-Biosynthesis
 NCU02209.7	18h_RNA	0.133974596216	False	18	RNA	Lipid-Biosynthesis
 NCU08280.7	18h_RNA	1.86602540378	False	18	RNA	Lipid-Biosynthesis
 NCU00712.7	18h_RNA	0.5	False	18	RNA	Lipid-Biosynthesis
@@ -2117,7 +2003,6 @@ NCU10400.7	18h_RNA	0.5	False	18	RNA	Lipid-Biosynthesis
 NCU02726.7	18h_RNA	1.86602540378	False	18	RNA	Lipid-Biosynthesis
 NCU04289.7	18h_RNA	2.0	False	18	RNA	Lipid-Biosynthesis
 Average	18h_RNA	1.23618874648	True	18	RNA	Lipid-Biosynthesis
-StdDev	18h_RNA	0.746894396596	False	18	RNA	Lipid-Biosynthesis
 NCU02209.7	18h_protein	0.0	False	18	protein	Lipid-Biosynthesis
 NCU08280.7	18h_protein	1.0	False	18	protein	Lipid-Biosynthesis
 NCU00712.7	18h_protein	0.5	False	18	protein	Lipid-Biosynthesis
@@ -2130,7 +2015,6 @@ NCU10400.7	18h_protein	2.0	False	18	protein	Lipid-Biosynthesis
 NCU02726.7	18h_protein	0.5	False	18	protein	Lipid-Biosynthesis
 NCU04289.7	18h_protein	1.0	False	18	protein	Lipid-Biosynthesis
 Average	18h_protein	0.784906781474	True	18	protein	Lipid-Biosynthesis
-StdDev	18h_protein	0.563357143365	False	18	protein	Lipid-Biosynthesis
 NCU02209.7	20h_RNA	0.5	False	20	RNA	Lipid-Biosynthesis
 NCU08280.7	20h_RNA	1.5	False	20	RNA	Lipid-Biosynthesis
 NCU00712.7	20h_RNA	1.0	False	20	RNA	Lipid-Biosynthesis
@@ -2143,7 +2027,6 @@ NCU10400.7	20h_RNA	0.133974596216	False	20	RNA	Lipid-Biosynthesis
 NCU02726.7	20h_RNA	2.0	False	20	RNA	Lipid-Biosynthesis
 NCU04289.7	20h_RNA	1.86602540378	False	20	RNA	Lipid-Biosynthesis
 Average	20h_RNA	1.27272727273	True	20	RNA	Lipid-Biosynthesis
-StdDev	20h_RNA	0.616575453011	False	20	RNA	Lipid-Biosynthesis
 NCU02209.7	20h_protein	0.133974596216	False	20	protein	Lipid-Biosynthesis
 NCU08280.7	20h_protein	1.5	False	20	protein	Lipid-Biosynthesis
 NCU00712.7	20h_protein	1.0	False	20	protein	Lipid-Biosynthesis
@@ -2156,7 +2039,6 @@ NCU10400.7	20h_protein	1.86602540378	False	20	protein	Lipid-Biosynthesis
 NCU02726.7	20h_protein	1.0	False	20	protein	Lipid-Biosynthesis
 NCU04289.7	20h_protein	1.5	False	20	protein	Lipid-Biosynthesis
 Average	20h_protein	1.16963867307	True	20	protein	Lipid-Biosynthesis
-StdDev	20h_protein	0.516408042203	False	20	protein	Lipid-Biosynthesis
 NCU02209.7	22h_RNA	1.0	False	22	RNA	Lipid-Biosynthesis
 NCU08280.7	22h_RNA	1.0	False	22	RNA	Lipid-Biosynthesis
 NCU00712.7	22h_RNA	1.5	False	22	RNA	Lipid-Biosynthesis
@@ -2169,7 +2051,6 @@ NCU10400.7	22h_RNA	0.0	False	22	RNA	Lipid-Biosynthesis
 NCU02726.7	22h_RNA	1.86602540378	False	22	RNA	Lipid-Biosynthesis
 NCU04289.7	22h_RNA	1.5	False	22	RNA	Lipid-Biosynthesis
 Average	22h_RNA	1.23618874649	True	22	RNA	Lipid-Biosynthesis
-StdDev	22h_RNA	0.533970005656	False	22	RNA	Lipid-Biosynthesis
 NCU02209.7	22h_protein	0.5	False	22	protein	Lipid-Biosynthesis
 NCU08280.7	22h_protein	1.86602540378	False	22	protein	Lipid-Biosynthesis
 NCU00712.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
@@ -2182,7 +2063,6 @@ NCU10400.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
 NCU02726.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
 NCU04289.7	22h_protein	1.86602540378	False	22	protein	Lipid-Biosynthesis
 Average	22h_protein	1.50891601921	True	22	protein	Lipid-Biosynthesis
-StdDev	22h_protein	0.415719457332	False	22	protein	Lipid-Biosynthesis
 NCU06870.7	0h_RNA	0.5	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	0h_RNA	2.0	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	0h_RNA	0.133974596216	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2190,7 +2070,6 @@ NCU02287.7	0h_RNA	1.5	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	0h_RNA	1.86602540378	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	0h_RNA	1.86602540378	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	0h_RNA	1.31100423396	True	0	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	0h_RNA	0.726826228513	False	0	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	0h_protein	1.86602540378	False	0	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	0h_protein	1.86602540378	False	0	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	0h_protein	0.0	False	0	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2198,7 +2077,6 @@ NCU02287.7	0h_protein	0.133974596216	False	0	protein	Fatty-Acid-and-Lipid-Degrad
 NCU08924.7	0h_protein	0.0	False	0	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	0h_protein	0.133974596216	False	0	protein	Fatty-Acid-and-Lipid-Degradation
 Average	0h_protein	0.666666666665	True	0	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	0h_protein	0.849836585597	False	0	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	2h_RNA	0.133974596216	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	2h_RNA	1.86602540378	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	2h_RNA	0.5	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2206,7 +2084,6 @@ NCU02287.7	2h_RNA	1.0	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	2h_RNA	2.0	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	2h_RNA	2.0	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	2h_RNA	1.25	True	2	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	2h_RNA	0.749999999999	False	2	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	2h_protein	2.0	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	2h_protein	1.5	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	2h_protein	0.133974596216	False	2	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2214,7 +2091,6 @@ NCU02287.7	2h_protein	0.5	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	2h_protein	0.133974596216	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	2h_protein	0.5	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 Average	2h_protein	0.794658198739	True	2	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	2h_protein	0.706754137817	False	2	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	4h_RNA	0.0	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	4h_RNA	1.5	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	4h_RNA	1.0	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2222,7 +2098,6 @@ NCU02287.7	4h_RNA	0.5	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	4h_RNA	1.86602540378	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	4h_RNA	1.86602540378	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	4h_RNA	1.12200846793	True	4	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	4h_RNA	0.696501208722	False	4	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	4h_protein	1.86602540378	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	4h_protein	1.0	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	4h_protein	0.5	False	4	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2230,7 +2105,6 @@ NCU02287.7	4h_protein	1.0	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	4h_protein	0.5	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	4h_protein	1.0	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 Average	4h_protein	0.97767090063	True	4	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	4h_protein	0.455888960881	False	4	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	6h_RNA	0.133974596216	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	6h_RNA	1.0	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	6h_RNA	1.5	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2238,7 +2112,6 @@ NCU02287.7	6h_RNA	0.133974596216	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	6h_RNA	1.5	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	6h_RNA	1.5	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	6h_RNA	0.961324865405	True	6	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	6h_RNA	0.611149927566	False	6	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	6h_protein	1.5	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	6h_protein	0.5	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	6h_protein	1.0	False	6	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2246,7 +2119,6 @@ NCU02287.7	6h_protein	1.5	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	6h_protein	1.0	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	6h_protein	1.5	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 Average	6h_protein	1.16666666667	True	6	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	6h_protein	0.37267799625	False	6	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	8h_RNA	0.5	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	8h_RNA	0.5	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	8h_RNA	1.86602540378	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2254,7 +2126,6 @@ NCU02287.7	8h_RNA	0.0	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	8h_RNA	1.0	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	8h_RNA	1.0	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	8h_RNA	0.811004233963	True	8	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	8h_RNA	0.582477982776	False	8	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	8h_protein	1.0	False	8	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	8h_protein	0.133974596216	False	8	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	8h_protein	1.5	False	8	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2262,7 +2133,6 @@ NCU02287.7	8h_protein	1.86602540378	False	8	protein	Fatty-Acid-and-Lipid-Degrada
 NCU08924.7	8h_protein	1.5	False	8	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	8h_protein	1.86602540378	False	8	protein	Fatty-Acid-and-Lipid-Degradation
 Average	8h_protein	1.31100423396	True	8	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	8h_protein	0.601339920335	False	8	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	10h_RNA	1.0	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	10h_RNA	0.133974596216	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	10h_RNA	2.0	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2270,7 +2140,6 @@ NCU02287.7	10h_RNA	0.133974596216	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	10h_RNA	0.5	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	10h_RNA	0.5	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	10h_RNA	0.711324865405	True	10	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	10h_RNA	0.645497224368	False	10	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	10h_protein	0.5	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	10h_protein	0.0	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	10h_protein	1.86602540378	False	10	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2278,7 +2147,6 @@ NCU02287.7	10h_protein	2.0	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	10h_protein	1.86602540378	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	10h_protein	2.0	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 Average	10h_protein	1.37200846793	True	10	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	10h_protein	0.80825513698	False	10	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	12h_RNA	1.5	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	12h_RNA	0.0	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	12h_RNA	1.86602540378	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2286,7 +2154,6 @@ NCU02287.7	12h_RNA	0.5	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	12h_RNA	0.133974596216	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	12h_RNA	0.133974596216	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	12h_RNA	0.688995766035	True	12	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	12h_RNA	0.726826228513	False	12	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	12h_protein	0.133974596216	False	12	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	12h_protein	0.133974596216	False	12	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	12h_protein	2.0	False	12	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2294,7 +2161,6 @@ NCU02287.7	12h_protein	1.86602540378	False	12	protein	Fatty-Acid-and-Lipid-Degra
 NCU08924.7	12h_protein	2.0	False	12	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	12h_protein	1.86602540378	False	12	protein	Fatty-Acid-and-Lipid-Degradation
 Average	12h_protein	1.33333333333	True	12	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	12h_protein	0.849836585598	False	12	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	14h_RNA	1.86602540378	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	14h_RNA	0.133974596216	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	14h_RNA	1.5	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2302,7 +2168,6 @@ NCU02287.7	14h_RNA	1.0	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	14h_RNA	0.0	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	14h_RNA	0.0	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	14h_RNA	0.749999999999	True	14	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	14h_RNA	0.749999999999	False	14	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	14h_protein	0.0	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	14h_protein	0.5	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	14h_protein	1.86602540378	False	14	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2310,7 +2175,6 @@ NCU02287.7	14h_protein	1.5	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	14h_protein	1.86602540378	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	14h_protein	1.5	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 Average	14h_protein	1.20534180126	True	14	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	14h_protein	0.706754137816	False	14	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	16h_RNA	2.0	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	16h_RNA	0.5	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	16h_RNA	1.0	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2318,7 +2182,6 @@ NCU02287.7	16h_RNA	1.5	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	16h_RNA	0.133974596216	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	16h_RNA	0.133974596216	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	16h_RNA	0.877991532072	True	16	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	16h_RNA	0.696501208724	False	16	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	16h_protein	0.133974596216	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	16h_protein	1.0	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	16h_protein	1.5	False	16	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2326,7 +2189,6 @@ NCU02287.7	16h_protein	1.0	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	16h_protein	1.5	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	16h_protein	1.0	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 Average	16h_protein	1.02232909937	True	16	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	16h_protein	0.455888960883	False	16	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	18h_RNA	1.86602540378	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	18h_RNA	1.0	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	18h_RNA	0.5	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2334,7 +2196,6 @@ NCU02287.7	18h_RNA	1.86602540378	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	18h_RNA	0.5	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	18h_RNA	0.5	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	18h_RNA	1.03867513459	True	18	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	18h_RNA	0.611149927564	False	18	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	18h_protein	0.5	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	18h_protein	1.5	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	18h_protein	1.0	False	18	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2342,7 +2203,6 @@ NCU02287.7	18h_protein	0.5	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	18h_protein	1.0	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	18h_protein	0.5	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 Average	18h_protein	0.833333333333	True	18	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	18h_protein	0.37267799625	False	18	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	20h_RNA	1.5	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	20h_RNA	1.5	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	20h_RNA	0.133974596216	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2350,7 +2210,6 @@ NCU02287.7	20h_RNA	2.0	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	20h_RNA	1.0	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	20h_RNA	1.0	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	20h_RNA	1.18899576604	True	20	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	20h_RNA	0.582477982777	False	20	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	20h_protein	1.0	False	20	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	20h_protein	1.86602540378	False	20	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	20h_protein	0.5	False	20	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2358,7 +2217,6 @@ NCU02287.7	20h_protein	0.133974596216	False	20	protein	Fatty-Acid-and-Lipid-Degr
 NCU08924.7	20h_protein	0.5	False	20	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	20h_protein	0.133974596216	False	20	protein	Fatty-Acid-and-Lipid-Degradation
 Average	20h_protein	0.688995766035	True	20	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	20h_protein	0.601339920334	False	20	protein	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	22h_RNA	1.0	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	22h_RNA	1.86602540378	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	22h_RNA	0.0	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
@@ -2366,7 +2224,6 @@ NCU02287.7	22h_RNA	1.86602540378	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	22h_RNA	1.5	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	22h_RNA	1.5	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 Average	22h_RNA	1.28867513459	True	22	RNA	Fatty-Acid-and-Lipid-Degradation
-StdDev	22h_RNA	0.645497224367	False	22	RNA	Fatty-Acid-and-Lipid-Degradation
 NCU06870.7	22h_protein	1.5	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 NCU02468.7	22h_protein	2.0	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 NCU09646.7	22h_protein	0.133974596216	False	22	protein	Fatty-Acid-and-Lipid-Degradation
@@ -2374,7 +2231,6 @@ NCU02287.7	22h_protein	0.0	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08924.7	22h_protein	0.133974596216	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 NCU08828.7	22h_protein	0.0	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 Average	22h_protein	0.627991532072	True	22	protein	Fatty-Acid-and-Lipid-Degradation
-StdDev	22h_protein	0.808255136981	False	22	protein	Fatty-Acid-and-Lipid-Degradation
 NCU03254.7	0h_RNA	1.86602540378	False	0	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	0h_RNA	1.86602540378	False	0	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	0h_RNA	1.86602540378	False	0	RNA	GLYCOLYSIS-VARIANTS
@@ -2384,7 +2240,6 @@ NCU06075.7	0h_RNA	1.86602540378	False	0	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	0h_RNA	0.133974596216	False	0	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	0h_RNA	0.133974596216	False	0	RNA	GLYCOLYSIS-VARIANTS
 Average	0h_RNA	1.21650635094	True	0	RNA	GLYCOLYSIS-VARIANTS
-StdDev	0h_RNA	0.83852549156	False	0	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	0h_protein	0.133974596216	False	0	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	0h_protein	0.133974596216	False	0	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	0h_protein	1.0	False	0	protein	GLYCOLYSIS-VARIANTS
@@ -2394,7 +2249,6 @@ NCU06075.7	0h_protein	2.0	False	0	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	0h_protein	2.0	False	0	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	0h_protein	2.0	False	0	protein	GLYCOLYSIS-VARIANTS
 Average	0h_protein	1.22099364905	True	0	protein	GLYCOLYSIS-VARIANTS
-StdDev	0h_protein	0.818481403013	False	0	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	2h_RNA	1.5	False	2	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	2h_RNA	2.0	False	2	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	2h_RNA	2.0	False	2	RNA	GLYCOLYSIS-VARIANTS
@@ -2404,7 +2258,6 @@ NCU06075.7	2h_RNA	1.5	False	2	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	2h_RNA	0.5	False	2	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	2h_RNA	0.5	False	2	RNA	GLYCOLYSIS-VARIANTS
 Average	2h_RNA	1.3125	True	2	RNA	GLYCOLYSIS-VARIANTS
-StdDev	2h_RNA	0.658478359553	False	2	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	2h_protein	0.0	False	2	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	2h_protein	0.5	False	2	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	2h_protein	1.5	False	2	protein	GLYCOLYSIS-VARIANTS
@@ -2414,7 +2267,6 @@ NCU06075.7	2h_protein	1.86602540378	False	2	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	2h_protein	1.86602540378	False	2	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	2h_protein	1.86602540378	False	2	protein	GLYCOLYSIS-VARIANTS
 Average	2h_protein	1.30801270189	True	2	protein	GLYCOLYSIS-VARIANTS
-StdDev	2h_protein	0.683833441322	False	2	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	4h_RNA	1.0	False	4	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	4h_RNA	1.86602540378	False	4	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	4h_RNA	1.86602540378	False	4	RNA	GLYCOLYSIS-VARIANTS
@@ -2424,7 +2276,6 @@ NCU06075.7	4h_RNA	1.0	False	4	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	4h_RNA	1.0	False	4	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	4h_RNA	1.0	False	4	RNA	GLYCOLYSIS-VARIANTS
 Average	4h_RNA	1.32475952642	True	4	RNA	GLYCOLYSIS-VARIANTS
-StdDev	4h_RNA	0.419262745779	False	4	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	4h_protein	0.133974596216	False	4	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	4h_protein	1.0	False	4	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	4h_protein	1.86602540378	False	4	protein	GLYCOLYSIS-VARIANTS
@@ -2434,7 +2285,6 @@ NCU06075.7	4h_protein	1.5	False	4	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	4h_protein	1.5	False	4	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	4h_protein	1.5	False	4	protein	GLYCOLYSIS-VARIANTS
 Average	4h_protein	1.3125	True	4	protein	GLYCOLYSIS-VARIANTS
-StdDev	4h_protein	0.496078370824	False	4	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	6h_RNA	0.5	False	6	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	6h_RNA	1.5	False	6	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	6h_RNA	1.5	False	6	RNA	GLYCOLYSIS-VARIANTS
@@ -2444,7 +2294,6 @@ NCU06075.7	6h_RNA	0.5	False	6	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	6h_RNA	1.5	False	6	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	6h_RNA	1.5	False	6	RNA	GLYCOLYSIS-VARIANTS
 Average	6h_RNA	1.25	True	6	RNA	GLYCOLYSIS-VARIANTS
-StdDev	6h_RNA	0.433012701892	False	6	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	6h_protein	0.5	False	6	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	6h_protein	1.5	False	6	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	6h_protein	2.0	False	6	protein	GLYCOLYSIS-VARIANTS
@@ -2454,7 +2303,6 @@ NCU06075.7	6h_protein	1.0	False	6	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	6h_protein	1.0	False	6	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	6h_protein	1.0	False	6	protein	GLYCOLYSIS-VARIANTS
 Average	6h_protein	1.23325317547	True	6	protein	GLYCOLYSIS-VARIANTS
-StdDev	6h_protein	0.476280333555	False	6	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	8h_RNA	0.133974596216	False	8	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	8h_RNA	1.0	False	8	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	8h_RNA	1.0	False	8	RNA	GLYCOLYSIS-VARIANTS
@@ -2464,7 +2312,6 @@ NCU06075.7	8h_RNA	0.133974596216	False	8	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	8h_RNA	1.86602540378	False	8	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	8h_RNA	1.86602540378	False	8	RNA	GLYCOLYSIS-VARIANTS
 Average	8h_RNA	1.10825317547	True	8	RNA	GLYCOLYSIS-VARIANTS
-StdDev	8h_RNA	0.676040864147	False	8	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	8h_protein	1.0	False	8	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	8h_protein	1.86602540378	False	8	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	8h_protein	1.86602540378	False	8	protein	GLYCOLYSIS-VARIANTS
@@ -2474,7 +2321,6 @@ NCU06075.7	8h_protein	0.5	False	8	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	8h_protein	0.5	False	8	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	8h_protein	0.5	False	8	protein	GLYCOLYSIS-VARIANTS
 Average	8h_protein	1.09150635095	True	8	protein	GLYCOLYSIS-VARIANTS
-StdDev	8h_protein	0.655077543299	False	8	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	10h_RNA	0.0	False	10	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	10h_RNA	0.5	False	10	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	10h_RNA	0.5	False	10	RNA	GLYCOLYSIS-VARIANTS
@@ -2484,7 +2330,6 @@ NCU06075.7	10h_RNA	0.0	False	10	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	10h_RNA	2.0	False	10	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	10h_RNA	2.0	False	10	RNA	GLYCOLYSIS-VARIANTS
 Average	10h_RNA	0.9375	True	10	RNA	GLYCOLYSIS-VARIANTS
-StdDev	10h_RNA	0.845484328654	False	10	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	10h_protein	1.5	False	10	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	10h_protein	2.0	False	10	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	10h_protein	1.5	False	10	protein	GLYCOLYSIS-VARIANTS
@@ -2494,7 +2339,6 @@ NCU06075.7	10h_protein	0.133974596216	False	10	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	10h_protein	0.133974596216	False	10	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	10h_protein	0.133974596216	False	10	protein	GLYCOLYSIS-VARIANTS
 Average	10h_protein	0.925240473581	True	10	protein	GLYCOLYSIS-VARIANTS
-StdDev	10h_protein	0.80663561365	False	10	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	12h_RNA	0.133974596216	False	12	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	12h_RNA	0.133974596216	False	12	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	12h_RNA	0.133974596216	False	12	RNA	GLYCOLYSIS-VARIANTS
@@ -2504,7 +2348,6 @@ NCU06075.7	12h_RNA	0.133974596216	False	12	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	12h_RNA	1.86602540378	False	12	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	12h_RNA	1.86602540378	False	12	RNA	GLYCOLYSIS-VARIANTS
 Average	12h_RNA	0.783493649052	True	12	RNA	GLYCOLYSIS-VARIANTS
-StdDev	12h_RNA	0.83852549156	False	12	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	12h_protein	1.86602540378	False	12	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	12h_protein	1.86602540378	False	12	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	12h_protein	1.0	False	12	protein	GLYCOLYSIS-VARIANTS
@@ -2514,7 +2357,6 @@ NCU06075.7	12h_protein	0.0	False	12	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	12h_protein	0.0	False	12	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	12h_protein	0.0	False	12	protein	GLYCOLYSIS-VARIANTS
 Average	12h_protein	0.779006350945	True	12	protein	GLYCOLYSIS-VARIANTS
-StdDev	12h_protein	0.818481403011	False	12	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	14h_RNA	0.5	False	14	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	14h_RNA	0.0	False	14	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	14h_RNA	0.0	False	14	RNA	GLYCOLYSIS-VARIANTS
@@ -2524,7 +2366,6 @@ NCU06075.7	14h_RNA	0.5	False	14	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	14h_RNA	1.5	False	14	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	14h_RNA	1.5	False	14	RNA	GLYCOLYSIS-VARIANTS
 Average	14h_RNA	0.6875	True	14	RNA	GLYCOLYSIS-VARIANTS
-StdDev	14h_RNA	0.658478359553	False	14	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	14h_protein	2.0	False	14	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	14h_protein	1.5	False	14	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	14h_protein	0.5	False	14	protein	GLYCOLYSIS-VARIANTS
@@ -2534,7 +2375,6 @@ NCU06075.7	14h_protein	0.133974596216	False	14	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	14h_protein	0.133974596216	False	14	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	14h_protein	0.133974596216	False	14	protein	GLYCOLYSIS-VARIANTS
 Average	14h_protein	0.691987298108	True	14	protein	GLYCOLYSIS-VARIANTS
-StdDev	14h_protein	0.683833441324	False	14	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	16h_RNA	1.0	False	16	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	16h_RNA	0.133974596216	False	16	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	16h_RNA	0.133974596216	False	16	RNA	GLYCOLYSIS-VARIANTS
@@ -2544,7 +2384,6 @@ NCU06075.7	16h_RNA	1.0	False	16	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	16h_RNA	1.0	False	16	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	16h_RNA	1.0	False	16	RNA	GLYCOLYSIS-VARIANTS
 Average	16h_RNA	0.675240473581	True	16	RNA	GLYCOLYSIS-VARIANTS
-StdDev	16h_RNA	0.419262745781	False	16	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	16h_protein	1.86602540378	False	16	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	16h_protein	1.0	False	16	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	16h_protein	0.133974596216	False	16	protein	GLYCOLYSIS-VARIANTS
@@ -2554,7 +2393,6 @@ NCU06075.7	16h_protein	0.5	False	16	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	16h_protein	0.5	False	16	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	16h_protein	0.5	False	16	protein	GLYCOLYSIS-VARIANTS
 Average	16h_protein	0.687499999999	True	16	protein	GLYCOLYSIS-VARIANTS
-StdDev	16h_protein	0.496078370823	False	16	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	18h_RNA	1.5	False	18	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	18h_RNA	0.5	False	18	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	18h_RNA	0.5	False	18	RNA	GLYCOLYSIS-VARIANTS
@@ -2564,7 +2402,6 @@ NCU06075.7	18h_RNA	1.5	False	18	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	18h_RNA	0.5	False	18	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	18h_RNA	0.5	False	18	RNA	GLYCOLYSIS-VARIANTS
 Average	18h_RNA	0.75	True	18	RNA	GLYCOLYSIS-VARIANTS
-StdDev	18h_RNA	0.433012701892	False	18	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	18h_protein	1.5	False	18	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	18h_protein	0.5	False	18	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	18h_protein	0.0	False	18	protein	GLYCOLYSIS-VARIANTS
@@ -2574,7 +2411,6 @@ NCU06075.7	18h_protein	1.0	False	18	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	18h_protein	1.0	False	18	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	18h_protein	1.0	False	18	protein	GLYCOLYSIS-VARIANTS
 Average	18h_protein	0.766746824527	True	18	protein	GLYCOLYSIS-VARIANTS
-StdDev	18h_protein	0.476280333555	False	18	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	20h_RNA	1.86602540378	False	20	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	20h_RNA	1.0	False	20	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	20h_RNA	1.0	False	20	RNA	GLYCOLYSIS-VARIANTS
@@ -2584,7 +2420,6 @@ NCU06075.7	20h_RNA	1.86602540378	False	20	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	20h_RNA	0.133974596216	False	20	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	20h_RNA	0.133974596216	False	20	RNA	GLYCOLYSIS-VARIANTS
 Average	20h_RNA	0.891746824526	True	20	RNA	GLYCOLYSIS-VARIANTS
-StdDev	20h_RNA	0.676040864148	False	20	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	20h_protein	1.0	False	20	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	20h_protein	0.133974596216	False	20	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	20h_protein	0.133974596216	False	20	protein	GLYCOLYSIS-VARIANTS
@@ -2594,7 +2429,6 @@ NCU06075.7	20h_protein	1.5	False	20	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	20h_protein	1.5	False	20	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	20h_protein	1.5	False	20	protein	GLYCOLYSIS-VARIANTS
 Average	20h_protein	0.908493649054	True	20	protein	GLYCOLYSIS-VARIANTS
-StdDev	20h_protein	0.6550775433	False	20	protein	GLYCOLYSIS-VARIANTS
 NCU03254.7	22h_RNA	2.0	False	22	RNA	GLYCOLYSIS-VARIANTS
 NCU04963.7	22h_RNA	1.5	False	22	RNA	GLYCOLYSIS-VARIANTS
 NCU07169.7	22h_RNA	1.5	False	22	RNA	GLYCOLYSIS-VARIANTS
@@ -2604,7 +2438,6 @@ NCU06075.7	22h_RNA	2.0	False	22	RNA	GLYCOLYSIS-VARIANTS
 NCU02252.7	22h_RNA	0.0	False	22	RNA	GLYCOLYSIS-VARIANTS
 NCU07550.7	22h_RNA	0.0	False	22	RNA	GLYCOLYSIS-VARIANTS
 Average	22h_RNA	1.0625	True	22	RNA	GLYCOLYSIS-VARIANTS
-StdDev	22h_RNA	0.845484328654	False	22	RNA	GLYCOLYSIS-VARIANTS
 NCU03254.7	22h_protein	0.5	False	22	protein	GLYCOLYSIS-VARIANTS
 NCU04963.7	22h_protein	0.0	False	22	protein	GLYCOLYSIS-VARIANTS
 NCU07169.7	22h_protein	0.5	False	22	protein	GLYCOLYSIS-VARIANTS
@@ -2614,7 +2447,6 @@ NCU06075.7	22h_protein	1.86602540378	False	22	protein	GLYCOLYSIS-VARIANTS
 NCU02252.7	22h_protein	1.86602540378	False	22	protein	GLYCOLYSIS-VARIANTS
 NCU07550.7	22h_protein	1.86602540378	False	22	protein	GLYCOLYSIS-VARIANTS
 Average	22h_protein	1.07475952642	True	22	protein	GLYCOLYSIS-VARIANTS
-StdDev	22h_protein	0.806635613648	False	22	protein	GLYCOLYSIS-VARIANTS
 NCU00720.7	0h_RNA	0.133974596216	False	0	RNA	Fermentation
 NCU02252.7	0h_RNA	0.133974596216	False	0	RNA	Fermentation
 NCU07550.7	0h_RNA	0.133974596216	False	0	RNA	Fermentation
@@ -2626,7 +2458,6 @@ NCU00963.7	0h_RNA	1.0	False	0	RNA	Fermentation
 NCU03813.7	0h_RNA	0.133974596216	False	0	RNA	Fermentation
 NCU09803.7	0h_RNA	1.0	False	0	RNA	Fermentation
 Average	0h_RNA	0.653589838486	True	0	RNA	Fermentation
-StdDev	0h_RNA	0.692820323026	False	0	RNA	Fermentation
 NCU00720.7	0h_protein	1.86602540378	False	0	protein	Fermentation
 NCU02252.7	0h_protein	2.0	False	0	protein	Fermentation
 NCU07550.7	0h_protein	2.0	False	0	protein	Fermentation
@@ -2638,7 +2469,6 @@ NCU00963.7	0h_protein	0.0	False	0	protein	Fermentation
 NCU03813.7	0h_protein	2.0	False	0	protein	Fermentation
 NCU09803.7	0h_protein	0.0	False	0	protein	Fermentation
 Average	0h_protein	1.42320508076	True	0	protein	Fermentation
-StdDev	0h_protein	0.834204686885	False	0	protein	Fermentation
 NCU00720.7	2h_RNA	0.0	False	2	RNA	Fermentation
 NCU02252.7	2h_RNA	0.5	False	2	RNA	Fermentation
 NCU07550.7	2h_RNA	0.5	False	2	RNA	Fermentation
@@ -2650,7 +2480,6 @@ NCU00963.7	2h_RNA	0.5	False	2	RNA	Fermentation
 NCU03813.7	2h_RNA	0.5	False	2	RNA	Fermentation
 NCU09803.7	2h_RNA	1.5	False	2	RNA	Fermentation
 Average	2h_RNA	0.8	True	2	RNA	Fermentation
-StdDev	2h_RNA	0.6	False	2	RNA	Fermentation
 NCU00720.7	2h_protein	1.5	False	2	protein	Fermentation
 NCU02252.7	2h_protein	1.86602540378	False	2	protein	Fermentation
 NCU07550.7	2h_protein	1.86602540378	False	2	protein	Fermentation
@@ -2662,7 +2491,6 @@ NCU00963.7	2h_protein	0.133974596216	False	2	protein	Fermentation
 NCU03813.7	2h_protein	1.86602540378	False	2	protein	Fermentation
 NCU09803.7	2h_protein	0.133974596216	False	2	protein	Fermentation
 Average	2h_protein	1.40980762113	True	2	protein	Fermentation
-StdDev	2h_protein	0.694303761805	False	2	protein	Fermentation
 NCU00720.7	4h_RNA	0.133974596216	False	4	RNA	Fermentation
 NCU02252.7	4h_RNA	1.0	False	4	RNA	Fermentation
 NCU07550.7	4h_RNA	1.0	False	4	RNA	Fermentation
@@ -2674,7 +2502,6 @@ NCU00963.7	4h_RNA	0.133974596216	False	4	RNA	Fermentation
 NCU03813.7	4h_RNA	1.0	False	4	RNA	Fermentation
 NCU09803.7	4h_RNA	1.86602540378	False	4	RNA	Fermentation
 Average	4h_RNA	0.999999999999	True	4	RNA	Fermentation
-StdDev	4h_RNA	0.547722557504	False	4	RNA	Fermentation
 NCU00720.7	4h_protein	1.0	False	4	protein	Fermentation
 NCU02252.7	4h_protein	1.5	False	4	protein	Fermentation
 NCU07550.7	4h_protein	1.5	False	4	protein	Fermentation
@@ -2686,7 +2513,6 @@ NCU00963.7	4h_protein	0.5	False	4	protein	Fermentation
 NCU03813.7	4h_protein	1.5	False	4	protein	Fermentation
 NCU09803.7	4h_protein	0.5	False	4	protein	Fermentation
 Average	4h_protein	1.28660254038	True	4	protein	Fermentation
-StdDev	4h_protein	0.439157128882	False	4	protein	Fermentation
 NCU00720.7	6h_RNA	0.5	False	6	RNA	Fermentation
 NCU02252.7	6h_RNA	1.5	False	6	RNA	Fermentation
 NCU07550.7	6h_RNA	1.5	False	6	RNA	Fermentation
@@ -2698,7 +2524,6 @@ NCU00963.7	6h_RNA	0.0	False	6	RNA	Fermentation
 NCU03813.7	6h_RNA	1.5	False	6	RNA	Fermentation
 NCU09803.7	6h_RNA	2.0	False	6	RNA	Fermentation
 Average	6h_RNA	1.2	True	6	RNA	Fermentation
-StdDev	6h_RNA	0.6	False	6	RNA	Fermentation
 NCU00720.7	6h_protein	0.5	False	6	protein	Fermentation
 NCU02252.7	6h_protein	1.0	False	6	protein	Fermentation
 NCU07550.7	6h_protein	1.0	False	6	protein	Fermentation
@@ -2710,7 +2535,6 @@ NCU00963.7	6h_protein	1.0	False	6	protein	Fermentation
 NCU03813.7	6h_protein	1.0	False	6	protein	Fermentation
 NCU09803.7	6h_protein	1.0	False	6	protein	Fermentation
 Average	6h_protein	1.08660254038	True	6	protein	Fermentation
-StdDev	6h_protein	0.342782730019	False	6	protein	Fermentation
 NCU00720.7	8h_RNA	1.0	False	8	RNA	Fermentation
 NCU02252.7	8h_RNA	1.86602540378	False	8	RNA	Fermentation
 NCU07550.7	8h_RNA	1.86602540378	False	8	RNA	Fermentation
@@ -2722,7 +2546,6 @@ NCU00963.7	8h_RNA	0.133974596216	False	8	RNA	Fermentation
 NCU03813.7	8h_RNA	1.86602540378	False	8	RNA	Fermentation
 NCU09803.7	8h_RNA	1.86602540378	False	8	RNA	Fermentation
 Average	8h_RNA	1.34641016151	True	8	RNA	Fermentation
-StdDev	8h_RNA	0.692820323025	False	8	RNA	Fermentation
 NCU00720.7	8h_protein	0.133974596216	False	8	protein	Fermentation
 NCU02252.7	8h_protein	0.5	False	8	protein	Fermentation
 NCU07550.7	8h_protein	0.5	False	8	protein	Fermentation
@@ -2734,7 +2557,6 @@ NCU00963.7	8h_protein	1.5	False	8	protein	Fermentation
 NCU03813.7	8h_protein	0.5	False	8	protein	Fermentation
 NCU09803.7	8h_protein	1.5	False	8	protein	Fermentation
 Average	8h_protein	0.863397459622	True	8	protein	Fermentation
-StdDev	8h_protein	0.575621182691	False	8	protein	Fermentation
 NCU00720.7	10h_RNA	1.5	False	10	RNA	Fermentation
 NCU02252.7	10h_RNA	2.0	False	10	RNA	Fermentation
 NCU07550.7	10h_RNA	2.0	False	10	RNA	Fermentation
@@ -2746,7 +2568,6 @@ NCU00963.7	10h_RNA	0.5	False	10	RNA	Fermentation
 NCU03813.7	10h_RNA	2.0	False	10	RNA	Fermentation
 NCU09803.7	10h_RNA	1.5	False	10	RNA	Fermentation
 Average	10h_RNA	1.4	True	10	RNA	Fermentation
-StdDev	10h_RNA	0.734846922835	False	10	RNA	Fermentation
 NCU00720.7	10h_protein	0.0	False	10	protein	Fermentation
 NCU02252.7	10h_protein	0.133974596216	False	10	protein	Fermentation
 NCU07550.7	10h_protein	0.133974596216	False	10	protein	Fermentation
@@ -2758,7 +2579,6 @@ NCU00963.7	10h_protein	1.86602540378	False	10	protein	Fermentation
 NCU03813.7	10h_protein	0.133974596216	False	10	protein	Fermentation
 NCU09803.7	10h_protein	1.86602540378	False	10	protein	Fermentation
 Average	10h_protein	0.676794919242	True	10	protein	Fermentation
-StdDev	10h_protein	0.787742645646	False	10	protein	Fermentation
 NCU00720.7	12h_RNA	1.86602540378	False	12	RNA	Fermentation
 NCU02252.7	12h_RNA	1.86602540378	False	12	RNA	Fermentation
 NCU07550.7	12h_RNA	1.86602540378	False	12	RNA	Fermentation
@@ -2770,7 +2590,6 @@ NCU00963.7	12h_RNA	1.0	False	12	RNA	Fermentation
 NCU03813.7	12h_RNA	1.86602540378	False	12	RNA	Fermentation
 NCU09803.7	12h_RNA	1.0	False	12	RNA	Fermentation
 Average	12h_RNA	1.34641016151	True	12	RNA	Fermentation
-StdDev	12h_RNA	0.692820323025	False	12	RNA	Fermentation
 NCU00720.7	12h_protein	0.133974596216	False	12	protein	Fermentation
 NCU02252.7	12h_protein	0.0	False	12	protein	Fermentation
 NCU07550.7	12h_protein	0.0	False	12	protein	Fermentation
@@ -2782,7 +2601,6 @@ NCU00963.7	12h_protein	2.0	False	12	protein	Fermentation
 NCU03813.7	12h_protein	0.0	False	12	protein	Fermentation
 NCU09803.7	12h_protein	2.0	False	12	protein	Fermentation
 Average	12h_protein	0.576794919243	True	12	protein	Fermentation
-StdDev	12h_protein	0.834204686885	False	12	protein	Fermentation
 NCU00720.7	14h_RNA	2.0	False	14	RNA	Fermentation
 NCU02252.7	14h_RNA	1.5	False	14	RNA	Fermentation
 NCU07550.7	14h_RNA	1.5	False	14	RNA	Fermentation
@@ -2794,7 +2612,6 @@ NCU00963.7	14h_RNA	1.5	False	14	RNA	Fermentation
 NCU03813.7	14h_RNA	1.5	False	14	RNA	Fermentation
 NCU09803.7	14h_RNA	0.5	False	14	RNA	Fermentation
 Average	14h_RNA	1.2	True	14	RNA	Fermentation
-StdDev	14h_RNA	0.6	False	14	RNA	Fermentation
 NCU00720.7	14h_protein	0.5	False	14	protein	Fermentation
 NCU02252.7	14h_protein	0.133974596216	False	14	protein	Fermentation
 NCU07550.7	14h_protein	0.133974596216	False	14	protein	Fermentation
@@ -2806,7 +2623,6 @@ NCU00963.7	14h_protein	1.86602540378	False	14	protein	Fermentation
 NCU03813.7	14h_protein	0.133974596216	False	14	protein	Fermentation
 NCU09803.7	14h_protein	1.86602540378	False	14	protein	Fermentation
 Average	14h_protein	0.590192378864	True	14	protein	Fermentation
-StdDev	14h_protein	0.694303761805	False	14	protein	Fermentation
 NCU00720.7	16h_RNA	1.86602540378	False	16	RNA	Fermentation
 NCU02252.7	16h_RNA	1.0	False	16	RNA	Fermentation
 NCU07550.7	16h_RNA	1.0	False	16	RNA	Fermentation
@@ -2818,7 +2634,6 @@ NCU00963.7	16h_RNA	1.86602540378	False	16	RNA	Fermentation
 NCU03813.7	16h_RNA	1.0	False	16	RNA	Fermentation
 NCU09803.7	16h_RNA	0.133974596216	False	16	RNA	Fermentation
 Average	16h_RNA	0.999999999999	True	16	RNA	Fermentation
-StdDev	16h_RNA	0.547722557504	False	16	RNA	Fermentation
 NCU00720.7	16h_protein	1.0	False	16	protein	Fermentation
 NCU02252.7	16h_protein	0.5	False	16	protein	Fermentation
 NCU07550.7	16h_protein	0.5	False	16	protein	Fermentation
@@ -2830,7 +2645,6 @@ NCU00963.7	16h_protein	1.5	False	16	protein	Fermentation
 NCU03813.7	16h_protein	0.5	False	16	protein	Fermentation
 NCU09803.7	16h_protein	1.5	False	16	protein	Fermentation
 Average	16h_protein	0.713397459622	True	16	protein	Fermentation
-StdDev	16h_protein	0.439157128883	False	16	protein	Fermentation
 NCU00720.7	18h_RNA	1.5	False	18	RNA	Fermentation
 NCU02252.7	18h_RNA	0.5	False	18	RNA	Fermentation
 NCU07550.7	18h_RNA	0.5	False	18	RNA	Fermentation
@@ -2842,7 +2656,6 @@ NCU00963.7	18h_RNA	2.0	False	18	RNA	Fermentation
 NCU03813.7	18h_RNA	0.5	False	18	RNA	Fermentation
 NCU09803.7	18h_RNA	0.0	False	18	RNA	Fermentation
 Average	18h_RNA	0.8	True	18	RNA	Fermentation
-StdDev	18h_RNA	0.6	False	18	RNA	Fermentation
 NCU00720.7	18h_protein	1.5	False	18	protein	Fermentation
 NCU02252.7	18h_protein	1.0	False	18	protein	Fermentation
 NCU07550.7	18h_protein	1.0	False	18	protein	Fermentation
@@ -2854,7 +2667,6 @@ NCU00963.7	18h_protein	1.0	False	18	protein	Fermentation
 NCU03813.7	18h_protein	1.0	False	18	protein	Fermentation
 NCU09803.7	18h_protein	1.0	False	18	protein	Fermentation
 Average	18h_protein	0.913397459622	True	18	protein	Fermentation
-StdDev	18h_protein	0.34278273002	False	18	protein	Fermentation
 NCU00720.7	20h_RNA	1.0	False	20	RNA	Fermentation
 NCU02252.7	20h_RNA	0.133974596216	False	20	RNA	Fermentation
 NCU07550.7	20h_RNA	0.133974596216	False	20	RNA	Fermentation
@@ -2866,7 +2678,6 @@ NCU00963.7	20h_RNA	1.86602540378	False	20	RNA	Fermentation
 NCU03813.7	20h_RNA	0.133974596216	False	20	RNA	Fermentation
 NCU09803.7	20h_RNA	0.133974596216	False	20	RNA	Fermentation
 Average	20h_RNA	0.653589838486	True	20	RNA	Fermentation
-StdDev	20h_RNA	0.692820323026	False	20	RNA	Fermentation
 NCU00720.7	20h_protein	1.86602540378	False	20	protein	Fermentation
 NCU02252.7	20h_protein	1.5	False	20	protein	Fermentation
 NCU07550.7	20h_protein	1.5	False	20	protein	Fermentation
@@ -2878,7 +2689,6 @@ NCU00963.7	20h_protein	0.5	False	20	protein	Fermentation
 NCU03813.7	20h_protein	1.5	False	20	protein	Fermentation
 NCU09803.7	20h_protein	0.5	False	20	protein	Fermentation
 Average	20h_protein	1.13660254038	True	20	protein	Fermentation
-StdDev	20h_protein	0.57562118269	False	20	protein	Fermentation
 NCU00720.7	22h_RNA	0.5	False	22	RNA	Fermentation
 NCU02252.7	22h_RNA	0.0	False	22	RNA	Fermentation
 NCU07550.7	22h_RNA	0.0	False	22	RNA	Fermentation
@@ -2890,7 +2700,6 @@ NCU00963.7	22h_RNA	1.5	False	22	RNA	Fermentation
 NCU03813.7	22h_RNA	0.0	False	22	RNA	Fermentation
 NCU09803.7	22h_RNA	0.5	False	22	RNA	Fermentation
 Average	22h_RNA	0.6	True	22	RNA	Fermentation
-StdDev	22h_RNA	0.734846922835	False	22	RNA	Fermentation
 NCU00720.7	22h_protein	2.0	False	22	protein	Fermentation
 NCU02252.7	22h_protein	1.86602540378	False	22	protein	Fermentation
 NCU07550.7	22h_protein	1.86602540378	False	22	protein	Fermentation
@@ -2902,4 +2711,3 @@ NCU00963.7	22h_protein	0.133974596216	False	22	protein	Fermentation
 NCU03813.7	22h_protein	1.86602540378	False	22	protein	Fermentation
 NCU09803.7	22h_protein	0.133974596216	False	22	protein	Fermentation
 Average	22h_protein	1.32320508075	True	22	protein	Fermentation
-StdDev	22h_protein	0.787742645647	False	22	protein	Fermentation

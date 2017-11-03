@@ -11,7 +11,6 @@ NCU10400.7	0h_RNA	0.133974596216	False	0	RNA	Lipid-Biosynthesis
 NCU02726.7	0h_RNA	1.5	False	0	RNA	Lipid-Biosynthesis
 NCU04289.7	0h_RNA	1.0	False	0	RNA	Lipid-Biosynthesis
 Average	0h_RNA	1.13636363636	True	0	RNA	Lipid-Biosynthesis
-StdDev	0h_RNA	0.606439275642	False	0	RNA	Lipid-Biosynthesis
 NCU02209.7	0h_protein	1.0	False	0	protein	Lipid-Biosynthesis
 NCU08280.7	0h_protein	2.0	False	0	protein	Lipid-Biosynthesis
 NCU00712.7	0h_protein	1.86602540378	False	0	protein	Lipid-Biosynthesis
@@ -24,7 +23,6 @@ NCU10400.7	0h_protein	1.0	False	0	protein	Lipid-Biosynthesis
 NCU02726.7	0h_protein	1.86602540378	False	0	protein	Lipid-Biosynthesis
 NCU04289.7	0h_protein	2.0	False	0	protein	Lipid-Biosynthesis
 Average	0h_protein	1.71182972899	True	0	protein	Lipid-Biosynthesis
-StdDev	0h_protein	0.360086202575	False	0	protein	Lipid-Biosynthesis
 NCU02209.7	2h_RNA	1.86602540378	False	2	RNA	Lipid-Biosynthesis
 NCU08280.7	2h_RNA	0.133974596216	False	2	RNA	Lipid-Biosynthesis
 NCU00712.7	2h_RNA	2.0	False	2	RNA	Lipid-Biosynthesis
@@ -37,7 +35,6 @@ NCU10400.7	2h_RNA	0.5	False	2	RNA	Lipid-Biosynthesis
 NCU02726.7	2h_RNA	1.0	False	2	RNA	Lipid-Biosynthesis
 NCU04289.7	2h_RNA	0.5	False	2	RNA	Lipid-Biosynthesis
 Average	2h_RNA	0.999999999999	True	2	RNA	Lipid-Biosynthesis
-StdDev	2h_RNA	0.738548945874	False	2	RNA	Lipid-Biosynthesis
 NCU02209.7	2h_protein	1.5	False	2	protein	Lipid-Biosynthesis
 NCU08280.7	2h_protein	1.86602540378	False	2	protein	Lipid-Biosynthesis
 NCU00712.7	2h_protein	2.0	False	2	protein	Lipid-Biosynthesis
@@ -50,7 +47,6 @@ NCU10400.7	2h_protein	0.5	False	2	protein	Lipid-Biosynthesis
 NCU02726.7	2h_protein	2.0	False	2	protein	Lipid-Biosynthesis
 NCU04289.7	2h_protein	1.86602540378	False	2	protein	Lipid-Biosynthesis
 Average	2h_protein	1.72400923774	True	2	protein	Lipid-Biosynthesis
-StdDev	2h_protein	0.424683503579	False	2	protein	Lipid-Biosynthesis
 NCU02209.7	4h_RNA	2.0	False	4	RNA	Lipid-Biosynthesis
 NCU08280.7	4h_RNA	0.0	False	4	RNA	Lipid-Biosynthesis
 NCU00712.7	4h_RNA	1.86602540378	False	4	RNA	Lipid-Biosynthesis
@@ -63,7 +59,6 @@ NCU10400.7	4h_RNA	1.0	False	4	RNA	Lipid-Biosynthesis
 NCU02726.7	4h_RNA	0.5	False	4	RNA	Lipid-Biosynthesis
 NCU04289.7	4h_RNA	0.133974596216	False	4	RNA	Lipid-Biosynthesis
 Average	4h_RNA	0.863636363636	True	4	RNA	Lipid-Biosynthesis
-StdDev	4h_RNA	0.800309857348	False	4	RNA	Lipid-Biosynthesis
 NCU02209.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
 NCU08280.7	4h_protein	1.5	False	4	protein	Lipid-Biosynthesis
 NCU00712.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
@@ -76,7 +71,6 @@ NCU10400.7	4h_protein	0.133974596216	False	4	protein	Lipid-Biosynthesis
 NCU02726.7	4h_protein	1.86602540378	False	4	protein	Lipid-Biosynthesis
 NCU04289.7	4h_protein	1.5	False	4	protein	Lipid-Biosynthesis
 Average	4h_protein	1.54219105592	True	4	protein	Lipid-Biosynthesis
-StdDev	4h_protein	0.52365129338	False	4	protein	Lipid-Biosynthesis
 NCU02209.7	6h_RNA	1.86602540378	False	6	RNA	Lipid-Biosynthesis
 NCU08280.7	6h_RNA	0.133974596216	False	6	RNA	Lipid-Biosynthesis
 NCU00712.7	6h_RNA	1.5	False	6	RNA	Lipid-Biosynthesis
@@ -89,7 +83,6 @@ NCU10400.7	6h_RNA	1.5	False	6	RNA	Lipid-Biosynthesis
 NCU02726.7	6h_RNA	0.133974596216	False	6	RNA	Lipid-Biosynthesis
 NCU04289.7	6h_RNA	0.0	False	6	RNA	Lipid-Biosynthesis
 Average	6h_RNA	0.763811253513	True	6	RNA	Lipid-Biosynthesis
-StdDev	6h_RNA	0.746894396597	False	6	RNA	Lipid-Biosynthesis
 NCU02209.7	6h_protein	2.0	False	6	protein	Lipid-Biosynthesis
 NCU08280.7	6h_protein	1.0	False	6	protein	Lipid-Biosynthesis
 NCU00712.7	6h_protein	1.5	False	6	protein	Lipid-Biosynthesis
@@ -102,7 +95,6 @@ NCU10400.7	6h_protein	0.0	False	6	protein	Lipid-Biosynthesis
 NCU02726.7	6h_protein	1.5	False	6	protein	Lipid-Biosynthesis
 NCU04289.7	6h_protein	1.0	False	6	protein	Lipid-Biosynthesis
 Average	6h_protein	1.21509321853	True	6	protein	Lipid-Biosynthesis
-StdDev	6h_protein	0.563357143365	False	6	protein	Lipid-Biosynthesis
 NCU02209.7	8h_RNA	1.5	False	8	RNA	Lipid-Biosynthesis
 NCU08280.7	8h_RNA	0.5	False	8	RNA	Lipid-Biosynthesis
 NCU00712.7	8h_RNA	1.0	False	8	RNA	Lipid-Biosynthesis
@@ -115,7 +107,6 @@ NCU10400.7	8h_RNA	1.86602540378	False	8	RNA	Lipid-Biosynthesis
 NCU02726.7	8h_RNA	0.0	False	8	RNA	Lipid-Biosynthesis
 NCU04289.7	8h_RNA	0.133974596216	False	8	RNA	Lipid-Biosynthesis
 Average	8h_RNA	0.727272727272	True	8	RNA	Lipid-Biosynthesis
-StdDev	8h_RNA	0.616575453011	False	8	RNA	Lipid-Biosynthesis
 NCU02209.7	8h_protein	1.86602540378	False	8	protein	Lipid-Biosynthesis
 NCU08280.7	8h_protein	0.5	False	8	protein	Lipid-Biosynthesis
 NCU00712.7	8h_protein	1.0	False	8	protein	Lipid-Biosynthesis
@@ -128,7 +119,6 @@ NCU10400.7	8h_protein	0.133974596216	False	8	protein	Lipid-Biosynthesis
 NCU02726.7	8h_protein	1.0	False	8	protein	Lipid-Biosynthesis
 NCU04289.7	8h_protein	0.5	False	8	protein	Lipid-Biosynthesis
 Average	8h_protein	0.830361326928	True	8	protein	Lipid-Biosynthesis
-StdDev	8h_protein	0.516408042203	False	8	protein	Lipid-Biosynthesis
 NCU02209.7	10h_RNA	1.0	False	10	RNA	Lipid-Biosynthesis
 NCU08280.7	10h_RNA	1.0	False	10	RNA	Lipid-Biosynthesis
 NCU00712.7	10h_RNA	0.5	False	10	RNA	Lipid-Biosynthesis
@@ -141,7 +131,6 @@ NCU10400.7	10h_RNA	2.0	False	10	RNA	Lipid-Biosynthesis
 NCU02726.7	10h_RNA	0.133974596216	False	10	RNA	Lipid-Biosynthesis
 NCU04289.7	10h_RNA	0.5	False	10	RNA	Lipid-Biosynthesis
 Average	10h_RNA	0.763811253513	True	10	RNA	Lipid-Biosynthesis
-StdDev	10h_RNA	0.533970005658	False	10	RNA	Lipid-Biosynthesis
 NCU02209.7	10h_protein	1.5	False	10	protein	Lipid-Biosynthesis
 NCU08280.7	10h_protein	0.133974596216	False	10	protein	Lipid-Biosynthesis
 NCU00712.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
@@ -154,7 +143,6 @@ NCU10400.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
 NCU02726.7	10h_protein	0.5	False	10	protein	Lipid-Biosynthesis
 NCU04289.7	10h_protein	0.133974596216	False	10	protein	Lipid-Biosynthesis
 Average	10h_protein	0.491083980786	True	10	protein	Lipid-Biosynthesis
-StdDev	10h_protein	0.415719457333	False	10	protein	Lipid-Biosynthesis
 NCU02209.7	12h_RNA	0.5	False	12	RNA	Lipid-Biosynthesis
 NCU08280.7	12h_RNA	1.5	False	12	RNA	Lipid-Biosynthesis
 NCU00712.7	12h_RNA	0.133974596216	False	12	RNA	Lipid-Biosynthesis
@@ -167,7 +155,6 @@ NCU10400.7	12h_RNA	1.86602540378	False	12	RNA	Lipid-Biosynthesis
 NCU02726.7	12h_RNA	0.5	False	12	RNA	Lipid-Biosynthesis
 NCU04289.7	12h_RNA	1.0	False	12	RNA	Lipid-Biosynthesis
 Average	12h_RNA	0.863636363636	True	12	RNA	Lipid-Biosynthesis
-StdDev	12h_RNA	0.606439275641	False	12	RNA	Lipid-Biosynthesis
 NCU02209.7	12h_protein	1.0	False	12	protein	Lipid-Biosynthesis
 NCU08280.7	12h_protein	0.0	False	12	protein	Lipid-Biosynthesis
 NCU00712.7	12h_protein	0.133974596216	False	12	protein	Lipid-Biosynthesis
@@ -180,7 +167,6 @@ NCU10400.7	12h_protein	1.0	False	12	protein	Lipid-Biosynthesis
 NCU02726.7	12h_protein	0.133974596216	False	12	protein	Lipid-Biosynthesis
 NCU04289.7	12h_protein	0.0	False	12	protein	Lipid-Biosynthesis
 Average	12h_protein	0.288170271007	True	12	protein	Lipid-Biosynthesis
-StdDev	12h_protein	0.360086202576	False	12	protein	Lipid-Biosynthesis
 NCU02209.7	14h_RNA	0.133974596216	False	14	RNA	Lipid-Biosynthesis
 NCU08280.7	14h_RNA	1.86602540378	False	14	RNA	Lipid-Biosynthesis
 NCU00712.7	14h_RNA	0.0	False	14	RNA	Lipid-Biosynthesis
@@ -193,7 +179,6 @@ NCU10400.7	14h_RNA	1.5	False	14	RNA	Lipid-Biosynthesis
 NCU02726.7	14h_RNA	1.0	False	14	RNA	Lipid-Biosynthesis
 NCU04289.7	14h_RNA	1.5	False	14	RNA	Lipid-Biosynthesis
 Average	14h_RNA	0.999999999999	True	14	RNA	Lipid-Biosynthesis
-StdDev	14h_RNA	0.738548945874	False	14	RNA	Lipid-Biosynthesis
 NCU02209.7	14h_protein	0.5	False	14	protein	Lipid-Biosynthesis
 NCU08280.7	14h_protein	0.133974596216	False	14	protein	Lipid-Biosynthesis
 NCU00712.7	14h_protein	0.0	False	14	protein	Lipid-Biosynthesis
@@ -206,7 +191,6 @@ NCU10400.7	14h_protein	1.5	False	14	protein	Lipid-Biosynthesis
 NCU02726.7	14h_protein	0.0	False	14	protein	Lipid-Biosynthesis
 NCU04289.7	14h_protein	0.133974596216	False	14	protein	Lipid-Biosynthesis
 Average	14h_protein	0.27599076226	True	14	protein	Lipid-Biosynthesis
-StdDev	14h_protein	0.42468350358	False	14	protein	Lipid-Biosynthesis
 NCU02209.7	16h_RNA	0.0	False	16	RNA	Lipid-Biosynthesis
 NCU08280.7	16h_RNA	2.0	False	16	RNA	Lipid-Biosynthesis
 NCU00712.7	16h_RNA	0.133974596216	False	16	RNA	Lipid-Biosynthesis
@@ -219,7 +203,6 @@ NCU10400.7	16h_RNA	1.0	False	16	RNA	Lipid-Biosynthesis
 NCU02726.7	16h_RNA	1.5	False	16	RNA	Lipid-Biosynthesis
 NCU04289.7	16h_RNA	1.86602540378	False	16	RNA	Lipid-Biosynthesis
 Average	16h_RNA	1.13636363636	True	16	RNA	Lipid-Biosynthesis
-StdDev	16h_RNA	0.800309857348	False	16	RNA	Lipid-Biosynthesis
 NCU02209.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
 NCU08280.7	16h_protein	0.5	False	16	protein	Lipid-Biosynthesis
 NCU00712.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
@@ -232,7 +215,6 @@ NCU10400.7	16h_protein	1.86602540378	False	16	protein	Lipid-Biosynthesis
 NCU02726.7	16h_protein	0.133974596216	False	16	protein	Lipid-Biosynthesis
 NCU04289.7	16h_protein	0.5	False	16	protein	Lipid-Biosynthesis
 Average	16h_protein	0.457808944078	True	16	protein	Lipid-Biosynthesis
-StdDev	16h_protein	0.523651293381	False	16	protein	Lipid-Biosynthesis
 NCU02209.7	18h_RNA	0.133974596216	False	18	RNA	Lipid-Biosynthesis
 NCU08280.7	18h_RNA	1.86602540378	False	18	RNA	Lipid-Biosynthesis
 NCU00712.7	18h_RNA	0.5	False	18	RNA	Lipid-Biosynthesis
@@ -245,7 +227,6 @@ NCU10400.7	18h_RNA	0.5	False	18	RNA	Lipid-Biosynthesis
 NCU02726.7	18h_RNA	1.86602540378	False	18	RNA	Lipid-Biosynthesis
 NCU04289.7	18h_RNA	2.0	False	18	RNA	Lipid-Biosynthesis
 Average	18h_RNA	1.23618874648	True	18	RNA	Lipid-Biosynthesis
-StdDev	18h_RNA	0.746894396596	False	18	RNA	Lipid-Biosynthesis
 NCU02209.7	18h_protein	0.0	False	18	protein	Lipid-Biosynthesis
 NCU08280.7	18h_protein	1.0	False	18	protein	Lipid-Biosynthesis
 NCU00712.7	18h_protein	0.5	False	18	protein	Lipid-Biosynthesis
@@ -258,7 +239,6 @@ NCU10400.7	18h_protein	2.0	False	18	protein	Lipid-Biosynthesis
 NCU02726.7	18h_protein	0.5	False	18	protein	Lipid-Biosynthesis
 NCU04289.7	18h_protein	1.0	False	18	protein	Lipid-Biosynthesis
 Average	18h_protein	0.784906781474	True	18	protein	Lipid-Biosynthesis
-StdDev	18h_protein	0.563357143365	False	18	protein	Lipid-Biosynthesis
 NCU02209.7	20h_RNA	0.5	False	20	RNA	Lipid-Biosynthesis
 NCU08280.7	20h_RNA	1.5	False	20	RNA	Lipid-Biosynthesis
 NCU00712.7	20h_RNA	1.0	False	20	RNA	Lipid-Biosynthesis
@@ -271,7 +251,6 @@ NCU10400.7	20h_RNA	0.133974596216	False	20	RNA	Lipid-Biosynthesis
 NCU02726.7	20h_RNA	2.0	False	20	RNA	Lipid-Biosynthesis
 NCU04289.7	20h_RNA	1.86602540378	False	20	RNA	Lipid-Biosynthesis
 Average	20h_RNA	1.27272727273	True	20	RNA	Lipid-Biosynthesis
-StdDev	20h_RNA	0.616575453011	False	20	RNA	Lipid-Biosynthesis
 NCU02209.7	20h_protein	0.133974596216	False	20	protein	Lipid-Biosynthesis
 NCU08280.7	20h_protein	1.5	False	20	protein	Lipid-Biosynthesis
 NCU00712.7	20h_protein	1.0	False	20	protein	Lipid-Biosynthesis
@@ -284,7 +263,6 @@ NCU10400.7	20h_protein	1.86602540378	False	20	protein	Lipid-Biosynthesis
 NCU02726.7	20h_protein	1.0	False	20	protein	Lipid-Biosynthesis
 NCU04289.7	20h_protein	1.5	False	20	protein	Lipid-Biosynthesis
 Average	20h_protein	1.16963867307	True	20	protein	Lipid-Biosynthesis
-StdDev	20h_protein	0.516408042203	False	20	protein	Lipid-Biosynthesis
 NCU02209.7	22h_RNA	1.0	False	22	RNA	Lipid-Biosynthesis
 NCU08280.7	22h_RNA	1.0	False	22	RNA	Lipid-Biosynthesis
 NCU00712.7	22h_RNA	1.5	False	22	RNA	Lipid-Biosynthesis
@@ -297,7 +275,6 @@ NCU10400.7	22h_RNA	0.0	False	22	RNA	Lipid-Biosynthesis
 NCU02726.7	22h_RNA	1.86602540378	False	22	RNA	Lipid-Biosynthesis
 NCU04289.7	22h_RNA	1.5	False	22	RNA	Lipid-Biosynthesis
 Average	22h_RNA	1.23618874649	True	22	RNA	Lipid-Biosynthesis
-StdDev	22h_RNA	0.533970005656	False	22	RNA	Lipid-Biosynthesis
 NCU02209.7	22h_protein	0.5	False	22	protein	Lipid-Biosynthesis
 NCU08280.7	22h_protein	1.86602540378	False	22	protein	Lipid-Biosynthesis
 NCU00712.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
@@ -310,4 +287,3 @@ NCU10400.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
 NCU02726.7	22h_protein	1.5	False	22	protein	Lipid-Biosynthesis
 NCU04289.7	22h_protein	1.86602540378	False	22	protein	Lipid-Biosynthesis
 Average	22h_protein	1.50891601921	True	22	protein	Lipid-Biosynthesis
-StdDev	22h_protein	0.415719457332	False	22	protein	Lipid-Biosynthesis
