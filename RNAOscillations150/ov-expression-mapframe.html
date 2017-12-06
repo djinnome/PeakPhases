@@ -1241,7 +1241,7 @@ fr["NCU03257"] = "tam-1"
 pwyNames = new Array()
 
 function generateURL (obj) {
-  return "NC12/NEW-IMAGE?object=" + obj.replace('\+', '%2b');
+  return "/NC12/NEW-IMAGE?object=" + obj.replace('\+', '%2b');
 }
 
 function menuItem (obj, prefix) {
@@ -1371,8 +1371,8 @@ function ovTtip (cpd, protein, rxn, pwy, superpwy) {
 //-->
 </SCRIPT>
 </head>
-<body bgcolor=#BBBBBB>
-<MAP NAME=MAP24240>
+<body bgcolor=#FFFFFF>
+<MAP NAME=MAP24294>
 <AREA COORDS="62,24,64,26" alt="" HREF="javascript:void(0);" onclick="ovMenu('',0,0,0,0)">
 <AREA COORDS="62,24,64,26" alt="" HREF="javascript:void(0);" onclick="ovMenu('',0,0,0,0)">
 <AREA COORDS="62,24,64,26" alt="" HREF="javascript:void(0);" onclick="ovMenu('',0,0,0,0)">
@@ -4448,9 +4448,7 @@ function ovTtip (cpd, protein, rxn, pwy, superpwy) {
 <AREA COORDS="213,461,276,512" alt="" title="Compound: an (gamma-L-glutamyl)-L-amino acid + cysteinylglycine  <-  a proteinogenic amino acid + glutathione">
 <AREA COORDS="294,427,384,463" alt="" title="Compound: 5,10-methenyltetrahydrofolate + H2O  ->  5-formyl-tetrahydrofolate + 3 H+">
 <AREA COORDS="1462,1106,1485,1250" alt="" title="Compound: L-arginine + L-asparagine + L-cysteine + L-glutamine + L-glutamate + glycine + L-histidine + L-isoleucine + L-alanine + L-aspartate + L-leucine + L-lysine + L-methionine + L-phenylalanine + L-proline + L-serine + L-threonine + L-tryptophan + L-tyrosine + L-valine  <-->  an oxidized glutaredoxin">
-<AREA COORDS="948,616,1001,679" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Other">
 <AREA COORDS="1462,786,1488,916" alt="" title="Compound: L-arginine + L-asparagine + L-cysteine + L-glutamine + L-glutamate + glycine + L-histidine + L-isoleucine + L-alanine + L-aspartate + L-leucine + L-lysine + L-methionine + L-phenylalanine + L-proline + L-serine + L-threonine + L-tryptophan + L-tyrosine + L-valine  <-->  an oxidized ferredoxin [iron-sulfur] cluster">
-<AREA COORDS="940,680,992,746" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Acetyl-CoA Biosynthesis">
 <AREA COORDS="142,459,206,513" alt="" title="Compound: glycine + L-gamma-glutamylcysteine + ATP  ->  glutathione + ADP + phosphate + H+">
 <AREA COORDS="1462,92,1484,250" alt="" title="Compound: L-arginine + L-asparagine + L-cysteine + L-glutamine + L-glutamate + glycine + L-histidine + L-isoleucine + L-alanine + L-aspartate + L-leucine + L-lysine + L-methionine + L-phenylalanine + L-proline + L-serine + L-threonine + L-tryptophan + L-tyrosine + L-valine  <-->  an oxidized thioredoxin">
 <AREA COORDS="1462,453,1489,583" alt="" title="Compound: L-arginine + L-asparagine + L-cysteine + L-glutamine + L-glutamate + glycine + L-histidine + L-isoleucine + L-alanine + L-aspartate + L-leucine + L-lysine + L-methionine + L-phenylalanine + L-proline + L-serine + L-threonine + L-tryptophan + L-tyrosine + L-valine  <-->  an oxidized c-type cytochrome">
@@ -4466,10 +4464,8 @@ function ovTtip (cpd, protein, rxn, pwy, superpwy) {
 <AREA COORDS="1462,426,1489,583" alt="" title="Compound: L-arginine + L-asparagine + L-cysteine + L-glutamine + L-glutamate + glycine + L-histidine + L-isoleucine + L-alanine + L-aspartate + L-leucine + L-lysine + L-methionine + L-phenylalanine + L-proline + L-serine + L-threonine + L-tryptophan + L-tyrosine + L-valine  <-->  an oxidized c-type cytochrome">
 <AREA COORDS="1043,1044,1080,1167" alt="" title="Compound: ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]">
 <AREA COORDS="1211,1398,1248,1521" alt="" title="Compound: ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]">
-<AREA COORDS="1506,926,1564,1006" alt="" HREF="javascript:void();" title="Detoxification">
 <AREA COORDS="772,745,804,906" alt="" title="Compound: an oxidized ferroprotein (Fe III)[membrane] + an ubiquinol[membrane]  ->  a reduced ferroprotein (Fe II)[membrane] + a ubiquinone[membrane]">
 <AREA COORDS="812,745,844,906" alt="" title="Compound: a reduced ferroprotein (Fe II) + oxygen  ->  an oxidized ferroprotein (Fe III) + H2O">
-<AREA COORDS="1515,77,1568,177" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Aldehyde Degradation">
 <AREA COORDS="841,744,874,907" alt="" title="Compound: a reduced ferroprotein (Fe II) + oxygen  ->  an oxidized ferroprotein (Fe III) + H2O">
 <AREA COORDS="673,652,706,816" alt="" title="Compound: NADH[mitochondrial lumen] + a ubiquinone + 5 H+[mitochondrial lumen]  ->  NAD+[mitochondrial lumen] + an ubiquinol + 4 H+">
 <AREA COORDS="673,835,706,999" alt="" title="Compound: succinate[mitochondrial lumen] + a ubiquinone[mitochondrial intermembrane space]  ->  fumarate[mitochondrial lumen] + an ubiquinol[mitochondrial intermembrane space]">
@@ -4481,40 +4477,14 @@ function ovTtip (cpd, protein, rxn, pwy, superpwy) {
 <AREA COORDS="1084,926,1121,1158" alt="" title="Compound: ATP + pyruvate  <-  ADP + phosphoenolpyruvate + H+">
 <AREA COORDS="1251,1280,1289,1512" alt="" title="Compound: ATP + pyruvate  <-  ADP + phosphoenolpyruvate + H+">
 <AREA COORDS="739,658,775,993" alt="" title="Compound: an oxidized ferroprotein (Fe III)[membrane] + an ubiquinol[membrane]  ->  a reduced ferroprotein (Fe II)[membrane] + a ubiquinone[membrane]">
-<AREA COORDS="1403,1502,1542,1600" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Secondary Metabolites Degradation">
 <AREA COORDS="885,278,929,612" alt="" title="Compound: 2 an oxidized c-type cytochrome[mitochondrial intermembrane space] + an ubiquinol[mitochondrial intermembrane space] + 2 H+[mitochondrial lumen]  ->  2 a reduced c-type cytochrome[mitochondrial intermembrane space] + a ubiquinone[mitochondrial intermembrane space] + 4 H+[mitochondrial intermembrane space]">
 <AREA COORDS="691,658,738,993" alt="" title="Compound: succinate[mitochondrial lumen] + a ubiquinone[mitochondrial intermembrane space]  ->  fumarate[mitochondrial lumen] + an ubiquinol[mitochondrial intermembrane space]">
 <AREA COORDS="691,658,738,993" alt="" title="Compound: NADH[mitochondrial lumen] + a ubiquinone + 5 H+[mitochondrial lumen]  ->  NAD+[mitochondrial lumen] + an ubiquinol + 4 H+">
-<AREA COORDS="1404,1360,1536,1500" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Carboxylates Degradation">
 <AREA COORDS="973,142,1029,473" alt="" title="Compound: 4 a reduced c-type cytochrome[mitochondrial intermembrane space] + oxygen[mitochondrial lumen] + 8 H+[mitochondrial lumen]  ->  4 an oxidized c-type cytochrome[mitochondrial intermembrane space] + 2 H2O[mitochondrial lumen] + 4 H+[mitochondrial intermembrane space]">
 <AREA COORDS="911,141,967,474" alt="" title="Compound: 2 an oxidized c-type cytochrome[mitochondrial intermembrane space] + an ubiquinol[mitochondrial intermembrane space] + 2 H+[mitochondrial lumen]  ->  2 a reduced c-type cytochrome[mitochondrial intermembrane space] + a ubiquinone[mitochondrial intermembrane space] + 4 H+[mitochondrial intermembrane space]">
-<AREA COORDS="455,966,657,1060" alt="" HREF="javascript:void();" title="Biosynthesis->Amines and Polyamines Biosynthesis">
 <AREA COORDS="825,278,882,612" alt="" title="Compound: succinate[mitochondrial lumen] + a ubiquinone[mitochondrial intermembrane space]  ->  fumarate[mitochondrial lumen] + an ubiquinol[mitochondrial intermembrane space]">
 <AREA COORDS="825,278,882,612" alt="" title="Compound: NADH[mitochondrial lumen] + a ubiquinone + 5 H+[mitochondrial lumen]  ->  NAD+[mitochondrial lumen] + an ubiquinol + 4 H+">
-<AREA COORDS="1322,2126,1537,2219" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Amines and Polyamines Degradation">
-<AREA COORDS="892,488,955,826" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Respiration">
-<AREA COORDS="658,1012,772,1202" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Pentose Phosphate Pathways">
-<AREA COORDS="1388,2305,1568,2429" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Aromatic Compounds Degradation">
-<AREA COORDS="1387,1996,1564,2124" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->C1 Compounds Utilization and Assimilation">
-<AREA COORDS="386,2382,560,2517" alt="" HREF="javascript:void();" title="Biosynthesis->Aromatic Compounds Biosynthesis">
-<AREA COORDS="1016,2339,1232,2450" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Alcohols Degradation">
-<AREA COORDS="499,2173,651,2389" alt="" HREF="javascript:void();" title="Biosynthesis->Cell Structures Biosynthesis">
-<AREA COORDS="382,1062,584,1261" alt="" HREF="javascript:void();" title="Biosynthesis->Carbohydrates Biosynthesis">
-<AREA COORDS="451,1974,648,2194" alt="" HREF="javascript:void();" title="Biosynthesis->Secondary Metabolites Biosynthesis">
-<AREA COORDS="1004,2216,1436,2339" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Inorganic Nutrients Metabolism">
-<AREA COORDS="1278,1804,1547,2026" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Fatty Acid and Lipids Degradation">
-<AREA COORDS="534,61,633,856" alt="" HREF="javascript:void();" title="Biosynthesis->Aminoacyl-tRNA Charging">
-<AREA COORDS="747,920,974,1298" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Fermentation">
-<AREA COORDS="1443,62,1525,1359" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Protein Degradation">
-<AREA COORDS="76,950,483,1280" alt="" HREF="javascript:void();" title="Biosynthesis->Nucleosides and Nucleotides Biosynthesis">
-<AREA COORDS="1007,1814,1390,2221" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Nucleosides and Nucleotides Degradation">
-<AREA COORDS="76,1983,460,2589" alt="" HREF="javascript:void();" title="Biosynthesis->Fatty Acid and Lipid Biosynthesis">
-<AREA COORDS="1002,58,1454,618" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Amino Acids Degradation">
-<AREA COORDS="657,60,1001,1011" alt="" HREF="javascript:void();" title="Generation of Precursor Metabolites and Energy->Electron Transfer">
-<AREA COORDS="191,1268,652,1992" alt="" HREF="javascript:void();" title="Biosynthesis->Amino Acids Biosynthesis">
-<AREA COORDS="73,52,542,950" alt="" HREF="javascript:void();" title="Biosynthesis->Cofactors, Prosthetic Groups, Electron Carriers Biosynthesis">
-<AREA COORDS="1003,620,1434,1817" alt="" HREF="javascript:void();" title="Degradation/Utilization/Assimilation->Carbohydrates Degradation">
 </MAP>
-<IMG SRC=LJ24216.gif USEMAP=#MAP24240 border=0 name=expr>
+<IMG SRC=LJ24270.gif USEMAP=#MAP24294 border=0 name=expr>
 
 </body></html>
