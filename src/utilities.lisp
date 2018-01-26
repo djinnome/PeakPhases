@@ -5,7 +5,8 @@
    (= 0  (length (get-successors rxn pwy))))
  
 (defun is-branch-point-of-pathway? (rxn pwy)
-  (< 1 (length (get-successors rxn pwy))))
+  (or (< 1 (length (get-successors rxn pwy)))
+      (< 1 (length (get-predecessors rxn pwy)))))
 
 (defun get-func-of-pathway (filename func)
   (tofile filename
