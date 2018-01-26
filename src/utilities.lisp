@@ -13,6 +13,15 @@
 	   (is-end-of-pathway? rxn pwy)
 	   (is-beginning-of-pathway? rxn pwy))))
 
+(defun nonmetabolic-genes (filename)
+  (tofile filename
+	  (format t "GeneId	GeneName~%")
+	  (loop for gene in (gcai '|Genes|)
+		unless (reactions-of-gene gene)
+		do (format t "~A	~A~%"
+			   (get-slot-value gene 'accession-2)
+			   (get-name-string gene)))))
+
 (defun metabolic-genes-not-in-pathway (filename)
   (tofile filename
 	  (format t "Gene	ReactionId	RxnName	RxnEqn~%")
