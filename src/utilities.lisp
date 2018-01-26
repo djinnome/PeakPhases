@@ -8,6 +8,23 @@
   (or (< 1 (length (get-successors rxn pwy)))
       (< 1 (length (get-predecessors rxn pwy)))))
 
+(defun is-not-branch-beginning-or-end-of-pathway? (rxn pwy)
+  (not (or (is-branch-point-of-pathway? rxn pwy)
+	   (is-end-of-pathway? rxn pwy)
+	   (is-beginning-of-pathway? rxn pwy))))
+
+(defun metabolic-genes-not-in-pathway (filename)
+  (tofile filename
+	  (format t "Gene	ReactionId	RxnName	RxnEqn~%")
+	  (loop for rxn in (all-rxns :small-molecule)
+		unless (pathways-of-reaction rxn)
+		do (loop for gene in (genes-of-reaction rxn)
+			 do (format t "~A	~A	~A	~A~%"
+				    (get-slot-value gene 'accession-2)
+				    (get-frame-name rxn)
+				    (get-name-string rxn :rxn-eqn-as-name? nil)
+				    (get-name-string rxn :rxn-eqn-as-name? t))))))
+	
 (defun get-func-of-pathway (filename func)
   (tofile filename
 	  (format t "Gene	Reaction	PathwayID	PathwayName~%")
