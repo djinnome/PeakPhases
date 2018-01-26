@@ -1,0 +1,511 @@
+Gene	Reaction	PathwayID	PathwayName
+NCU04474.7	SULFITE-OXIDASE-RXN	PWY-5326	sulfite oxidation IV
+NCU06931.7	SULFITE-OXIDASE-RXN	PWY-5326	sulfite oxidation IV
+NCU02657.7	SAM-PWY	PWY0-781	aspartate superpathway
+NCU07941.7	ASPARTATESYN-PWY	PWY0-781	aspartate superpathway
+NCU08411.7	ASPARTATESYN-PWY	PWY0-781	aspartate superpathway
+NCU05454.7	GLYC3PDEHYDROG-RXN	PWY0-381	glycerol degradation I
+NCU03761.7	4.3.1.17-RXN	SERDEG-PWY	L-serine degradation
+NCU06727.7	SPERMIDINESYN-RXN	BSUBPOLYAMSYN-PWY	spermidine biosynthesis I
+NCU00936.7	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	GLUDEG-I-PWY	glutamate degradation III (via 4-aminobutyrate)
+NCU04019.7	2.7.7.1-RXN	PWY3O-4106	NAD salvage pathway III
+NCU06191.7	GLUTATHIONE-SYN-RXN	GLUTATHIONESYN-PWY	glutathione biosynthesis
+NCU00580.7	RXN-9624	PWY-5972	stearate biosynthesis I (animals)
+NCU07941.7	ASPARTATESYN-PWY	THRESYN-PWY	threonine biosynthesis
+NCU08411.7	ASPARTATESYN-PWY	THRESYN-PWY	threonine biosynthesis
+NCU02712.7	ACETATEKIN-RXN	P163-PWY	lysine fermentation to acetate and butyrate
+NCU06836.7	ACETATE--COA-LIGASE-RXN	PWY66-162	ethanol degradation IV (peroxisomal)
+NCU01175.7	GPPSYN-RXN	PWY-5122	geranyl diphosphate biosynthesis
+NCU01993.7	RXN-5781	PWY3O-450	phosphatidylcholine biosynthesis I
+NCU03223.7	RXN-5781	PWY3O-450	phosphatidylcholine biosynthesis I
+NCU03139.7	HISTALDEHYD-RXN	HISTSYN-PWY	histidine biosynthesis
+NCU08280.7	SQUALENE-MONOOXYGENASE-RXN	PWY-5670	epoxysqualene biosynthesis
+NCU17044.7	ADCLY-RXN	PWY-6543	p-aminobenzoate biosynthesis
+NCU01371.7	PGPPHOSPHA-RXN	PWY4FS-8	phosphatidylglycerol biosynthesis II (non-plastidic)
+NCU03010.7	RXN-8162	PWY-5298	lysine degradation VI
+NCU06783.7	ATP-CITRATE-PRO-S--LYASE-RXN	PWY-5172	acetyl-CoA biosynthesis (from citrate)
+NCU06785.7	ATP-CITRATE-PRO-S--LYASE-RXN	PWY-5172	acetyl-CoA biosynthesis (from citrate)
+NCU02922.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU00643.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU00891.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU01905.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU06845.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU07022.7	RXN-7644	PWY-4101	sorbitol degradation I
+NCU09930.7	H2PTERIDINEPYROPHOSPHOKIN-RXN	PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis
+NCU05626.7	GLUCONOLACT-RXN	GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation
+NCU02702.7	GLUCOKIN-RXN	GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation
+NCU00580.7	RXN-9624	PWY-5970-1	fatty acids biosynthesis (yeast)
+NCU00580.7	PALMITOYL-COA-HYDROLASE-RXN	PWY-5970-1	fatty acids biosynthesis (yeast)
+NCU03756.7	PHEAMINOTRANS-RXN	PHESYN	phenylalanine biosynthesis I
+NCU09116.7	PHEAMINOTRANS-RXN	PHESYN	phenylalanine biosynthesis I
+NCU01428.7	RXN-6201	PWY-5691	urate degradation to allantoin
+NCU04202.7	DADPKIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU03877.7	FORMATETHFLIG-RXN	PWY-1722	formaldehyde oxidation V (tetrahydrofolate pathway)
+NCU01271.7	ORNDECARBOX-RXN	PWY-46	putrescine biosynthesis III
+NCU03425.7	THRESYN-RXN	HOMOSER-THRESYN-PWY	threonine biosynthesis from homoserine
+NCU05041.7	TREHALOSEPHOSPHA-RXN	TRESYN-PWY	trehalose biosynthesis I
+NCU09646.7	KETOACYLCOATHIOL-RXN	FAO-PWY	fatty acid &beta;-oxidation I
+NCU04796.7	KETOACYLCOATHIOL-RXN	FAO-PWY	fatty acid &beta;-oxidation I
+NCU05558.7	KETOACYLCOATHIOL-RXN	FAO-PWY	fatty acid &beta;-oxidation I
+NCU02227.7	ACETYLORNDEACET-RXN	GLUTORN-PWY	ornithine biosynthesis
+NCU08291.7	PROTOHEMEFERROCHELAT-RXN	HEME-BIOSYNTHESIS-II	heme biosynthesis from uroporphyrinogen-III I
+NCU08927.7	RXN3DJ-11100	PWY3DJ-12	ceramide biosynthesis
+NCU05805.7	GLYSYN-PWY	SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I
+NCU02274.7	GLYSYN-PWY	SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I
+NCU00580.7	LINOLEOYL-RXN	PWY2T-2575	linoleate biosynthesis II (neurospora)
+NCU07585.7	SIROHEME-FERROCHELAT-RXN	PWY-5194	siroheme biosynthesis
+NCU09646.7	KETOACYLCOATHIOL-RXN	PWY-5136-1	fatty acid &beta;-oxidation II (core pathway)
+NCU04796.7	KETOACYLCOATHIOL-RXN	PWY-5136-1	fatty acid &beta;-oxidation II (core pathway)
+NCU05558.7	KETOACYLCOATHIOL-RXN	PWY-5136-1	fatty acid &beta;-oxidation II (core pathway)
+NCU04442.7	UDPGLUCEPIM-RXN	PWY-6317	galactose degradation I (Leloir pathway)
+NCU05133.7	UDPGLUCEPIM-RXN	PWY-6317	galactose degradation I (Leloir pathway)
+NCU08549.7	UDPGLUCEPIM-RXN	PWY-6317	galactose degradation I (Leloir pathway)
+NCU02476.7	RXN-7694	PWY-5078	isoleucine degradation II
+NCU01754.7	RXN-7694	PWY-5078	isoleucine degradation II
+NCU06652.7	RXN-7694	PWY-5078	isoleucine degradation II
+NCU09230.7	LCYSDESULF-RXN	LCYSDEG-PWY	L-cysteine degradation II
+NCU01427.7	FARNESYLTRANSTRANSFERASE-RXN	PWY-5120	geranylgeranyldiphosphate biosynthesis
+NCU02476.7	RXN3O-4113	PWY3O-4108-1	tyrosine degradation III
+NCU01754.7	RXN3O-4113	PWY3O-4108-1	tyrosine degradation III
+NCU06652.7	RXN3O-4113	PWY3O-4108-1	tyrosine degradation III
+NCU05542.7	HYPOXANPRIBOSYLTRAN-RXN	SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides
+NCU03350.7	RXN0-901	SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides
+NCU01333.7	1.3.1.71-RXN	PWY-6075	ergosterol biosynthesis
+NCU01632.7	3-DEHYDROQUINATE-SYNTHASE-RXN	PWY-6164	3-dehydroquinate biosynthesis I
+NCU01744.7	GLUTAMATE-SYNTHASE-NADH-RXN	PWY2T-2	am and en(am)-1
+NCU04856.7	GLUTAMINESYN-RXN	PWY2T-2	am and en(am)-1
+NCU06724.7	GLUTAMINESYN-RXN	PWY2T-2	am and en(am)-1
+NCU02479.7	GLUTAMINESYN-RXN	PWY2T-2	am and en(am)-1
+NCU02629.7	IMPCYCLOHYDROLASE-RXN	PWY-6124	inosine-5'-phosphate biosynthesis II
+NCU02476.7	RXN-7693	PWY-5076	leucine degradation III
+NCU01754.7	RXN-7693	PWY-5076	leucine degradation III
+NCU06652.7	RXN-7693	PWY-5076	leucine degradation III
+NCU06512.7	HSERMETANA-PWY	PWY-5345	superpathway of methionine biosynthesis (by sulfhydrylation)
+NCU07941.7	ASPARTATESYN-PWY	PWY-5345	superpathway of methionine biosynthesis (by sulfhydrylation)
+NCU08411.7	ASPARTATESYN-PWY	PWY-5345	superpathway of methionine biosynthesis (by sulfhydrylation)
+NCU02395.7	UROGENIIISYN-RXN	PWY-5189	tetrapyrrole biosynthesis II
+NCU07165.7	MANNPISOM-RXN	MANNCAT-PWY	D-mannose degradation
+NCU02322.7	MANNPISOM-RXN	MANNCAT-PWY	D-mannose degradation
+NCU03544.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01207.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU08515.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01332.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02746.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU07446.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09897.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03395.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04387.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU08035.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05118.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00667.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09747.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03463.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU07681.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04008.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04481.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05220.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03199.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00644.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00636.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02514.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05430.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02250.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01606.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00385.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09119.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00502.7	ATPSYN-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01427.7	PWY-5120	PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+NCU06024.7	DHSHIKIMATE-DEHYDRO-RXN	PWY-6416	quinate degradation II
+NCU02305.7	TRANS-PENTAPRENYLTRANSFERASE-RXN	HEXPPSYN-PWY	hexaprenyl diphosphate biosynthesis
+NCU03651.7	MALIC-NADP-RXN	GLUCONEO-PWY	gluconeogenesis I
+NCU02906.7	MALIC-NAD-RXN	GLUCONEO-PWY	gluconeogenesis I
+NCU07281.7	PGLUCISOM-RXN	GLUCONEO-PWY	gluconeogenesis I
+NCU02325.7	GMP-SYN-GLUT-RXN	PWY-841	purine nucleotides <i>de novo</i> biosynthesis II
+NCU06187.7	AMPSYN-RXN	PWY-841	purine nucleotides <i>de novo</i> biosynthesis II
+NCU04339.7	RIBOKIN-RXN	RIBOKIN-PWY	ribose degradation
+NCU01813.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU08152.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU05627.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU06358.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU04963.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU08180.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU07169.7	RXN2T-7	PWY2T-7	cellulose degradation
+NCU03254.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU00762.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU08227.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU07190.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU01162.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU03914.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU05121.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU02240.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU05882.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU01050.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU07898.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU07974.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU08760.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU03328.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU05404.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU01867.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU02916.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU00836.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU02344.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU04854.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU05057.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU07340.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU07760.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU09680.7	RXN-2043	PWY2T-7	cellulose degradation
+NCU06512.7	HOMOCYSMET-RXN	HSERMETANA-PWY	methionine biosynthesis III
+NCU02550.7	ALPHAGALACTOSID-RXN	PWY0-1301	melibiose degradation
+NCU07930.7	ADENOSYLHOMOCYSTEINASE-RXN	METHIONINE-DEG1-PWY	methionine degradation I (to homocysteine)
+NCU07941.7	ASPAMINOTRANS-RXN	ASPARTATESYN-PWY	aspartate biosynthesis
+NCU08411.7	ASPAMINOTRANS-RXN	ASPARTATESYN-PWY	aspartate biosynthesis
+NCU01633.7	TRANS-RXN2T-228	PWY2T-42	cellulose degradation III (neurospora)
+NCU10021.7	TRANS-RXN2T-363	PWY2T-42	cellulose degradation III (neurospora)
+NCU00130.7	RXN2T-542	PWY2T-42	cellulose degradation III (neurospora)
+NCU00801.7	RXN2T-541	PWY2T-42	cellulose degradation III (neurospora)
+NCU08114.7	RXN2T-541	PWY2T-42	cellulose degradation III (neurospora)
+NCU01119.7	LANOSTEROL-SYNTHASE-RXN	PWY-6132	lanosterol biosynthesis
+NCU00944.7	THREONINE-ALDOLASE-RXN	PWY-5436	threonine degradation IV
+NCU00720.7	PWY-5481	ANAEROFRUCAT-PWY	homolactic fermentation
+NCU04202.7	DTDPKIN-RXN	PWY0-166	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I
+NCU09041.7	L-XYLULOSE-REDUCTASE-RXN	PWY-5515	L-arabinose degradation II
+NCU00580.7	RXN2T-64	PWY2T-27	fatty acid elongation
+NCU00580.7	RXN2T-63	PWY2T-27	fatty acid elongation
+NCU01816.7	ALLANTOICASE-RXN	PWY-5697	allantoin degradation to ureidoglycolate I (urea producing)
+NCU09116.7	TYROSINE-AMINOTRANSFERASE-RXN	PWY-5886	4-hydroxyphenylpyruvate biosynthesis
+NCU03756.7	TYROSINE-AMINOTRANSFERASE-RXN	PWY-5886	4-hydroxyphenylpyruvate biosynthesis
+NCU04292.7	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	VALSYN-PWY	valine biosynthesis
+NCU04754.7	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	VALSYN-PWY	valine biosynthesis
+NCU00792.7	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	VALSYN-PWY	valine biosynthesis
+NCU01786.7	PRPPSYN-RXN	PWY0-662	PRPP biosynthesis I
+NCU05254.7	PRPPSYN-RXN	PWY0-662	PRPP biosynthesis I
+NCU06970.7	PRPPSYN-RXN	PWY0-662	PRPP biosynthesis I
+NCU01270.7	PRPPSYN-RXN	PWY0-662	PRPP biosynthesis I
+NCU06918.7	TRANS-RXN-195	PWY-6227	purine uptake
+NCU04856.7	GLUTAMINESYN-RXN	PWY2T-3	am and en(am)-2
+NCU06724.7	GLUTAMINESYN-RXN	PWY2T-3	am and en(am)-2
+NCU02479.7	GLUTAMINESYN-RXN	PWY2T-3	am and en(am)-2
+NCU09873.7	PEPCARBOXYKIN-RXN	PWY-561	superpathway of glyoxylate cycle
+NCU03415.7	RXN-6382	PWY-5760	&beta;-alanine biosynthesis V
+NCU00378.7	RXN-6382	PWY-5760	&beta;-alanine biosynthesis V
+NCU07053.7	RXN-6382	PWY-5760	&beta;-alanine biosynthesis V
+NCU01328.7	2TRANSKETO-RXN	NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)
+NCU00642.7	BETAGALACTOSID-RXN	BGALACT-PWY	lactose degradation III
+NCU00985.7	BETAGALACTOSID-RXN	BGALACT-PWY	lactose degradation III
+NCU00810.7	BETAGALACTOSID-RXN	BGALACT-PWY	lactose degradation III
+NCU04623.7	BETAGALACTOSID-RXN	BGALACT-PWY	lactose degradation III
+NCU05956.7	BETAGALACTOSID-RXN	BGALACT-PWY	lactose degradation III
+NCU03282.7	1.13.11.6-RXN	PWY-5651	tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+NCU01328.7	2TRANSKETO-RXN	NONOXIPENT-PWY-1	pentose phosphate pathway (non-oxidative branch)
+NCU02136.7	TRANSALDOL-RXN	NONOXIPENT-PWY-1	pentose phosphate pathway (non-oxidative branch)
+NCU06142.7	TRANSALDOL-RXN	NONOXIPENT-PWY-1	pentose phosphate pathway (non-oxidative branch)
+NCU09233.7	FADSYN-RXN	PWY-6168	flavin biosynthesis III (fungi)
+NCU00843.7	GART-RXN	FOLSYN-PWY	tetrahydrofolate biosynthesis
+NCU16699.7	DIHYDROFOLATEREDUCT-RXN	FOLSYN-PWY	tetrahydrofolate biosynthesis
+NCU05805.7	GLYOHMETRANS-RXN	GLYSYN-PWY	glycine biosynthesis I
+NCU02274.7	GLYOHMETRANS-RXN	GLYSYN-PWY	glycine biosynthesis I
+NCU02305.7	RXN-8992	PWY-5783	octaprenyl diphosphate biosynthesis
+NCU00177.7	AIRS-RXN	PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I
+NCU02476.7	ALCOHOL-DEHYDROG-RXN	PWY-5486	pyruvate fermentation to ethanol II
+NCU01754.7	ALCOHOL-DEHYDROG-RXN	PWY-5486	pyruvate fermentation to ethanol II
+NCU06652.7	ALCOHOL-DEHYDROG-RXN	PWY-5486	pyruvate fermentation to ethanol II
+NCU02109.7	NAG1P-URIDYLTRANS-RXN	UDPNACETYLGALSYN-PWY	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II
+NCU02476.7	ALCOHOL-DEHYDROG-RXN	PWY2T-11	xylose conversion to ethanol
+NCU01754.7	ALCOHOL-DEHYDROG-RXN	PWY2T-11	xylose conversion to ethanol
+NCU06652.7	ALCOHOL-DEHYDROG-RXN	PWY2T-11	xylose conversion to ethanol
+NCU07719.7	IPPISOM-RXN	PWY-922	mevalonate pathway I
+NCU01175.7	FPPSYN-RXN	PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis I
+NCU03488.7	OROTPDECARB-RXN	PWY-5686	uridine-5'-phosphate biosynthesis
+NCU00742.7	1.1.1.8-RXN	PWY-6118	glycerol-3-phosphate shuttle
+NCU01744.7	GLUTAMATE-SYNTHASE-NADH-RXN	GLUGLNSYN-PWY	glutamate biosynthesis IV
+NCU02476.7	RXN-7657	PWY-5057	valine degradation II
+NCU01754.7	RXN-7657	PWY-5057	valine degradation II
+NCU06652.7	RXN-7657	PWY-5057	valine degradation II
+NCU03544.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU01207.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU08515.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU01332.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU02746.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU07446.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU09897.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU03395.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU04387.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU08035.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU05118.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU00667.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU09747.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU03463.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU07681.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU04008.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU04481.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU05220.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU03199.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU00644.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU00636.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU02514.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU05430.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU02250.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU01606.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU00385.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU09119.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU00502.7	ATPSYN-RXN	PWY2T-2574	aerobic respiration
+NCU01103.7	RXN0-5224	CYANCAT-PWY	cyanate degradation
+NCU08133.7	RXN0-5224	CYANCAT-PWY	cyanate degradation
+NCU08661.7	PANTOATE-BETA-ALANINE-LIG-RXN	PANTO-PWY	pantothenate biosynthesis I
+NCU05537.7	FUMARYLACETOACETASE-RXN	TYRFUMCAT-PWY	tyrosine degradation I
+NCU06342.7	PHOSCHOL-RXN	PWY-3561	choline biosynthesis III
+NCU10400.7	PHOSCHOL-RXN	PWY-3561	choline biosynthesis III
+NCU03955.7	PHOSCHOL-RXN	PWY-3561	choline biosynthesis III
+NCU02657.7	S-ADENMETSYN-RXN	SAM-PWY	S-adenosylmethionine biosynthesis
+NCU04202.7	CDPKIN-RXN	PWY-5687	pyrimidine ribonucleotides interconversion
+NCU03973.7	ALANINE-AMINOTRANSFERASE-RXN	ALANINE-DEG3-PWY	alanine degradation III
+NCU05238.7	SULFITE-REDUCT-RXN	SO4ASSIM-PWY	sulfate reduction I (assimilatory)
+NCU04077.7	SULFITE-REDUCT-RXN	SO4ASSIM-PWY	sulfate reduction I (assimilatory)
+NCU00405.7	GLYCINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU06914.7	HISTIDINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU00931.7	LYSINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU04020.7	LYSINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU07451.7	METHIONINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU03759.7	METHIONINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU01512.7	PHENYLALANINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU08888.7	PHENYLALANINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU05095.7	PHENYLALANINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU09892.7	PROLINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU04449.7	PROLINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU09594.7	SERINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU01443.7	SERINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU03129.7	THREONINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU02380.7	THREONINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU06722.7	TRYPTOPHAN--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU03030.7	TYROSINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU07755.7	TYROSINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU02585.7	ASPARTATE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU00915.7	ASPARTATE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU07082.7	ASPARTATE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU06457.7	ASPARAGINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU06866.7	ASPARAGINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU02566.7	ALANINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU01965.7	VALINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU09463.7	LEUCINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU03814.7	LEUCINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU00920.7	ISOLEUCINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU03575.7	ISOLEUCINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU00466.7	GLURS-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU08894.7	GLURS-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU07926.7	GLUTAMINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU05642.7	CYSTEINE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU08195.7	ARGININE--TRNA-LIGASE-RXN	TRNA-CHARGING-PWY-1	tRNA charging pathway
+NCU07941.7	ASPARTATESYN-PWY	PWY-3001	isoleucine biosynthesis I
+NCU08411.7	ASPARTATESYN-PWY	PWY-3001	isoleucine biosynthesis I
+NCU03544.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU01207.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU08515.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU01332.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU02746.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU07446.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU09897.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU03395.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU04387.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU08035.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU05118.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU00667.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU09747.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU03463.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU07681.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU04008.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU04481.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU05220.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU03199.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU00644.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU00636.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU02514.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU05430.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU02250.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU01606.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU00385.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU09119.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU00502.7	ATPSYN-RXN	PWY2T-4	xylose story
+NCU02476.7	ALCOHOL-DEHYDROG-RXN	PWY2T-9	cellulose conversion to ethanol
+NCU01754.7	ALCOHOL-DEHYDROG-RXN	PWY2T-9	cellulose conversion to ethanol
+NCU06652.7	ALCOHOL-DEHYDROG-RXN	PWY2T-9	cellulose conversion to ethanol
+NCU06652.7	1.1.1.190-RXN	PWY-5081	tryptophan degradation VIII (to tryptophol)
+NCU01754.7	1.1.1.190-RXN	PWY-5081	tryptophan degradation VIII (to tryptophol)
+NCU02476.7	1.1.1.190-RXN	PWY-5081	tryptophan degradation VIII (to tryptophol)
+NCU05419.7	HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	LEU-DEG2-PWY	leucine degradation I
+NCU04727.7	GLUCOSAMINE-6-P-DEAMIN-RXN	GLUAMCAT-PWY	<i>N</i>-acetylglucosamine degradation I
+NCU02450.7	DSERDEAM-RXN	PWY-6196	serine racemization
+NCU16370.7	DSERDEAM-RXN	PWY-6196	serine racemization
+NCU03223.7	ETHANOLAMINEPHOSPHOTRANSFERASE-RXN	PWY4FS-6	phosphatidylethanolamine biosynthesis II
+NCU00173.7	S-FORMYLGLUTATHIONE-HYDROLASE-RXN	PWY-1801	formaldehyde oxidation II (glutathione-dependent)
+NCU03098.7	RXN-9024	PWY-5767	glycogen degradation III
+NCU01517.7	RXN-9024	PWY-5767	glycogen degradation III
+NCU08746.7	RXN-9024	PWY-5767	glycogen degradation III
+NCU05238.7	SULFITE-REDUCT-RXN	SO4ASSIM-PWY-1	sulfate reduction I (assimilatory) - variant
+NCU04077.7	SULFITE-REDUCT-RXN	SO4ASSIM-PWY-1	sulfate reduction I (assimilatory) - variant
+NCU03935.7	HOMOSERDEHYDROG-RXN	HOMOSERSYN-PWY	homoserine biosynthesis
+NCU05420.7	CHORISMATE-SYNTHASE-RXN	ARO-PWY	chorismate biosynthesis I
+NCU04648.7	NAD-SYNTH-GLN-RXN	PWY-5653	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde
+NCU06075.7	PEPDEPHOS-RXN	GLYCOLYSIS-1	glycolysis I
+NCU08272.7	L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	PWY-5458	methylglyoxal degradation V
+NCU00461.7	GLUTAMATE-DEHYDROGENASE-RXN	GLUTAMATE-DEG1-PWY	glutamate degradation I
+NCU02571.7	METHYLACETOACETYLCOATHIOL-RXN	ILEUDEG-PWY	isoleucine degradation I
+NCU02702.7	GLUCOKIN-RXN	PWY0-1182	trehalose degradation II (trehalase)
+NCU01484.7	RXN2T-54	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU06871.7	RXN2T-54	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU03611.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04251.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04352.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04350.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU05239.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU05268.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU09324.7	RXN2T-41	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU09324.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU05268.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU05239.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04350.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04352.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04251.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU03611.7	CHITIN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU01484.7	13-BETA-GLUCAN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU06871.7	13-BETA-GLUCAN-SYNTHASE-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU00585.7	RXN-12001	PWY-6681	neurosporaxanthin biosynthesis
+NCU04013.7	RXN-11998	PWY-6681	neurosporaxanthin biosynthesis
+NCU08409.7	RXN0-2381	TRPSYN-PWY	tryptophan biosynthesis
+NCU09896.7	ADENYLYLSULFKIN-RXN	PWY-5340	sulfate activation for sulfonation
+NCU00552.7	1.14.99.30-RXN	PWY-5942	<i>trans</i>-lycopene biosynthesis I (bacteria)
+NCU02299.7	2-HEXADECENAL-REDUCTASE-RXN	PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism
+NCU03813.7	1.2.1.2-RXN	PWY-1881	formate oxidation to CO<sub>2</sub>
+NCU02564.7	ACSERLY-RXN	CYSTSYN-PWY	cysteine biosynthesis I
+NCU06452.7	ACSERLY-RXN	CYSTSYN-PWY	cysteine biosynthesis I
+NCU03788.7	ACSERLY-RXN	CYSTSYN-PWY	cysteine biosynthesis I
+NCU02476.7	ALCOHOL-DEHYDROG-RXN	PWY2T-1450	xylose fermentation
+NCU01754.7	ALCOHOL-DEHYDROG-RXN	PWY2T-1450	xylose fermentation
+NCU06652.7	ALCOHOL-DEHYDROG-RXN	PWY2T-1450	xylose fermentation
+NCU03857.7	ISOCITDEH-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU00780.7	DLACTDEHYDROGNAD-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU02179.7	DLACTDEHYDROGNAD-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU02476.7	ALCOHOL-DEHYDROG-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU01754.7	ALCOHOL-DEHYDROG-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU06652.7	ALCOHOL-DEHYDROG-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU02712.7	ACETATEKIN-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU00369.7	DEPHOSPHOCOAKIN-RXN	COA-PWY	coenzyme A biosynthesis
+NCU08791.7	CATAL-RXN	DETOX1-PWY	superoxide radicals degradation
+NCU00355.7	CATAL-RXN	DETOX1-PWY	superoxide radicals degradation
+NCU05169.7	CATAL-RXN	DETOX1-PWY	superoxide radicals degradation
+NCU05770.7	CATAL-RXN	DETOX1-PWY	superoxide radicals degradation
+NCU02305.7	TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN	PWY-5805	nonaprenyl diphosphate biosynthesis I
+NCU05224.7	URKI-RXN	PWY0-163	salvage pathways of pyrimidine ribonucleotides
+NCU04202.7	CDPKIN-RXN	PWY0-163	salvage pathways of pyrimidine ribonucleotides
+NCU06261.7	URACIL-PRIBOSYLTRANS-RXN	PWY0-163	salvage pathways of pyrimidine ribonucleotides
+NCU01446.7	URACIL-PRIBOSYLTRANS-RXN	PWY0-163	salvage pathways of pyrimidine ribonucleotides
+NCU06353.7	5-FORMYL-THF-CYCLO-LIGASE-RXN	PWY-2201	folate transformations
+NCU00552.7	RXN-8022	PWY-6287	neurosporene biosynthesis
+NCU07308.7	FATTY-ACYL-COA-SYNTHASE-RXN	PWY-5970	fatty acids biosynthesis (yeast)
+NCU07307.7	FATTY-ACYL-COA-SYNTHASE-RXN	PWY-5970	fatty acids biosynthesis (yeast)
+NCU00461.7	GLUTAMATE-DEHYDROGENASE-RXN	ALACAT2-PWY	alanine degradation II (to D-lactate)
+NCU00780.7	DLACTDEHYDROGNAD-RXN	ALACAT2-PWY	alanine degradation II (to D-lactate)
+NCU02179.7	DLACTDEHYDROGNAD-RXN	ALACAT2-PWY	alanine degradation II (to D-lactate)
+NCU01195.7	GLUTDEHYD-RXN	GLUTSYNIII-PWY	glutamate biosynthesis III
+NCU17051.7	ASNSYNB-RXN	ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis I
+NCU07300.7	ASNSYNB-RXN	ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis I
+NCU02476.7	RXN-7700	PWY-5079	phenylalanine degradation III
+NCU01754.7	RXN-7700	PWY-5079	phenylalanine degradation III
+NCU06652.7	RXN-7700	PWY-5079	phenylalanine degradation III
+NCU04292.7	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	ILEUSYN-PWY	isoleucine biosynthesis I (from threonine)
+NCU00585.7	RXN1F-151	PWY-5943	&beta;-carotene biosynthesis
+NCU05542.7	XANPRIBOSYLTRAN-RXN	SALVPURINE2-PWY	salvage pathways of guanine, xanthine, and their nucleosides
+NCU03010.7	RXN-8173	PWY-5314	lysine degradation VIII
+NCU04292.7	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	LEUSYN-PWY	leucine biosynthesis
+NCU00792.7	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	LEUSYN-PWY	leucine biosynthesis
+NCU06348.7	MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	PWY-2301	<i>myo</i>-inositol biosynthesis
+NCU07690.7	1.5.1.20-RXN	PWY-3841	formylTHF biosynthesis II
+NCU09545.7	1.5.1.20-RXN	PWY-3841	formylTHF biosynthesis II
+NCU03877.7	FORMATETHFLIG-RXN	PWY-3841	formylTHF biosynthesis II
+NCU03877.7	METHENYLTHFCYCLOHYDRO-RXN	PWY-3841	formylTHF biosynthesis II
+NCU00963.7	METHENYLTHFCYCLOHYDRO-RXN	PWY-3841	formylTHF biosynthesis II
+NCU09230.7	CYSTAGLY-RXN	HOMOCYSDEGR-PWY	cysteine biosynthesis/homocysteine degradation
+NCU05991.7	RXN66-319	PWY-6074	zymosterol biosynthesis
+NCU03100.7	RXN-9952	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU00837.7	RXN-9952	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU03100.7	RXN-3341	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU00837.7	RXN-3341	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU00585.7	PWY-5943	CAROTENOID-PWY	superpathway of carotenoid biosynthesis
+NCU01119.7	PWY-6132	ERGOSTEROL-SYN-PWY	superpathway of ergosterol biosynthesis
+NCU07690.7	1.5.1.20-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU09545.7	1.5.1.20-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU02305.7	PWY-5783	POLYISOPRENSYN-PWY	polyisoprenoid biosynthesis (<i>E. coli</i>)
+NCU02712.7	ACETATEKIN-RXN	P164-PWY	purine nucleotides degradation III (anaerobic)
+NCU03813.7	1.2.1.2-RXN	P164-PWY	purine nucleotides degradation III (anaerobic)
+NCU03973.7	ALANINE-AMINOTRANSFERASE-RXN	ALANINE-SYN2-PWY	alanine biosynthesis II
+NCU08005.7	1.18.1.2-RXN	PWY2T-21	redox potential pathway
+NCU06836.7	ACETATE--COA-LIGASE-RXN	PWY66-21	ethanol degradation II (cytosol)
+NCU06211.7	MALATE-DEH-RXN	MALATE-ASPARTATE-SHUTTLE-PWY	aspartate degradation II
+NCU04899.7	MALATE-DEH-RXN	MALATE-ASPARTATE-SHUTTLE-PWY	aspartate degradation II
+NCU05853.7	RXN2T-9	PWY2T-10	xylan degradation
+NCU02657.7	SAM-PWY	PWY-6151	<i>S</i>-adenosyl-L-methionine cycle I
+NCU03127.7	UREASE-RXN	PWY-5704	urea degradation II
+NCU04856.7	GLUTAMINESYN-RXN	GLNSYN-PWY	glutamine biosynthesis I
+NCU06724.7	GLUTAMINESYN-RXN	GLNSYN-PWY	glutamine biosynthesis I
+NCU02479.7	GLUTAMINESYN-RXN	GLNSYN-PWY	glutamine biosynthesis I
+NCU02702.7	GLUCOKIN-RXN	GLYCOCAT-PWY	glycogen degradation I
+NCU10058.7	PHOSPHOGLUCMUT-RXN	GLYCOCAT-PWY	glycogen degradation I
+NCU00936.7	SUCCSEMIALDDEHYDROG-RXN	PWY-6537	4-aminobutyrate degradation II
+NCU08755.7	RXN-10773	PWY-6788	cellulose degradation II (fungi)
+NCU04952.7	RXN-10773	PWY-6788	cellulose degradation II (fungi)
+NCU02468.7	SPHINGOSINE-N-ACYLTRANSFERASE-RXN	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU00008.7	SPHINGOSINE-N-ACYLTRANSFERASE-RXN	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU02282.7	RXN3O-680	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU06761.7	SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU00893.7	FORMYLTHFGLUSYNTH-RXN	PWY-2161	folate polyglutamylation I
+NCU00892.7	FORMYLTHFGLUSYNTH-RXN	PWY-2161	folate polyglutamylation I
+NCU01337.7	FORMYLTHFGLUSYNTH-RXN	PWY-2161	folate polyglutamylation I
+NCU00893.7	RXN0-2921	PWY-2161	folate polyglutamylation I
+NCU00892.7	RXN0-2921	PWY-2161	folate polyglutamylation I
+NCU01337.7	RXN0-2921	PWY-2161	folate polyglutamylation I
+NCU00893.7	FOLYLPOLYGLUTAMATESYNTH-RXN	PWY-2161	folate polyglutamylation I
+NCU00892.7	FOLYLPOLYGLUTAMATESYNTH-RXN	PWY-2161	folate polyglutamylation I
+NCU08384.7	RXN-8773	PWY-5516	xylose degradation II
+NCU00936.7	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	PWY-6535	4-aminobutyrate degradation I
+NCU03282.7	1.13.11.6-RXN	PWY-6309	tryptophan degradation XI (mammalian, via kynurenine)
+NCU11353.7	XYLULOKIN-RXN	LARABITOLUTIL-PWY	xylitol degradation
+NCU07281.7	PGLUCISOM-RXN	PWY-621-1	sucrose degradation III
+NCU04728.7	FRUCTOKINASE-RXN	PWY-621-1	sucrose degradation III
+NCU06996.7	FRUCTOKINASE-RXN	PWY-621-1	sucrose degradation III
+NCU02542.7	FRUCTOKINASE-RXN	PWY-621-1	sucrose degradation III
+NCU02282.7	RXN3O-680	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU06761.7	SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU09703.7	ACETOLACTATE-DECARBOXYLASE-RXN	PWY-5939	(<i>R</i>)-acetoin biosynthesis II
+NCU06471.7	PYRROLINECARBREDUCT-RXN	ARG-PRO-PWY	arginine degradation VI (arginase 2 pathway)
+NCU00580.7	LINOLENOYL-RXN	PWY2T-2576	&alpha;-linolenate biosynthesis II (neurospora)
+NCU06005.7	GLYCEROL-KIN-RXN	PWY-4261	glycerol degradation IV
+NCU03010.7	RXN-8173	PWY-5324	lysine degradation IX
+NCU02712.7	ACETATEKIN-RXN	PWY-5497	purine nucleotides degradation IV (anaerobic)
+NCU03813.7	1.2.1.2-RXN	PWY-5497	purine nucleotides degradation IV (anaerobic)
+NCU03861.7	GLUTAMIN-RXN	GLUTAMINDEG-PWY	glutamine degradation I
+NCU03648.7	GLUTAMIN-RXN	GLUTAMINDEG-PWY	glutamine degradation I
+NCU06471.7	PYRROLINECARBREDUCT-RXN	PROSYN-PWY	proline biosynthesis I
+NCU08162.7	ARGSUCCINLYA-RXN	ARGSYNBSUB-PWY-1	arginine biosynthesis II (acetyl cycle)
+NCU02571.7	ACETYL-COA-ACETYLTRANSFER-RXN	PWY-5177	glutaryl-CoA degradation
+NCU00580.7	RXN-9666	PWY-5996	oleate biosynthesis II (neurospora)
+NCU05843.7	RXN-9615	PWY-5986	ammonium transport
+NCU01065.7	RXN-9615	PWY-5986	ammonium transport
+NCU06613.7	RXN-9615	PWY-5986	ammonium transport
+NCU03257.7	RXN-9615	PWY-5986	ammonium transport
+NCU10058.7	PHOSPHOGLUCMUT-RXN	PWY-5941	glycogen degradation II
+NCU01652.7	ACETYLHOMOSER-CYS-RXN	PWY-5344	homocysteine biosynthesis
+NCU03076.7	PYRROLINECARBDEHYDROG-RXN	PROUT-PWY	proline degradation
+NCU05624.7	ASPARAGHYD-RXN	ASPARAGINE-DEG1-PWY	asparagine degradation I
+NCU01757.7	ASPARAGHYD-RXN	ASPARAGINE-DEG1-PWY	asparagine degradation I
+NCU03768.7	ASPARAGHYD-RXN	ASPARAGINE-DEG1-PWY	asparagine degradation I
+NCU03100.7	6PGLUCONDEHYDROG-RXN	OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)
+NCU00837.7	6PGLUCONDEHYDROG-RXN	OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)
+NCU03415.7	RXN0-3962	PWY-5768	pyruvate fermentation to acetate VIII
+NCU06003.7	2.7.7.13-RXN	PWY-5659	GDP-mannose biosynthesis
+NCU00720.7	L-LACTATE-DEHYDROGENASE-RXN	PWY-5481	pyruvate fermentation to lactate
+NCU00187.7	METHYLISOCITRATE-LYASE-RXN	PWY0-42	2-methylcitrate cycle I
+NCU02004.7	RXN0-5114	SERSYN-PWY	serine biosynthesis
+NCU06075.7	PEPDEPHOS-RXN	PWY-5484	glycolysis II
+NCU04944.7	THIAMIN-PYROPHOSPHOKINASE-RXN	THISYNARA-PWY	thiamine biosynthesis II
+NCU05014.7	THIAMIN-PYROPHOSPHOKINASE-RXN	THISYNARA-PWY	thiamine biosynthesis II
+NCU03118.7	1.5.1.7-RXN	LYSINE-AMINOAD-PWY	lysine biosynthesis IV
+NCU06836.7	ACETATE--COA-LIGASE-RXN	PWY0-1313	acetate conversion to acetyl-CoA

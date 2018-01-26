@@ -1,0 +1,233 @@
+Gene	Reaction	PathwayID	PathwayName
+NCU01753.7	RXN-6601	PWY-4041	&gamma;-glutamyl cycle
+NCU04648.7	NAD-SYNTH-GLN-RXN	PYRIDNUCSAL-PWY	NAD salvage pathway I
+NCU00293.7	NADPYROPHOSPHAT-RXN	PYRIDNUCSAL-PWY	NAD salvage pathway I
+NCU08384.7	RXN2T-10	PWY-5516-1	xylose degradation II
+NCU03216.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU02812.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU01550.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU10220.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU12087.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU12069.7	ADENYL-KIN-RXN	PWY-6126-1	adenosine nucleotides <i>de novo</i> biosynthesis
+NCU04460.7	GALACTURIDYLYLTRANS-RXN	PWY-6317	galactose degradation I (Leloir pathway)
+NCU00438.7	ADENODEAMIN-RXN	SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides
+NCU04642.7	ADENODEAMIN-RXN	SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides
+NCU04048.7	ADENODEAMIN-RXN	SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides
+NCU01142.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01169.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU08930.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01467.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01360.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05221.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05299.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04044.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04074.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03953.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04753.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU04781.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU05009.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01765.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02373.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02280.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09460.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09299.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03156.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU01859.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00670.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02472.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00969.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU02534.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU03093.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09002.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00160.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00418.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU00484.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU09477.7	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-15	aerobic xylose fermentation
+NCU06211.7	MALATE-DEH-RXN	GLUCONEO-PWY	gluconeogenesis I
+NCU04899.7	MALATE-DEH-RXN	GLUCONEO-PWY	gluconeogenesis I
+NCU07953.7	RXN-6883	PWY-4302	aerobic respiration -- electron donor III
+NCU03996.7	3.2.1.91-RXN	PWY2T-42	cellulose degradation III (neurospora)
+NCU03254.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU00762.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU08227.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU07190.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU01162.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU03914.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU05121.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU02240.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU05882.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU01050.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU07898.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU07974.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU08760.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU03328.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU05404.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU01867.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU02916.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU00836.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU02344.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU04854.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU05057.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU07340.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU07760.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU09680.7	RXN-2043	PWY2T-42	cellulose degradation III (neurospora)
+NCU08755.7	RXN-10773	PWY2T-42	cellulose degradation III (neurospora)
+NCU04952.7	RXN-10773	PWY2T-42	cellulose degradation III (neurospora)
+NCU08976.7	RXN2T-60	PWY2T-27	fatty acid elongation
+NCU11353.7	XYLULOKIN-RXN	NONOXIPENT-PWY-1	pentose phosphate pathway (non-oxidative branch)
+NCU01142.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU01169.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU08930.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU01467.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU01360.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU05221.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU05299.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU04044.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU04074.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU03953.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU04753.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU04781.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU05009.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU01765.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU02373.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU02280.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU09460.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU09299.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU03156.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU01859.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU00670.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU02472.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU00969.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU02534.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU03093.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU09002.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU00160.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU00418.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU00484.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU09477.7	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-2574	aerobic respiration
+NCU10110.7	3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	VALDEG-PWY	valine degradation I
+NCU06559.7	3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	VALDEG-PWY	valine degradation I
+NCU03559.7	1.10.2.2-RXN	PWY-3781	aerobic respiration -- electron donor II
+NCU06606.7	1.10.2.2-RXN	PWY-3781	aerobic respiration -- electron donor II
+NCU08940.7	1.10.2.2-RXN	PWY-3781	aerobic respiration -- electron donor II
+NCU08947.7	1.10.2.2-RXN	PWY-3781	aerobic respiration -- electron donor II
+NCU01142.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU01169.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU08930.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU01467.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU01360.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU05221.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU05299.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU04044.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU04074.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU03953.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU04753.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU04781.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU05009.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU01765.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU02373.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU02280.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU09460.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU09299.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU03156.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU01859.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00670.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU02472.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00969.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU02534.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU03093.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU09002.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00160.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00418.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00484.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU09477.7	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NIL	NADH-DEHYDROG-A-RXN	PWY2T-4	xylose story
+NCU00629.7	6PFRUCTPHOS-RXN	GLYCOLYSIS-1	glycolysis I
+NCU07807.7	F16ALDOLASE-RXN	GLYCOLYSIS-1	glycolysis I
+NCU00575.7	RXN-1685	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU02542.7	RXN-1685	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU06996.7	RXN-1685	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU04728.7	RXN-1685	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU02797.7	GLUC1PURIDYLTRANS-RXN	PWY2T-19	cell wall biosynthesis (neurospora)
+NCU02430.7	RXN-721	PWY-801	homocysteine and cysteine interconversion
+NCU05093.7	RXN-721	PWY-801	homocysteine and cysteine interconversion
+NCU08216.7	CYSTATHIONINE-BETA-SYNTHASE-RXN	PWY-801	homocysteine and cysteine interconversion
+NCU00552.7	RXN-11974	PWY-6681	neurosporaxanthin biosynthesis
+NCU03504.7	RXN3DJ-25	PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism
+NCU07937.7	RXN3DJ-11417	PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism
+NCU06075.7	PEPDEPHOS-RXN	PWY2T-1450	xylose fermentation
+NCU07807.7	F16ALDOLASE-RXN	PWY2T-1450	xylose fermentation
+NCU09873.7	PEPCARBOX-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU06075.7	PEPDEPHOS-RXN	FERMENTATION-PWY	mixed acid fermentation
+NCU08359.7	CYTIDEAM2-RXN	PWY0-163	salvage pathways of pyrimidine ribonucleotides
+NCU05805.7	GLYOHMETRANS-RXN	PWY-2201	folate transformations
+NCU02274.7	GLYOHMETRANS-RXN	PWY-2201	folate transformations
+NCU03877.7	FORMATETHFLIG-RXN	PWY-2201	folate transformations
+NCU03973.7	ALANINE-AMINOTRANSFERASE-RXN	ALACAT2-PWY	alanine degradation II (to D-lactate)
+NCU09621.7	GUANINE-DEAMINASE-RXN	SALVPURINE2-PWY	salvage pathways of guanine, xanthine, and their nucleosides
+NCU07309.7	GUANINE-DEAMINASE-RXN	SALVPURINE2-PWY	salvage pathways of guanine, xanthine, and their nucleosides
+NCU06353.7	5-FORMYL-THF-CYCLO-LIGASE-RXN	PWY-3841	formylTHF biosynthesis II
+NCU03877.7	METHYLENETHFDEHYDROG-NADP-RXN	PWY-3841	formylTHF biosynthesis II
+NCU02407.7	GCVMULTI-RXN	PWY-3841	formylTHF biosynthesis II
+NCU02475.7	GCVMULTI-RXN	PWY-3841	formylTHF biosynthesis II
+NCU02727.7	GCVMULTI-RXN	PWY-3841	formylTHF biosynthesis II
+NCU08877.7	GCVMULTI-RXN	PWY-3841	formylTHF biosynthesis II
+NCU05805.7	GLYOHMETRANS-RXN	PWY-3841	formylTHF biosynthesis II
+NCU02274.7	GLYOHMETRANS-RXN	PWY-3841	formylTHF biosynthesis II
+NCU16699.7	DIHYDROFOLATEREDUCT-RXN	PWY-3841	formylTHF biosynthesis II
+NCU00087.7	6PGLUCONOLACT-RXN	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU07143.7	6PGLUCONOLACT-RXN	OXIDATIVEPENT-PWY-1	pentose phosphate pathway (oxidative branch)
+NCU02407.7	GCVMULTI-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU02475.7	GCVMULTI-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU02727.7	GCVMULTI-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU08877.7	GCVMULTI-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU05805.7	GLYOHMETRANS-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU02274.7	GLYOHMETRANS-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU16699.7	DIHYDROFOLATEREDUCT-RXN	1CMET2-PWY	formylTHF biosynthesis I
+NCU03559.7	1.10.2.2-RXN	PWY2T-21	redox potential pathway
+NCU06606.7	1.10.2.2-RXN	PWY2T-21	redox potential pathway
+NCU08940.7	1.10.2.2-RXN	PWY2T-21	redox potential pathway
+NCU08947.7	1.10.2.2-RXN	PWY2T-21	redox potential pathway
+NCU02855.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU08189.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU07225.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU04997.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU05924.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU07130.7	3.2.1.8-RXN	PWY2T-10	xylan degradation
+NCU07027.7	RXN0-5182	GLYCOCAT-PWY	glycogen degradation I
+NCU00008.7	RXN3O-328	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU06465.7	RXN3O-1380	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU07937.7	SPHINGANINE-KINASE-RXN	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU00302.7	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	PWY2T-23	sphingolipid metabolism (Neurosospora)
+NCU07690.7	1.5.1.20-RXN	PWY2T-24	cysteine and methionine metabolism
+NCU09545.7	1.5.1.20-RXN	PWY2T-24	cysteine and methionine metabolism
+NCU05805.7	GLYOHMETRANS-RXN	PWY-2161	folate polyglutamylation I
+NCU02274.7	GLYOHMETRANS-RXN	PWY-2161	folate polyglutamylation I
+NCU06924.7	KYNURENINE-3-MONOOXYGENASE-RXN	PWY-6309	tryptophan degradation XI (mammalian, via kynurenine)
+NCU03347.7	ARYLFORMAMIDASE-RXN	PWY-6309	tryptophan degradation XI (mammalian, via kynurenine)
+NCU04265.7	RXN-1461	PWY-621-1	sucrose degradation III
+NCU00008.7	RXN3O-328	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU06465.7	RXN3O-1380	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU07937.7	SPHINGANINE-KINASE-RXN	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU00302.7	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	SPHINGOLIPID-SYN-PWY	sphingolipid metabolism
+NCU10468.7	GLUTAMATE-N-ACETYLTRANSFERASE-RXN	ARGSYNBSUB-PWY-1	arginine biosynthesis II (acetyl cycle)
+NCU05410.7	ACETYLORNTRANSAM-RXN	ARGSYNBSUB-PWY-1	arginine biosynthesis II (acetyl cycle)
+NCU00629.7	6PFRUCTPHOS-RXN	PWY-5484	glycolysis II
+NCU07807.7	F16ALDOLASE-RXN	PWY-5484	glycolysis II
