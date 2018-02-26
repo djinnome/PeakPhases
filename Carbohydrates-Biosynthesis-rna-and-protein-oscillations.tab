@@ -1,193 +1,625 @@
 Gene	variable	value	Average	CircadianTime	Measurement	PathwayClass
+NCU07165.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT12.0_RNA	2.0	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT12.0_RNA	2.0	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Carbohydrates-Biosynthesis
-Average	CT12.0_RNA	0.1599889113835549	True	12.0	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT12.0_RNA		False	12.0	RNA	Carbohydrates-Biosynthesis
+Average	CT12.0_RNA	0.65950520761453	True	12.0	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT12.0_protein	2.0	False	12.0	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT12.0_protein	2.0	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT12.0_protein	2.0	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT12.0_protein	1.3090169943749472	False	12.0	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT12.0_protein	2.0	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT12.0_protein	1.3090169943749472	False	12.0	protein	Carbohydrates-Biosynthesis
-Average	CT12.0_protein	1.898507590265441	True	12.0	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT12.0_protein		False	12.0	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Carbohydrates-Biosynthesis
+Average	CT12.0_protein	1.8294666318545887	True	12.0	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT14.1_RNA	2.0	False	14.1	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Carbohydrates-Biosynthesis
-Average	CT14.1_RNA	0.3695273353867718	True	14.1	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT14.1_RNA		False	14.1	RNA	Carbohydrates-Biosynthesis
+Average	CT14.1_RNA	0.7889728178923335	True	14.1	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT14.1_protein	0.7580781044003322	False	14.1	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT14.1_protein	0.7580781044003322	False	14.1	protein	Carbohydrates-Biosynthesis
-Average	CT14.1_protein	1.6689084821805704	True	14.1	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT14.1_protein	2.0	False	14.1	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT14.1_protein		False	14.1	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT14.1_protein	2.0	False	14.1	protein	Carbohydrates-Biosynthesis
+Average	CT14.1_protein	1.6440437479664325	True	14.1	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Carbohydrates-Biosynthesis
-Average	CT16.3_RNA	0.7706688028086109	True	16.3	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT16.3_RNA		False	16.3	RNA	Carbohydrates-Biosynthesis
+Average	CT16.3_RNA	0.9825723923381458	True	16.3	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT16.3_protein	0.28066019966134903	False	16.3	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT16.3_protein	0.28066019966134903	False	16.3	protein	Carbohydrates-Biosynthesis
-Average	CT16.3_protein	1.2360255393667938	True	16.3	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT16.3_protein		False	16.3	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Carbohydrates-Biosynthesis
+Average	CT16.3_protein	1.2628935167541757	True	16.3	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Carbohydrates-Biosynthesis
-Average	CT18.4_RNA	1.2415048942783655	True	18.4	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT18.4_RNA		False	18.4	RNA	Carbohydrates-Biosynthesis
+Average	CT18.4_RNA	1.1814682831112735	True	18.4	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT18.4_protein	0.021852399266194308	False	18.4	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT18.4_protein	0.021852399266194308	False	18.4	protein	Carbohydrates-Biosynthesis
-Average	CT18.4_protein	0.7314135364280355	True	18.4	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT18.4_protein		False	18.4	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Carbohydrates-Biosynthesis
+Average	CT18.4_protein	0.8018489447840599	True	18.4	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Carbohydrates-Biosynthesis
-Average	CT20.5_RNA	1.6389467288018424	True	20.5	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT20.5_RNA		False	20.5	RNA	Carbohydrates-Biosynthesis
+Average	CT20.5_RNA	1.3252152716724357	True	20.5	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT20.5_protein	0.06030737921409146	False	20.5	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT20.5_protein	0.06030737921409146	False	20.5	protein	Carbohydrates-Biosynthesis
-Average	CT20.5_protein	0.30842598246202285	True	20.5	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT20.5_protein		False	20.5	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Carbohydrates-Biosynthesis
+Average	CT20.5_protein	0.4010232329912945	True	20.5	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT22.7_RNA	2.0	False	22.7	RNA	Carbohydrates-Biosynthesis
-Average	CT22.7_RNA	1.8422102195331924	True	22.7	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT22.7_RNA		False	22.7	RNA	Carbohydrates-Biosynthesis
+Average	CT22.7_RNA	1.3701281008543342	True	22.7	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT22.7_protein	0.3843385246743412	False	22.7	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT22.7_protein	0.3843385246743412	False	22.7	protein	Carbohydrates-Biosynthesis
-Average	CT22.7_protein	0.09561040572329979	True	22.7	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT22.7_protein		False	22.7	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Carbohydrates-Biosynthesis
+Average	CT22.7_protein	0.1822288414086124	True	22.7	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT0.8_RNA	2.0	False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Carbohydrates-Biosynthesis
-Average	CT0.8_RNA	1.7895228176753757	True	0.8	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT0.8_RNA		False	0.8	RNA	Carbohydrates-Biosynthesis
+Average	CT0.8_RNA	1.3025575908545879	True	0.8	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT0.8_protein	0.8954715367323459	False	0.8	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT0.8_protein	0.8954715367323459	False	0.8	protein	Carbohydrates-Biosynthesis
-Average	CT0.8_protein	0.15764227031790082	True	0.8	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT0.8_protein		False	0.8	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Carbohydrates-Biosynthesis
+Average	CT0.8_protein	0.21195821873858356	True	0.8	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Carbohydrates-Biosynthesis
-Average	CT2.9_RNA	1.496896425270127	True	2.9	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT2.9_RNA		False	2.9	RNA	Carbohydrates-Biosynthesis
+Average	CT2.9_RNA	1.143038676949482	True	2.9	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT2.9_protein	1.438371146789077	False	2.9	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT2.9_protein	1.438371146789077	False	2.9	protein	Carbohydrates-Biosynthesis
-Average	CT2.9_protein	0.4756698563975929	True	2.9	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT2.9_protein		False	2.9	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Carbohydrates-Biosynthesis
+Average	CT2.9_protein	0.48117649401046164	True	2.9	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT5.1_RNA	2.0	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Carbohydrates-Biosynthesis
-Average	CT5.1_RNA	1.0532613171991543	True	5.1	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT5.1_RNA		False	5.1	RNA	Carbohydrates-Biosynthesis
+Average	CT5.1_RNA	0.9400497644728967	True	5.1	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT5.1_protein	1.8480480961564256	False	5.1	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT5.1_protein	1.8480480961564256	False	5.1	protein	Carbohydrates-Biosynthesis
-Average	CT5.1_protein	0.9530433696032059	True	5.1	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT5.1_protein		False	5.1	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Carbohydrates-Biosynthesis
+Average	CT5.1_protein	0.9080672082701563	True	5.1	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Carbohydrates-Biosynthesis
-Average	CT7.2_RNA	0.5934398920289249	True	7.2	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT7.2_RNA		False	7.2	RNA	Carbohydrates-Biosynthesis
+Average	CT7.2_RNA	0.7552799568447389	True	7.2	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT7.2_protein	2.0	False	7.2	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT7.2_protein	2.0	False	7.2	protein	Carbohydrates-Biosynthesis
-Average	CT7.2_protein	1.4446871815825628	True	7.2	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT7.2_protein		False	7.2	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Carbohydrates-Biosynthesis
+Average	CT7.2_protein	1.3628966479878604	True	7.2	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Carbohydrates-Biosynthesis
-Average	CT9.3_RNA	0.25717363172480395	True	9.3	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT9.3_RNA		False	9.3	RNA	Carbohydrates-Biosynthesis
+Average	CT9.3_RNA	0.6448815021488286	True	9.3	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT9.3_protein	1.8480480961564263	False	9.3	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT9.3_protein	1.8480480961564263	False	9.3	protein	Carbohydrates-Biosynthesis
-Average	CT9.3_protein	1.8011888658493125	True	9.3	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT9.3_protein		False	9.3	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Carbohydrates-Biosynthesis
+Average	CT9.3_protein	1.7074404145851507	True	9.3	protein	Carbohydrates-Biosynthesis
+NCU07165.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU02322.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU02829.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU06003.7	CT11.5_RNA	2.0	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU07366.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU01902.7	CT11.5_RNA	2.0	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU07458.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU02109.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU09715.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU05041.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU10058.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU02702.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU07281.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU04797.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU07807.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU01528.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU07914.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU02252.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU01870.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU10042.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Carbohydrates-Biosynthesis
 NCU02906.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Carbohydrates-Biosynthesis
-Average	CT11.5_RNA	0.14665513318993048	True	11.5	RNA	Carbohydrates-Biosynthesis
+NCU03651.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU09873.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU06211.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
+NCU04899.7	CT11.5_RNA		False	11.5	RNA	Carbohydrates-Biosynthesis
+Average	CT11.5_RNA	0.6424049111300294	True	11.5	RNA	Carbohydrates-Biosynthesis
+NCU07165.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
 NCU02322.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Carbohydrates-Biosynthesis
 NCU02829.7	CT11.5_protein	2.0	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU06003.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU07366.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU01902.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU07458.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
 NCU02109.7	CT11.5_protein	2.0	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU09715.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU05041.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
 NCU10058.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU02702.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
 NCU07281.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU04797.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU07807.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU01528.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU07914.7	CT11.5_protein	1.438371146789078	False	11.5	protein	Carbohydrates-Biosynthesis
 NCU02252.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU01870.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU10042.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
 NCU02906.7	CT11.5_protein	1.438371146789078	False	11.5	protein	Carbohydrates-Biosynthesis
-Average	CT11.5_protein	1.9142062031079081	True	11.5	protein	Carbohydrates-Biosynthesis
+NCU03651.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Carbohydrates-Biosynthesis
+NCU09873.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU06211.7	CT11.5_protein		False	11.5	protein	Carbohydrates-Biosynthesis
+NCU04899.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Carbohydrates-Biosynthesis
+Average	CT11.5_protein	1.8369903454782393	True	11.5	protein	Carbohydrates-Biosynthesis
