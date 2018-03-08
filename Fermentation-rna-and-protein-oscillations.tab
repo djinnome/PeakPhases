@@ -1,32 +1,5 @@
 Gene	variable	value	Average	CircadianTime	Measurement	PathwayClass
-NCU02702.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU00720.7	CT12.0_RNA	0.28066019966134903	False	12.0	RNA	Fermentation
 NCU03415.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Fermentation
-NCU02663.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU02571.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU00891.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU11353.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU08384.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU02136.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU06142.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Fermentation
-NCU01328.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU00519.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Fermentation
-NCU07608.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Fermentation
-NCU01870.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU10042.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Fermentation
-NCU02252.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU07914.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU01528.7	CT12.0_RNA	2.0	False	12.0	RNA	Fermentation
-NCU10106.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU07550.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU07807.7	CT12.0_RNA	2.0	False	12.0	RNA	Fermentation
-NCU00629.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU07281.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU04797.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU05805.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU02274.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU03761.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU06075.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Fermentation
 NCU00780.7	CT12.0_RNA		False	12.0	RNA	Fermentation
 NCU02179.7	CT12.0_RNA		False	12.0	RNA	Fermentation
 NCU10008.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Fermentation
@@ -37,52 +10,44 @@ NCU02482.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Fermentation
 NCU01692.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Fermentation
 NCU02366.7	CT12.0_RNA		False	12.0	RNA	Fermentation
 NCU03857.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU01666.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU07982.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU09703.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU09803.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Fermentation
+NCU05731.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU02663.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU02571.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU09621.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Fermentation
+NCU07309.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU00963.7	CT12.0_RNA	1.3090169943749472	False	12.0	RNA	Fermentation
+NCU03813.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU03350.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU03877.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU05805.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU02274.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU03761.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU02712.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU07281.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU02702.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU06075.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Fermentation
+NCU01870.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU10042.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Fermentation
+NCU02252.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU07914.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU01528.7	CT12.0_RNA	2.0	False	12.0	RNA	Fermentation
+NCU10106.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU07550.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU07807.7	CT12.0_RNA	2.0	False	12.0	RNA	Fermentation
+NCU00629.7	CT12.0_RNA		False	12.0	RNA	Fermentation
+NCU04797.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
+NCU00720.7	CT12.0_RNA	0.28066019966134903	False	12.0	RNA	Fermentation
 NCU02476.7	CT12.0_RNA		False	12.0	RNA	Fermentation
 NCU01754.7	CT12.0_RNA		False	12.0	RNA	Fermentation
 NCU06652.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
 NCU02193.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Fermentation
 NCU02397.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU01666.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU07982.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU09703.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU09621.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Fermentation
-NCU07309.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU00963.7	CT12.0_RNA	1.3090169943749472	False	12.0	RNA	Fermentation
-NCU03877.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU03813.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU03350.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-NCU02712.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Fermentation
-NCU09803.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Fermentation
-NCU05731.7	CT12.0_RNA		False	12.0	RNA	Fermentation
-Average	CT12.0_RNA	0.7363010004546198	True	12.0	RNA	Fermentation
-NCU02702.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU00720.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Fermentation
+Average	CT12.0_RNA	0.7593097630553488	True	12.0	RNA	Fermentation
 NCU03415.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU02663.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU02571.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU00891.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU11353.7	CT12.0_protein	1.7660444431189772	False	12.0	protein	Fermentation
-NCU08384.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
-NCU02136.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU06142.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU01328.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU00519.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU07608.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU01870.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU10042.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU02252.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
-NCU07914.7	CT12.0_protein	1.3090169943749472	False	12.0	protein	Fermentation
-NCU01528.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU10106.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU07550.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
-NCU07807.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU00629.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU07281.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
-NCU04797.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU05805.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU02274.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU03761.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU06075.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
 NCU00780.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU02179.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU10008.7	CT12.0_protein		False	12.0	protein	Fermentation
@@ -93,52 +58,44 @@ NCU02482.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU01692.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU02366.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Fermentation
 NCU03857.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU01666.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Fermentation
+NCU07982.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU09703.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU09803.7	CT12.0_protein	0.021852399266194308	False	12.0	protein	Fermentation
+NCU05731.7	CT12.0_protein	0.8954715367323469	False	12.0	protein	Fermentation
+NCU02663.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU02571.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU09621.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU07309.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU00963.7	CT12.0_protein	0.021852399266194308	False	12.0	protein	Fermentation
+NCU03813.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
+NCU03350.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU03877.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Fermentation
+NCU05805.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU02274.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU03761.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU02712.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU07281.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
+NCU02702.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU06075.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
+NCU01870.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU10042.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU02252.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
+NCU07914.7	CT12.0_protein	1.3090169943749472	False	12.0	protein	Fermentation
+NCU01528.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU10106.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU07550.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
+NCU07807.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU00629.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU04797.7	CT12.0_protein		False	12.0	protein	Fermentation
+NCU00720.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Fermentation
 NCU02476.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU01754.7	CT12.0_protein	1.7660444431189772	False	12.0	protein	Fermentation
 NCU06652.7	CT12.0_protein		False	12.0	protein	Fermentation
 NCU02193.7	CT12.0_protein	0.38433852467434215	False	12.0	protein	Fermentation
 NCU02397.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU01666.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Fermentation
-NCU07982.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU09703.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU09621.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU07309.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU00963.7	CT12.0_protein	0.021852399266194308	False	12.0	protein	Fermentation
-NCU03877.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Fermentation
-NCU03813.7	CT12.0_protein	2.0	False	12.0	protein	Fermentation
-NCU03350.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU02712.7	CT12.0_protein		False	12.0	protein	Fermentation
-NCU09803.7	CT12.0_protein	0.021852399266194308	False	12.0	protein	Fermentation
-NCU05731.7	CT12.0_protein	0.8954715367323469	False	12.0	protein	Fermentation
-Average	CT12.0_protein	1.5303933996621808	True	12.0	protein	Fermentation
-NCU02702.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU00720.7	CT14.1_RNA	0.021852399266194308	False	14.1	RNA	Fermentation
+Average	CT12.0_protein	1.4863147969250172	True	12.0	protein	Fermentation
 NCU03415.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
-NCU02663.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU02571.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU00891.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU11353.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU08384.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU02136.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU06142.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
-NCU01328.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU00519.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Fermentation
-NCU07608.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Fermentation
-NCU01870.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU10042.7	CT14.1_RNA	2.0	False	14.1	RNA	Fermentation
-NCU02252.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU07914.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU01528.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
-NCU10106.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU07550.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU07807.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
-NCU00629.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU07281.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU04797.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU05805.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU02274.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU03761.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU06075.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Fermentation
 NCU00780.7	CT14.1_RNA		False	14.1	RNA	Fermentation
 NCU02179.7	CT14.1_RNA		False	14.1	RNA	Fermentation
 NCU10008.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Fermentation
@@ -149,52 +106,44 @@ NCU02482.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Fermentation
 NCU01692.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
 NCU02366.7	CT14.1_RNA		False	14.1	RNA	Fermentation
 NCU03857.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU01666.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU07982.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU09703.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU09803.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Fermentation
+NCU05731.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU02663.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU02571.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU09621.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Fermentation
+NCU07309.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU00963.7	CT14.1_RNA	0.7580781044003322	False	14.1	RNA	Fermentation
+NCU03813.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU03350.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU03877.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU05805.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU02274.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU03761.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU02712.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU07281.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU02702.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU06075.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Fermentation
+NCU01870.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU10042.7	CT14.1_RNA	2.0	False	14.1	RNA	Fermentation
+NCU02252.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU07914.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU01528.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
+NCU10106.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU07550.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU07807.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Fermentation
+NCU00629.7	CT14.1_RNA		False	14.1	RNA	Fermentation
+NCU04797.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
+NCU00720.7	CT14.1_RNA	0.021852399266194308	False	14.1	RNA	Fermentation
 NCU02476.7	CT14.1_RNA		False	14.1	RNA	Fermentation
 NCU01754.7	CT14.1_RNA		False	14.1	RNA	Fermentation
 NCU06652.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
 NCU02193.7	CT14.1_RNA	2.0	False	14.1	RNA	Fermentation
 NCU02397.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU01666.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU07982.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU09703.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU09621.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Fermentation
-NCU07309.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU00963.7	CT14.1_RNA	0.7580781044003322	False	14.1	RNA	Fermentation
-NCU03877.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU03813.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU03350.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-NCU02712.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Fermentation
-NCU09803.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Fermentation
-NCU05731.7	CT14.1_RNA		False	14.1	RNA	Fermentation
-Average	CT14.1_RNA	0.9588162423914772	True	14.1	RNA	Fermentation
-NCU02702.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU00720.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Fermentation
+Average	CT14.1_RNA	0.9633466694667806	True	14.1	RNA	Fermentation
 NCU03415.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU02663.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU02571.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU00891.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU11353.7	CT14.1_protein	1.3090169943749463	False	14.1	protein	Fermentation
-NCU08384.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
-NCU02136.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU06142.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU01328.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU00519.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU07608.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU01870.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU10042.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU02252.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
-NCU07914.7	CT14.1_protein	0.7580781044003322	False	14.1	protein	Fermentation
-NCU01528.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU10106.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU07550.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
-NCU07807.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU00629.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU07281.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
-NCU04797.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU05805.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU02274.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU03761.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU06075.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
 NCU00780.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU02179.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU10008.7	CT14.1_protein		False	14.1	protein	Fermentation
@@ -205,52 +154,44 @@ NCU02482.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU01692.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU02366.7	CT14.1_protein	2.0	False	14.1	protein	Fermentation
 NCU03857.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU01666.7	CT14.1_protein	2.0	False	14.1	protein	Fermentation
+NCU07982.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU09703.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU09803.7	CT14.1_protein	0.06030737921409146	False	14.1	protein	Fermentation
+NCU05731.7	CT14.1_protein	1.4383711467890776	False	14.1	protein	Fermentation
+NCU02663.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU02571.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU09621.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU07309.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU00963.7	CT14.1_protein	0.06030737921409146	False	14.1	protein	Fermentation
+NCU03813.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
+NCU03350.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU03877.7	CT14.1_protein	2.0	False	14.1	protein	Fermentation
+NCU05805.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU02274.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU03761.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU02712.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU07281.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
+NCU02702.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU06075.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
+NCU01870.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU10042.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU02252.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
+NCU07914.7	CT14.1_protein	0.7580781044003322	False	14.1	protein	Fermentation
+NCU01528.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU10106.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU07550.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
+NCU07807.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU00629.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU04797.7	CT14.1_protein		False	14.1	protein	Fermentation
+NCU00720.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Fermentation
 NCU02476.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU01754.7	CT14.1_protein	1.3090169943749463	False	14.1	protein	Fermentation
 NCU06652.7	CT14.1_protein		False	14.1	protein	Fermentation
 NCU02193.7	CT14.1_protein	0.8954715367323469	False	14.1	protein	Fermentation
 NCU02397.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU01666.7	CT14.1_protein	2.0	False	14.1	protein	Fermentation
-NCU07982.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU09703.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU09621.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU07309.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU00963.7	CT14.1_protein	0.06030737921409146	False	14.1	protein	Fermentation
-NCU03877.7	CT14.1_protein	2.0	False	14.1	protein	Fermentation
-NCU03813.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Fermentation
-NCU03350.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU02712.7	CT14.1_protein		False	14.1	protein	Fermentation
-NCU09803.7	CT14.1_protein	0.06030737921409146	False	14.1	protein	Fermentation
-NCU05731.7	CT14.1_protein	1.4383711467890776	False	14.1	protein	Fermentation
-Average	CT14.1_protein	1.4824945863976313	True	14.1	protein	Fermentation
-NCU02702.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU00720.7	CT16.3_RNA	0.06030737921409146	False	16.3	RNA	Fermentation
+Average	CT14.1_protein	1.4704898415391248	True	14.1	protein	Fermentation
 NCU03415.7	CT16.3_RNA	2.0	False	16.3	RNA	Fermentation
-NCU02663.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU02571.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU00891.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU11353.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU08384.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU02136.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU06142.7	CT16.3_RNA	2.0	False	16.3	RNA	Fermentation
-NCU01328.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU00519.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
-NCU07608.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Fermentation
-NCU01870.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU10042.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
-NCU02252.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU07914.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU01528.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Fermentation
-NCU10106.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU07550.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU07807.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Fermentation
-NCU00629.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU07281.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU04797.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU05805.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU02274.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU03761.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU06075.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Fermentation
 NCU00780.7	CT16.3_RNA		False	16.3	RNA	Fermentation
 NCU02179.7	CT16.3_RNA		False	16.3	RNA	Fermentation
 NCU10008.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
@@ -261,52 +202,44 @@ NCU02482.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
 NCU01692.7	CT16.3_RNA	2.0	False	16.3	RNA	Fermentation
 NCU02366.7	CT16.3_RNA		False	16.3	RNA	Fermentation
 NCU03857.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU01666.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU07982.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU09703.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU09803.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
+NCU05731.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU02663.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU02571.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU09621.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Fermentation
+NCU07309.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU00963.7	CT16.3_RNA	0.28066019966134903	False	16.3	RNA	Fermentation
+NCU03813.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU03350.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU03877.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU05805.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU02274.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU03761.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU02712.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU07281.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU02702.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU06075.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Fermentation
+NCU01870.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU10042.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
+NCU02252.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU07914.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU01528.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Fermentation
+NCU10106.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU07550.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU07807.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Fermentation
+NCU00629.7	CT16.3_RNA		False	16.3	RNA	Fermentation
+NCU04797.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
+NCU00720.7	CT16.3_RNA	0.06030737921409146	False	16.3	RNA	Fermentation
 NCU02476.7	CT16.3_RNA		False	16.3	RNA	Fermentation
 NCU01754.7	CT16.3_RNA		False	16.3	RNA	Fermentation
 NCU06652.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
 NCU02193.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
 NCU02397.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU01666.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU07982.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU09703.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU09621.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Fermentation
-NCU07309.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU00963.7	CT16.3_RNA	0.28066019966134903	False	16.3	RNA	Fermentation
-NCU03877.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU03813.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU03350.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-NCU02712.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Fermentation
-NCU09803.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Fermentation
-NCU05731.7	CT16.3_RNA		False	16.3	RNA	Fermentation
-Average	CT16.3_RNA	1.1938473850804296	True	16.3	RNA	Fermentation
-NCU02702.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU00720.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Fermentation
+Average	CT16.3_RNA	1.1785226625916732	True	16.3	RNA	Fermentation
 NCU03415.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU02663.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU02571.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU00891.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU11353.7	CT16.3_protein	0.7580781044003313	False	16.3	protein	Fermentation
-NCU08384.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
-NCU02136.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU06142.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU01328.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU00519.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU07608.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU01870.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU10042.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU02252.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
-NCU07914.7	CT16.3_protein	0.28066019966134903	False	16.3	protein	Fermentation
-NCU01528.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU10106.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU07550.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
-NCU07807.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU00629.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU07281.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
-NCU04797.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU05805.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU02274.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU03761.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU06075.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
 NCU00780.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU02179.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU10008.7	CT16.3_protein		False	16.3	protein	Fermentation
@@ -317,52 +250,44 @@ NCU02482.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU01692.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU02366.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
 NCU03857.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU01666.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
+NCU07982.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU09703.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU09803.7	CT16.3_protein	0.3843385246743412	False	16.3	protein	Fermentation
+NCU05731.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
+NCU02663.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU02571.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU09621.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU07309.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU00963.7	CT16.3_protein	0.3843385246743412	False	16.3	protein	Fermentation
+NCU03813.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
+NCU03350.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU03877.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
+NCU05805.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU02274.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU03761.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU02712.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU07281.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
+NCU02702.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU06075.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
+NCU01870.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU10042.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU02252.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
+NCU07914.7	CT16.3_protein	0.28066019966134903	False	16.3	protein	Fermentation
+NCU01528.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU10106.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU07550.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
+NCU07807.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU00629.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU04797.7	CT16.3_protein		False	16.3	protein	Fermentation
+NCU00720.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Fermentation
 NCU02476.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU01754.7	CT16.3_protein	0.7580781044003313	False	16.3	protein	Fermentation
 NCU06652.7	CT16.3_protein		False	16.3	protein	Fermentation
 NCU02193.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
 NCU02397.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU01666.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
-NCU07982.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU09703.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU09621.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU07309.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU00963.7	CT16.3_protein	0.3843385246743412	False	16.3	protein	Fermentation
-NCU03877.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
-NCU03813.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Fermentation
-NCU03350.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU02712.7	CT16.3_protein		False	16.3	protein	Fermentation
-NCU09803.7	CT16.3_protein	0.3843385246743412	False	16.3	protein	Fermentation
-NCU05731.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Fermentation
-Average	CT16.3_protein	1.2879638311384063	True	16.3	protein	Fermentation
-NCU02702.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU00720.7	CT18.4_RNA	0.3843385246743412	False	18.4	RNA	Fermentation
+Average	CT16.3_protein	1.3116812318313686	True	16.3	protein	Fermentation
 NCU03415.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Fermentation
-NCU02663.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU02571.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU00891.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU11353.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU08384.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU02136.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU06142.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Fermentation
-NCU01328.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU00519.7	CT18.4_RNA	2.0	False	18.4	RNA	Fermentation
-NCU07608.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Fermentation
-NCU01870.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU10042.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU02252.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU07914.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU01528.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Fermentation
-NCU10106.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU07550.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU07807.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Fermentation
-NCU00629.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU07281.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU04797.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU05805.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU02274.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU03761.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU06075.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Fermentation
 NCU00780.7	CT18.4_RNA		False	18.4	RNA	Fermentation
 NCU02179.7	CT18.4_RNA		False	18.4	RNA	Fermentation
 NCU10008.7	CT18.4_RNA	2.0	False	18.4	RNA	Fermentation
@@ -373,52 +298,44 @@ NCU02482.7	CT18.4_RNA	2.0	False	18.4	RNA	Fermentation
 NCU01692.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Fermentation
 NCU02366.7	CT18.4_RNA		False	18.4	RNA	Fermentation
 NCU03857.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU01666.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU07982.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU09703.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU09803.7	CT18.4_RNA	2.0	False	18.4	RNA	Fermentation
+NCU05731.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU02663.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU02571.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU09621.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Fermentation
+NCU07309.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU00963.7	CT18.4_RNA	0.021852399266194308	False	18.4	RNA	Fermentation
+NCU03813.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU03350.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU03877.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU05805.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU02274.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU03761.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU02712.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU07281.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU02702.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU06075.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Fermentation
+NCU01870.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU10042.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU02252.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU07914.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU01528.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Fermentation
+NCU10106.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU07550.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU07807.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Fermentation
+NCU00629.7	CT18.4_RNA		False	18.4	RNA	Fermentation
+NCU04797.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
+NCU00720.7	CT18.4_RNA	0.3843385246743412	False	18.4	RNA	Fermentation
 NCU02476.7	CT18.4_RNA		False	18.4	RNA	Fermentation
 NCU01754.7	CT18.4_RNA		False	18.4	RNA	Fermentation
 NCU06652.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
 NCU02193.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
 NCU02397.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU01666.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU07982.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU09703.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU09621.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Fermentation
-NCU07309.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU00963.7	CT18.4_RNA	0.021852399266194308	False	18.4	RNA	Fermentation
-NCU03877.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU03813.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU03350.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-NCU02712.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Fermentation
-NCU09803.7	CT18.4_RNA	2.0	False	18.4	RNA	Fermentation
-NCU05731.7	CT18.4_RNA		False	18.4	RNA	Fermentation
-Average	CT18.4_RNA	1.3699675693332423	True	18.4	RNA	Fermentation
-NCU02702.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU00720.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Fermentation
+Average	CT18.4_RNA	1.3394449387965082	True	18.4	RNA	Fermentation
 NCU03415.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU02663.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU02571.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU00891.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU11353.7	CT18.4_protein	0.2806601996613481	False	18.4	protein	Fermentation
-NCU08384.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
-NCU02136.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU06142.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU01328.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU00519.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU07608.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU01870.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU10042.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU02252.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
-NCU07914.7	CT18.4_protein	0.021852399266194308	False	18.4	protein	Fermentation
-NCU01528.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU10106.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU07550.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
-NCU07807.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU00629.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU07281.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
-NCU04797.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU05805.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU02274.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU03761.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU06075.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
 NCU00780.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU02179.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU10008.7	CT18.4_protein		False	18.4	protein	Fermentation
@@ -429,52 +346,44 @@ NCU02482.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU01692.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU02366.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Fermentation
 NCU03857.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU01666.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Fermentation
+NCU07982.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU09703.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU09803.7	CT18.4_protein	0.8954715367323458	False	18.4	protein	Fermentation
+NCU05731.7	CT18.4_protein	2.0	False	18.4	protein	Fermentation
+NCU02663.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU02571.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU09621.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU07309.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU00963.7	CT18.4_protein	0.8954715367323458	False	18.4	protein	Fermentation
+NCU03813.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
+NCU03350.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU03877.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Fermentation
+NCU05805.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU02274.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU03761.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU02712.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU07281.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
+NCU02702.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU06075.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
+NCU01870.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU10042.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU02252.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
+NCU07914.7	CT18.4_protein	0.021852399266194308	False	18.4	protein	Fermentation
+NCU01528.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU10106.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU07550.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
+NCU07807.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU00629.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU04797.7	CT18.4_protein		False	18.4	protein	Fermentation
+NCU00720.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Fermentation
 NCU02476.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU01754.7	CT18.4_protein	0.2806601996613481	False	18.4	protein	Fermentation
 NCU06652.7	CT18.4_protein		False	18.4	protein	Fermentation
 NCU02193.7	CT18.4_protein	1.848048096156426	False	18.4	protein	Fermentation
 NCU02397.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU01666.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Fermentation
-NCU07982.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU09703.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU09621.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU07309.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU00963.7	CT18.4_protein	0.8954715367323458	False	18.4	protein	Fermentation
-NCU03877.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Fermentation
-NCU03813.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Fermentation
-NCU03350.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU02712.7	CT18.4_protein		False	18.4	protein	Fermentation
-NCU09803.7	CT18.4_protein	0.8954715367323458	False	18.4	protein	Fermentation
-NCU05731.7	CT18.4_protein	2.0	False	18.4	protein	Fermentation
-Average	CT18.4_protein	1.0059197711200405	True	18.4	protein	Fermentation
-NCU02702.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU00720.7	CT20.5_RNA	0.8954715367323458	False	20.5	RNA	Fermentation
+Average	CT18.4_protein	1.0581515089854396	True	18.4	protein	Fermentation
 NCU03415.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Fermentation
-NCU02663.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU02571.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU00891.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU11353.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU08384.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU02136.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU06142.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Fermentation
-NCU01328.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU00519.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU07608.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Fermentation
-NCU01870.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU10042.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Fermentation
-NCU02252.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU07914.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU01528.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Fermentation
-NCU10106.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU07550.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU07807.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Fermentation
-NCU00629.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU07281.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU04797.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU05805.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU02274.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU03761.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU06075.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Fermentation
 NCU00780.7	CT20.5_RNA		False	20.5	RNA	Fermentation
 NCU02179.7	CT20.5_RNA		False	20.5	RNA	Fermentation
 NCU10008.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
@@ -485,52 +394,44 @@ NCU02482.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
 NCU01692.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Fermentation
 NCU02366.7	CT20.5_RNA		False	20.5	RNA	Fermentation
 NCU03857.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU01666.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU07982.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU09703.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU09803.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU05731.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU02663.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU02571.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU09621.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Fermentation
+NCU07309.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU00963.7	CT20.5_RNA	0.06030737921409146	False	20.5	RNA	Fermentation
+NCU03813.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU03350.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU03877.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU05805.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU02274.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU03761.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU02712.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU07281.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU02702.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU06075.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Fermentation
+NCU01870.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU10042.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Fermentation
+NCU02252.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU07914.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU01528.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Fermentation
+NCU10106.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU07550.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU07807.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Fermentation
+NCU00629.7	CT20.5_RNA		False	20.5	RNA	Fermentation
+NCU04797.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
+NCU00720.7	CT20.5_RNA	0.8954715367323458	False	20.5	RNA	Fermentation
 NCU02476.7	CT20.5_RNA		False	20.5	RNA	Fermentation
 NCU01754.7	CT20.5_RNA		False	20.5	RNA	Fermentation
 NCU06652.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
 NCU02193.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Fermentation
 NCU02397.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU01666.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU07982.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU09703.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU09621.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Fermentation
-NCU07309.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU00963.7	CT20.5_RNA	0.06030737921409146	False	20.5	RNA	Fermentation
-NCU03877.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU03813.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU03350.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-NCU02712.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU09803.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Fermentation
-NCU05731.7	CT20.5_RNA		False	20.5	RNA	Fermentation
-Average	CT20.5_RNA	1.4336532005449234	True	20.5	RNA	Fermentation
-NCU02702.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU00720.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Fermentation
+Average	CT20.5_RNA	1.3972086056009534	True	20.5	RNA	Fermentation
 NCU03415.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU02663.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU02571.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU00891.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU11353.7	CT20.5_protein	0.021852399266194308	False	20.5	protein	Fermentation
-NCU08384.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
-NCU02136.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU06142.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU01328.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU00519.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU07608.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU01870.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU10042.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU02252.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
-NCU07914.7	CT20.5_protein	0.06030737921409146	False	20.5	protein	Fermentation
-NCU01528.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU10106.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU07550.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
-NCU07807.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU00629.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU07281.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
-NCU04797.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU05805.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU02274.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU03761.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU06075.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
 NCU00780.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU02179.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU10008.7	CT20.5_protein		False	20.5	protein	Fermentation
@@ -541,52 +442,44 @@ NCU02482.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU01692.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU02366.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Fermentation
 NCU03857.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU01666.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Fermentation
+NCU07982.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU09703.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU09803.7	CT20.5_protein	1.4383711467890763	False	20.5	protein	Fermentation
+NCU05731.7	CT20.5_protein	1.848048096156426	False	20.5	protein	Fermentation
+NCU02663.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU02571.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU09621.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU07309.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU00963.7	CT20.5_protein	1.4383711467890763	False	20.5	protein	Fermentation
+NCU03813.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
+NCU03350.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU03877.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Fermentation
+NCU05805.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU02274.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU03761.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU02712.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU07281.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
+NCU02702.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU06075.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
+NCU01870.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU10042.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU02252.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
+NCU07914.7	CT20.5_protein	0.06030737921409146	False	20.5	protein	Fermentation
+NCU01528.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU10106.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU07550.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
+NCU07807.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU00629.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU04797.7	CT20.5_protein		False	20.5	protein	Fermentation
+NCU00720.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Fermentation
 NCU02476.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU01754.7	CT20.5_protein	0.021852399266194308	False	20.5	protein	Fermentation
 NCU06652.7	CT20.5_protein		False	20.5	protein	Fermentation
 NCU02193.7	CT20.5_protein	2.0	False	20.5	protein	Fermentation
 NCU02397.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU01666.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Fermentation
-NCU07982.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU09703.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU09621.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU07309.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU00963.7	CT20.5_protein	1.4383711467890763	False	20.5	protein	Fermentation
-NCU03877.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Fermentation
-NCU03813.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Fermentation
-NCU03350.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU02712.7	CT20.5_protein		False	20.5	protein	Fermentation
-NCU09803.7	CT20.5_protein	1.4383711467890763	False	20.5	protein	Fermentation
-NCU05731.7	CT20.5_protein	1.848048096156426	False	20.5	protein	Fermentation
-Average	CT20.5_protein	0.7220766701176583	True	20.5	protein	Fermentation
-NCU02702.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU00720.7	CT22.7_RNA	1.4383711467890763	False	22.7	RNA	Fermentation
+Average	CT20.5_protein	0.7869493211360821	True	20.5	protein	Fermentation
 NCU03415.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Fermentation
-NCU02663.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU02571.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU00891.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU11353.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU08384.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU02136.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU06142.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Fermentation
-NCU01328.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU00519.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Fermentation
-NCU07608.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Fermentation
-NCU01870.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU10042.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Fermentation
-NCU02252.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU07914.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU01528.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Fermentation
-NCU10106.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU07550.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU07807.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Fermentation
-NCU00629.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU07281.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU04797.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU05805.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU02274.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU03761.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU06075.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Fermentation
 NCU00780.7	CT22.7_RNA		False	22.7	RNA	Fermentation
 NCU02179.7	CT22.7_RNA		False	22.7	RNA	Fermentation
 NCU10008.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Fermentation
@@ -597,52 +490,44 @@ NCU02482.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Fermentation
 NCU01692.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Fermentation
 NCU02366.7	CT22.7_RNA		False	22.7	RNA	Fermentation
 NCU03857.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU01666.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU07982.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU09703.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU09803.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Fermentation
+NCU05731.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU02663.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU02571.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU09621.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Fermentation
+NCU07309.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU00963.7	CT22.7_RNA	0.3843385246743412	False	22.7	RNA	Fermentation
+NCU03813.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU03350.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU03877.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU05805.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU02274.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU03761.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU02712.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU07281.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU02702.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU06075.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Fermentation
+NCU01870.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU10042.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Fermentation
+NCU02252.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU07914.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU01528.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Fermentation
+NCU10106.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU07550.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU07807.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Fermentation
+NCU00629.7	CT22.7_RNA		False	22.7	RNA	Fermentation
+NCU04797.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
+NCU00720.7	CT22.7_RNA	1.4383711467890763	False	22.7	RNA	Fermentation
 NCU02476.7	CT22.7_RNA		False	22.7	RNA	Fermentation
 NCU01754.7	CT22.7_RNA		False	22.7	RNA	Fermentation
 NCU06652.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
 NCU02193.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Fermentation
 NCU02397.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU01666.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU07982.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU09703.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU09621.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Fermentation
-NCU07309.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU00963.7	CT22.7_RNA	0.3843385246743412	False	22.7	RNA	Fermentation
-NCU03877.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU03813.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU03350.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-NCU02712.7	CT22.7_RNA	2.0	False	22.7	RNA	Fermentation
-NCU09803.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Fermentation
-NCU05731.7	CT22.7_RNA		False	22.7	RNA	Fermentation
-Average	CT22.7_RNA	1.3655499728952847	True	22.7	RNA	Fermentation
-NCU02702.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU00720.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Fermentation
+Average	CT22.7_RNA	1.3342590647171664	True	22.7	RNA	Fermentation
 NCU03415.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU02663.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU02571.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU00891.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU11353.7	CT22.7_protein	0.06030737921409191	False	22.7	protein	Fermentation
-NCU08384.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
-NCU02136.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU06142.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU01328.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU00519.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU07608.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU01870.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU10042.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU02252.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
-NCU07914.7	CT22.7_protein	0.3843385246743412	False	22.7	protein	Fermentation
-NCU01528.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU10106.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU07550.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
-NCU07807.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU00629.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU07281.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
-NCU04797.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU05805.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU02274.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU03761.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU06075.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
 NCU00780.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU02179.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU10008.7	CT22.7_protein		False	22.7	protein	Fermentation
@@ -653,52 +538,44 @@ NCU02482.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU01692.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU02366.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Fermentation
 NCU03857.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU01666.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Fermentation
+NCU07982.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU09703.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU09803.7	CT22.7_protein	1.8480480961564252	False	22.7	protein	Fermentation
+NCU05731.7	CT22.7_protein	1.4383711467890776	False	22.7	protein	Fermentation
+NCU02663.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU02571.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU09621.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU07309.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU00963.7	CT22.7_protein	1.8480480961564252	False	22.7	protein	Fermentation
+NCU03813.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
+NCU03350.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU03877.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Fermentation
+NCU05805.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU02274.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU03761.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU02712.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU07281.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
+NCU02702.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU06075.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
+NCU01870.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU10042.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU02252.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
+NCU07914.7	CT22.7_protein	0.3843385246743412	False	22.7	protein	Fermentation
+NCU01528.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU10106.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU07550.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
+NCU07807.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU00629.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU04797.7	CT22.7_protein		False	22.7	protein	Fermentation
+NCU00720.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Fermentation
 NCU02476.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU01754.7	CT22.7_protein	0.06030737921409191	False	22.7	protein	Fermentation
 NCU06652.7	CT22.7_protein		False	22.7	protein	Fermentation
 NCU02193.7	CT22.7_protein	1.848048096156426	False	22.7	protein	Fermentation
 NCU02397.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU01666.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Fermentation
-NCU07982.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU09703.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU09621.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU07309.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU00963.7	CT22.7_protein	1.8480480961564252	False	22.7	protein	Fermentation
-NCU03877.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Fermentation
-NCU03813.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Fermentation
-NCU03350.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU02712.7	CT22.7_protein		False	22.7	protein	Fermentation
-NCU09803.7	CT22.7_protein	1.8480480961564252	False	22.7	protein	Fermentation
-NCU05731.7	CT22.7_protein	1.4383711467890776	False	22.7	protein	Fermentation
-Average	CT22.7_protein	0.5226955273116107	True	22.7	protein	Fermentation
-NCU02702.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU00720.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+Average	CT22.7_protein	0.5804940458238006	True	22.7	protein	Fermentation
 NCU03415.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Fermentation
-NCU02663.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU02571.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU00891.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU11353.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU08384.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU02136.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU06142.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Fermentation
-NCU01328.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU00519.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Fermentation
-NCU07608.7	CT0.8_RNA	2.0	False	0.8	RNA	Fermentation
-NCU01870.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU10042.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Fermentation
-NCU02252.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU07914.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU01528.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Fermentation
-NCU10106.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU07550.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU07807.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Fermentation
-NCU00629.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU07281.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU04797.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU05805.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU02274.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU03761.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU06075.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Fermentation
 NCU00780.7	CT0.8_RNA		False	0.8	RNA	Fermentation
 NCU02179.7	CT0.8_RNA		False	0.8	RNA	Fermentation
 NCU10008.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Fermentation
@@ -709,52 +586,44 @@ NCU02482.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Fermentation
 NCU01692.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Fermentation
 NCU02366.7	CT0.8_RNA		False	0.8	RNA	Fermentation
 NCU03857.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU01666.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU07982.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU09703.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU09803.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Fermentation
+NCU05731.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU02663.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU02571.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU09621.7	CT0.8_RNA	2.0	False	0.8	RNA	Fermentation
+NCU07309.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU00963.7	CT0.8_RNA	0.8954715367323459	False	0.8	RNA	Fermentation
+NCU03813.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU03350.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU03877.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU05805.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU02274.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU03761.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU02712.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU07281.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU02702.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU06075.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Fermentation
+NCU01870.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU10042.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Fermentation
+NCU02252.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU07914.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU01528.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Fermentation
+NCU10106.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU07550.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU07807.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Fermentation
+NCU00629.7	CT0.8_RNA		False	0.8	RNA	Fermentation
+NCU04797.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
+NCU00720.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
 NCU02476.7	CT0.8_RNA		False	0.8	RNA	Fermentation
 NCU01754.7	CT0.8_RNA		False	0.8	RNA	Fermentation
 NCU06652.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
 NCU02193.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Fermentation
 NCU02397.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU01666.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU07982.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU09703.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU09621.7	CT0.8_RNA	2.0	False	0.8	RNA	Fermentation
-NCU07309.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU00963.7	CT0.8_RNA	0.8954715367323459	False	0.8	RNA	Fermentation
-NCU03877.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU03813.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU03350.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-NCU02712.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Fermentation
-NCU09803.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Fermentation
-NCU05731.7	CT0.8_RNA		False	0.8	RNA	Fermentation
-Average	CT0.8_RNA	1.186354716582834	True	0.8	RNA	Fermentation
-NCU02702.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU00720.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Fermentation
+Average	CT0.8_RNA	1.1697269213118875	True	0.8	RNA	Fermentation
 NCU03415.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU02663.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU02571.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU00891.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU11353.7	CT0.8_protein	0.38433852467434215	False	0.8	protein	Fermentation
-NCU08384.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
-NCU02136.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU06142.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU01328.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU00519.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU07608.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU01870.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU10042.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU02252.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
-NCU07914.7	CT0.8_protein	0.8954715367323459	False	0.8	protein	Fermentation
-NCU01528.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU10106.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU07550.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
-NCU07807.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU00629.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU07281.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
-NCU04797.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU05805.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU02274.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU03761.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU06075.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
 NCU00780.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU02179.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU10008.7	CT0.8_protein		False	0.8	protein	Fermentation
@@ -765,52 +634,44 @@ NCU02482.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU01692.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU02366.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Fermentation
 NCU03857.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU01666.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Fermentation
+NCU07982.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU09703.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU09803.7	CT0.8_protein	2.0	False	0.8	protein	Fermentation
+NCU05731.7	CT0.8_protein	0.8954715367323467	False	0.8	protein	Fermentation
+NCU02663.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU02571.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU09621.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU07309.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU00963.7	CT0.8_protein	2.0	False	0.8	protein	Fermentation
+NCU03813.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
+NCU03350.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU03877.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Fermentation
+NCU05805.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU02274.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU03761.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU02712.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU07281.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
+NCU02702.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU06075.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
+NCU01870.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU10042.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU02252.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
+NCU07914.7	CT0.8_protein	0.8954715367323459	False	0.8	protein	Fermentation
+NCU01528.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU10106.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU07550.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
+NCU07807.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU00629.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU04797.7	CT0.8_protein		False	0.8	protein	Fermentation
+NCU00720.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Fermentation
 NCU02476.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU01754.7	CT0.8_protein	0.38433852467434215	False	0.8	protein	Fermentation
 NCU06652.7	CT0.8_protein		False	0.8	protein	Fermentation
 NCU02193.7	CT0.8_protein	1.4383711467890774	False	0.8	protein	Fermentation
 NCU02397.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU01666.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Fermentation
-NCU07982.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU09703.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU09621.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU07309.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU00963.7	CT0.8_protein	2.0	False	0.8	protein	Fermentation
-NCU03877.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Fermentation
-NCU03813.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Fermentation
-NCU03350.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU02712.7	CT0.8_protein		False	0.8	protein	Fermentation
-NCU09803.7	CT0.8_protein	2.0	False	0.8	protein	Fermentation
-NCU05731.7	CT0.8_protein	0.8954715367323467	False	0.8	protein	Fermentation
-Average	CT0.8_protein	0.4683690311816711	True	0.8	protein	Fermentation
-NCU02702.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU00720.7	CT2.9_RNA	2.0	False	2.9	RNA	Fermentation
+Average	CT0.8_protein	0.5015282273330964	True	0.8	protein	Fermentation
 NCU03415.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Fermentation
-NCU02663.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU02571.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU00891.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU11353.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU08384.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU02136.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU06142.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Fermentation
-NCU01328.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU00519.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Fermentation
-NCU07608.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Fermentation
-NCU01870.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU10042.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Fermentation
-NCU02252.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU07914.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU01528.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Fermentation
-NCU10106.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU07550.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU07807.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Fermentation
-NCU00629.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU07281.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU04797.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU05805.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU02274.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU03761.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU06075.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Fermentation
 NCU00780.7	CT2.9_RNA		False	2.9	RNA	Fermentation
 NCU02179.7	CT2.9_RNA		False	2.9	RNA	Fermentation
 NCU10008.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Fermentation
@@ -821,52 +682,44 @@ NCU02482.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Fermentation
 NCU01692.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Fermentation
 NCU02366.7	CT2.9_RNA		False	2.9	RNA	Fermentation
 NCU03857.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU01666.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU07982.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU09703.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU09803.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Fermentation
+NCU05731.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU02663.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU02571.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU09621.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Fermentation
+NCU07309.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU00963.7	CT2.9_RNA	1.438371146789077	False	2.9	RNA	Fermentation
+NCU03813.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU03350.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU03877.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU05805.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU02274.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU03761.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU02712.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU07281.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU02702.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU06075.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Fermentation
+NCU01870.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU10042.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Fermentation
+NCU02252.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU07914.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU01528.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Fermentation
+NCU10106.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU07550.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU07807.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Fermentation
+NCU00629.7	CT2.9_RNA		False	2.9	RNA	Fermentation
+NCU04797.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
+NCU00720.7	CT2.9_RNA	2.0	False	2.9	RNA	Fermentation
 NCU02476.7	CT2.9_RNA		False	2.9	RNA	Fermentation
 NCU01754.7	CT2.9_RNA		False	2.9	RNA	Fermentation
 NCU06652.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
 NCU02193.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Fermentation
 NCU02397.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU01666.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU07982.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU09703.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU09621.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Fermentation
-NCU07309.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU00963.7	CT2.9_RNA	1.438371146789077	False	2.9	RNA	Fermentation
-NCU03877.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU03813.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU03350.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-NCU02712.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Fermentation
-NCU09803.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Fermentation
-NCU05731.7	CT2.9_RNA		False	2.9	RNA	Fermentation
-Average	CT2.9_RNA	0.9505255523204015	True	2.9	RNA	Fermentation
-NCU02702.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU00720.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Fermentation
+Average	CT2.9_RNA	0.9536141202529091	True	2.9	RNA	Fermentation
 NCU03415.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU02663.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU02571.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU00891.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU11353.7	CT2.9_protein	0.8954715367323469	False	2.9	protein	Fermentation
-NCU08384.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
-NCU02136.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU06142.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU01328.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU00519.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU07608.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU01870.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU10042.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU02252.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
-NCU07914.7	CT2.9_protein	1.438371146789077	False	2.9	protein	Fermentation
-NCU01528.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU10106.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU07550.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
-NCU07807.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU00629.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU07281.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
-NCU04797.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU05805.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU02274.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU03761.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU06075.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
 NCU00780.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU02179.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU10008.7	CT2.9_protein		False	2.9	protein	Fermentation
@@ -877,52 +730,44 @@ NCU02482.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU01692.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU02366.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Fermentation
 NCU03857.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU01666.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Fermentation
+NCU07982.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU09703.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU09803.7	CT2.9_protein	1.8480480961564263	False	2.9	protein	Fermentation
+NCU05731.7	CT2.9_protein	0.3843385246743418	False	2.9	protein	Fermentation
+NCU02663.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU02571.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU09621.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU07309.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU00963.7	CT2.9_protein	1.8480480961564263	False	2.9	protein	Fermentation
+NCU03813.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
+NCU03350.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU03877.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Fermentation
+NCU05805.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU02274.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU03761.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU02712.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU07281.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
+NCU02702.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU06075.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
+NCU01870.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU10042.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU02252.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
+NCU07914.7	CT2.9_protein	1.438371146789077	False	2.9	protein	Fermentation
+NCU01528.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU10106.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU07550.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
+NCU07807.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU00629.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU04797.7	CT2.9_protein		False	2.9	protein	Fermentation
+NCU00720.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Fermentation
 NCU02476.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU01754.7	CT2.9_protein	0.8954715367323469	False	2.9	protein	Fermentation
 NCU06652.7	CT2.9_protein		False	2.9	protein	Fermentation
 NCU02193.7	CT2.9_protein	0.8954715367323467	False	2.9	protein	Fermentation
 NCU02397.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU01666.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Fermentation
-NCU07982.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU09703.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU09621.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU07309.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU00963.7	CT2.9_protein	1.8480480961564263	False	2.9	protein	Fermentation
-NCU03877.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Fermentation
-NCU03813.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Fermentation
-NCU03350.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU02712.7	CT2.9_protein		False	2.9	protein	Fermentation
-NCU09803.7	CT2.9_protein	1.8480480961564263	False	2.9	protein	Fermentation
-NCU05731.7	CT2.9_protein	0.3843385246743418	False	2.9	protein	Fermentation
-Average	CT2.9_protein	0.5756072107600289	True	2.9	protein	Fermentation
-NCU02702.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU00720.7	CT5.1_RNA	1.8480480961564263	False	5.1	RNA	Fermentation
+Average	CT2.9_protein	0.5740498785804264	True	2.9	protein	Fermentation
 NCU03415.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Fermentation
-NCU02663.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU02571.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU00891.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU11353.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU08384.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU02136.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU06142.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Fermentation
-NCU01328.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU00519.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Fermentation
-NCU07608.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Fermentation
-NCU01870.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU10042.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Fermentation
-NCU02252.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU07914.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU01528.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Fermentation
-NCU10106.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU07550.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU07807.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Fermentation
-NCU00629.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU07281.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU04797.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU05805.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU02274.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU03761.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU06075.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Fermentation
 NCU00780.7	CT5.1_RNA		False	5.1	RNA	Fermentation
 NCU02179.7	CT5.1_RNA		False	5.1	RNA	Fermentation
 NCU10008.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Fermentation
@@ -933,52 +778,44 @@ NCU02482.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Fermentation
 NCU01692.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Fermentation
 NCU02366.7	CT5.1_RNA		False	5.1	RNA	Fermentation
 NCU03857.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU01666.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU07982.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU09703.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU09803.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Fermentation
+NCU05731.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU02663.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU02571.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU09621.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Fermentation
+NCU07309.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU00963.7	CT5.1_RNA	1.8480480961564256	False	5.1	RNA	Fermentation
+NCU03813.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU03350.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU03877.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU05805.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU02274.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU03761.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU02712.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU07281.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU02702.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU06075.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Fermentation
+NCU01870.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU10042.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Fermentation
+NCU02252.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU07914.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU01528.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Fermentation
+NCU10106.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU07550.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU07807.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Fermentation
+NCU00629.7	CT5.1_RNA		False	5.1	RNA	Fermentation
+NCU04797.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
+NCU00720.7	CT5.1_RNA	1.8480480961564263	False	5.1	RNA	Fermentation
 NCU02476.7	CT5.1_RNA		False	5.1	RNA	Fermentation
 NCU01754.7	CT5.1_RNA		False	5.1	RNA	Fermentation
 NCU06652.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
 NCU02193.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Fermentation
 NCU02397.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU01666.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU07982.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU09703.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU09621.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Fermentation
-NCU07309.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU00963.7	CT5.1_RNA	1.8480480961564256	False	5.1	RNA	Fermentation
-NCU03877.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU03813.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU03350.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-NCU02712.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Fermentation
-NCU09803.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Fermentation
-NCU05731.7	CT5.1_RNA		False	5.1	RNA	Fermentation
-Average	CT5.1_RNA	0.7297318610910175	True	5.1	RNA	Fermentation
-NCU02702.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU00720.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Fermentation
+Average	CT5.1_RNA	0.7515981646719898	True	5.1	RNA	Fermentation
 NCU03415.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU02663.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU02571.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU00891.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU11353.7	CT5.1_protein	1.4383711467890778	False	5.1	protein	Fermentation
-NCU08384.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
-NCU02136.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU06142.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU01328.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU00519.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU07608.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU01870.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU10042.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU02252.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
-NCU07914.7	CT5.1_protein	1.8480480961564256	False	5.1	protein	Fermentation
-NCU01528.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU10106.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU07550.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
-NCU07807.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU00629.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU07281.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
-NCU04797.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU05805.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU02274.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU03761.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU06075.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
 NCU00780.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU02179.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU10008.7	CT5.1_protein		False	5.1	protein	Fermentation
@@ -989,52 +826,44 @@ NCU02482.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU01692.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU02366.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Fermentation
 NCU03857.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU01666.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Fermentation
+NCU07982.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU09703.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU09803.7	CT5.1_protein	1.4383711467890783	False	5.1	protein	Fermentation
+NCU05731.7	CT5.1_protein	0.06030737921409191	False	5.1	protein	Fermentation
+NCU02663.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU02571.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU09621.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU07309.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU00963.7	CT5.1_protein	1.4383711467890783	False	5.1	protein	Fermentation
+NCU03813.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
+NCU03350.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU03877.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Fermentation
+NCU05805.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU02274.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU03761.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU02712.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU07281.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
+NCU02702.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU06075.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
+NCU01870.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU10042.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU02252.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
+NCU07914.7	CT5.1_protein	1.8480480961564256	False	5.1	protein	Fermentation
+NCU01528.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU10106.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU07550.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
+NCU07807.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU00629.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU04797.7	CT5.1_protein		False	5.1	protein	Fermentation
+NCU00720.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Fermentation
 NCU02476.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU01754.7	CT5.1_protein	1.4383711467890778	False	5.1	protein	Fermentation
 NCU06652.7	CT5.1_protein		False	5.1	protein	Fermentation
 NCU02193.7	CT5.1_protein	0.3843385246743418	False	5.1	protein	Fermentation
 NCU02397.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU01666.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Fermentation
-NCU07982.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU09703.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU09621.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU07309.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU00963.7	CT5.1_protein	1.4383711467890783	False	5.1	protein	Fermentation
-NCU03877.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Fermentation
-NCU03813.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Fermentation
-NCU03350.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU02712.7	CT5.1_protein		False	5.1	protein	Fermentation
-NCU09803.7	CT5.1_protein	1.4383711467890783	False	5.1	protein	Fermentation
-NCU05731.7	CT5.1_protein	0.06030737921409191	False	5.1	protein	Fermentation
-Average	CT5.1_protein	0.8118199749433831	True	5.1	protein	Fermentation
-NCU02702.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU00720.7	CT7.2_RNA	1.438371146789078	False	7.2	RNA	Fermentation
+Average	CT5.1_protein	0.7760193936119679	True	5.1	protein	Fermentation
 NCU03415.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Fermentation
-NCU02663.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU02571.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU00891.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU11353.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU08384.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU02136.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU06142.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Fermentation
-NCU01328.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU00519.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Fermentation
-NCU07608.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Fermentation
-NCU01870.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU10042.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Fermentation
-NCU02252.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU07914.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU01528.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Fermentation
-NCU10106.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU07550.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU07807.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Fermentation
-NCU00629.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU07281.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU04797.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU05805.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU02274.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU03761.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU06075.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Fermentation
 NCU00780.7	CT7.2_RNA		False	7.2	RNA	Fermentation
 NCU02179.7	CT7.2_RNA		False	7.2	RNA	Fermentation
 NCU10008.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Fermentation
@@ -1045,52 +874,44 @@ NCU02482.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Fermentation
 NCU01692.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Fermentation
 NCU02366.7	CT7.2_RNA		False	7.2	RNA	Fermentation
 NCU03857.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU01666.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU07982.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU09703.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU09803.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Fermentation
+NCU05731.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU02663.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU02571.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU09621.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Fermentation
+NCU07309.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU00963.7	CT7.2_RNA	2.0	False	7.2	RNA	Fermentation
+NCU03813.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU03350.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU03877.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU05805.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU02274.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU03761.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU02712.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU07281.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU02702.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU06075.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Fermentation
+NCU01870.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU10042.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Fermentation
+NCU02252.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU07914.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU01528.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Fermentation
+NCU10106.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU07550.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU07807.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Fermentation
+NCU00629.7	CT7.2_RNA		False	7.2	RNA	Fermentation
+NCU04797.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
+NCU00720.7	CT7.2_RNA	1.438371146789078	False	7.2	RNA	Fermentation
 NCU02476.7	CT7.2_RNA		False	7.2	RNA	Fermentation
 NCU01754.7	CT7.2_RNA		False	7.2	RNA	Fermentation
 NCU06652.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
 NCU02193.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Fermentation
 NCU02397.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU01666.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU07982.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU09703.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU09621.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Fermentation
-NCU07309.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU00963.7	CT7.2_RNA	2.0	False	7.2	RNA	Fermentation
-NCU03877.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU03813.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU03350.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-NCU02712.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Fermentation
-NCU09803.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Fermentation
-NCU05731.7	CT7.2_RNA		False	7.2	RNA	Fermentation
-Average	CT7.2_RNA	0.5910736863725918	True	7.2	RNA	Fermentation
-NCU02702.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU00720.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Fermentation
+Average	CT7.2_RNA	0.6250724726837281	True	7.2	RNA	Fermentation
 NCU03415.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU02663.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU02571.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU00891.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU11353.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Fermentation
-NCU08384.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
-NCU02136.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU06142.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU01328.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU00519.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU07608.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU01870.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU10042.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU02252.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
-NCU07914.7	CT7.2_protein	2.0	False	7.2	protein	Fermentation
-NCU01528.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU10106.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU07550.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
-NCU07807.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU00629.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU07281.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
-NCU04797.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU05805.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU02274.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU03761.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU06075.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
 NCU00780.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU02179.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU10008.7	CT7.2_protein		False	7.2	protein	Fermentation
@@ -1101,52 +922,44 @@ NCU02482.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU01692.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU02366.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Fermentation
 NCU03857.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU01666.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Fermentation
+NCU07982.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU09703.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU09803.7	CT7.2_protein	0.8954715367323476	False	7.2	protein	Fermentation
+NCU05731.7	CT7.2_protein	0.021852399266194308	False	7.2	protein	Fermentation
+NCU02663.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU02571.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU09621.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU07309.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU00963.7	CT7.2_protein	0.8954715367323476	False	7.2	protein	Fermentation
+NCU03813.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
+NCU03350.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU03877.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Fermentation
+NCU05805.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU02274.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU03761.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU02712.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU07281.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
+NCU02702.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU06075.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
+NCU01870.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU10042.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU02252.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
+NCU07914.7	CT7.2_protein	2.0	False	7.2	protein	Fermentation
+NCU01528.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU10106.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU07550.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
+NCU07807.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU00629.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU04797.7	CT7.2_protein		False	7.2	protein	Fermentation
+NCU00720.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Fermentation
 NCU02476.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU01754.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Fermentation
 NCU06652.7	CT7.2_protein		False	7.2	protein	Fermentation
 NCU02193.7	CT7.2_protein	0.06030737921409157	False	7.2	protein	Fermentation
 NCU02397.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU01666.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Fermentation
-NCU07982.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU09703.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU09621.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU07309.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU00963.7	CT7.2_protein	0.8954715367323476	False	7.2	protein	Fermentation
-NCU03877.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Fermentation
-NCU03813.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Fermentation
-NCU03350.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU02712.7	CT7.2_protein		False	7.2	protein	Fermentation
-NCU09803.7	CT7.2_protein	0.8954715367323476	False	7.2	protein	Fermentation
-NCU05731.7	CT7.2_protein	0.021852399266194308	False	7.2	protein	Fermentation
-Average	CT7.2_protein	1.1052213652721066	True	7.2	protein	Fermentation
-NCU02702.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU00720.7	CT9.3_RNA	0.8954715367323476	False	9.3	RNA	Fermentation
+Average	CT7.2_protein	1.0460574677729089	True	7.2	protein	Fermentation
 NCU03415.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Fermentation
-NCU02663.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU02571.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU00891.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU11353.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU08384.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU02136.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU06142.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Fermentation
-NCU01328.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU00519.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Fermentation
-NCU07608.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Fermentation
-NCU01870.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU10042.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Fermentation
-NCU02252.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU07914.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU01528.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Fermentation
-NCU10106.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU07550.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU07807.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Fermentation
-NCU00629.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU07281.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU04797.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU05805.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU02274.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU03761.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU06075.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Fermentation
 NCU00780.7	CT9.3_RNA		False	9.3	RNA	Fermentation
 NCU02179.7	CT9.3_RNA		False	9.3	RNA	Fermentation
 NCU10008.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Fermentation
@@ -1157,52 +970,44 @@ NCU02482.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Fermentation
 NCU01692.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Fermentation
 NCU02366.7	CT9.3_RNA		False	9.3	RNA	Fermentation
 NCU03857.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU01666.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU07982.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU09703.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU09803.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Fermentation
+NCU05731.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU02663.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU02571.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU09621.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Fermentation
+NCU07309.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU00963.7	CT9.3_RNA	1.8480480961564263	False	9.3	RNA	Fermentation
+NCU03813.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU03350.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU03877.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU05805.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU02274.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU03761.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU02712.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU07281.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU02702.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU06075.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Fermentation
+NCU01870.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU10042.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Fermentation
+NCU02252.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU07914.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU01528.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Fermentation
+NCU10106.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU07550.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU07807.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Fermentation
+NCU00629.7	CT9.3_RNA		False	9.3	RNA	Fermentation
+NCU04797.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
+NCU00720.7	CT9.3_RNA	0.8954715367323476	False	9.3	RNA	Fermentation
 NCU02476.7	CT9.3_RNA		False	9.3	RNA	Fermentation
 NCU01754.7	CT9.3_RNA		False	9.3	RNA	Fermentation
 NCU06652.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
 NCU02193.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Fermentation
 NCU02397.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU01666.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU07982.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU09703.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU09621.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Fermentation
-NCU07309.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU00963.7	CT9.3_RNA	1.8480480961564263	False	9.3	RNA	Fermentation
-NCU03877.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU03813.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU03350.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-NCU02712.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Fermentation
-NCU09803.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Fermentation
-NCU05731.7	CT9.3_RNA		False	9.3	RNA	Fermentation
-Average	CT9.3_RNA	0.5766897754290047	True	9.3	RNA	Fermentation
-NCU02702.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU00720.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Fermentation
+Average	CT9.3_RNA	0.6124886838536092	True	9.3	RNA	Fermentation
 NCU03415.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU02663.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU02571.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU00891.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU11353.7	CT9.3_protein	2.0	False	9.3	protein	Fermentation
-NCU08384.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
-NCU02136.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU06142.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU01328.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU00519.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU07608.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU01870.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU10042.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU02252.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
-NCU07914.7	CT9.3_protein	1.8480480961564263	False	9.3	protein	Fermentation
-NCU01528.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU10106.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU07550.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
-NCU07807.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU00629.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU07281.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
-NCU04797.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU05805.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU02274.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU03761.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU06075.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
 NCU00780.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU02179.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU10008.7	CT9.3_protein		False	9.3	protein	Fermentation
@@ -1213,52 +1018,44 @@ NCU02482.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU01692.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU02366.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Fermentation
 NCU03857.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU01666.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Fermentation
+NCU07982.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU09703.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU09803.7	CT9.3_protein	0.3843385246743425	False	9.3	protein	Fermentation
+NCU05731.7	CT9.3_protein	0.2806601996613487	False	9.3	protein	Fermentation
+NCU02663.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU02571.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU09621.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU07309.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU00963.7	CT9.3_protein	0.3843385246743425	False	9.3	protein	Fermentation
+NCU03813.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
+NCU03350.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU03877.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Fermentation
+NCU05805.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU02274.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU03761.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU02712.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU07281.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
+NCU02702.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU06075.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
+NCU01870.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU10042.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU02252.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
+NCU07914.7	CT9.3_protein	1.8480480961564263	False	9.3	protein	Fermentation
+NCU01528.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU10106.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU07550.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
+NCU07807.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU00629.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU04797.7	CT9.3_protein		False	9.3	protein	Fermentation
+NCU00720.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Fermentation
 NCU02476.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU01754.7	CT9.3_protein	2.0	False	9.3	protein	Fermentation
 NCU06652.7	CT9.3_protein		False	9.3	protein	Fermentation
 NCU02193.7	CT9.3_protein	0.021852399266194308	False	9.3	protein	Fermentation
 NCU02397.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU01666.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Fermentation
-NCU07982.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU09703.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU09621.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU07309.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU00963.7	CT9.3_protein	0.3843385246743425	False	9.3	protein	Fermentation
-NCU03877.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Fermentation
-NCU03813.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Fermentation
-NCU03350.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU02712.7	CT9.3_protein		False	9.3	protein	Fermentation
-NCU09803.7	CT9.3_protein	0.3843385246743425	False	9.3	protein	Fermentation
-NCU05731.7	CT9.3_protein	0.2806601996613487	False	9.3	protein	Fermentation
-Average	CT9.3_protein	1.3666455820445962	True	9.3	protein	Fermentation
-NCU02702.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU00720.7	CT11.5_RNA	0.3843385246743425	False	11.5	RNA	Fermentation
+Average	CT9.3_protein	1.3020985021052347	True	9.3	protein	Fermentation
 NCU03415.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Fermentation
-NCU02663.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU02571.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU00891.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU11353.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU08384.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU02136.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU06142.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Fermentation
-NCU01328.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU00519.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Fermentation
-NCU07608.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Fermentation
-NCU01870.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU10042.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Fermentation
-NCU02252.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU07914.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU01528.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Fermentation
-NCU10106.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU07550.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU07807.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Fermentation
-NCU00629.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU07281.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU04797.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU05805.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU02274.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU03761.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU06075.7	CT11.5_RNA	2.0	False	11.5	RNA	Fermentation
 NCU00780.7	CT11.5_RNA		False	11.5	RNA	Fermentation
 NCU02179.7	CT11.5_RNA		False	11.5	RNA	Fermentation
 NCU10008.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Fermentation
@@ -1269,52 +1066,44 @@ NCU02482.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Fermentation
 NCU01692.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Fermentation
 NCU02366.7	CT11.5_RNA		False	11.5	RNA	Fermentation
 NCU03857.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU01666.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU07982.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU09703.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU09803.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Fermentation
+NCU05731.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU02663.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU02571.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU09621.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Fermentation
+NCU07309.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU00963.7	CT11.5_RNA	1.438371146789078	False	11.5	RNA	Fermentation
+NCU03813.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU03350.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU03877.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU05805.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU02274.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU03761.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU02712.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU07281.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU02702.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU06075.7	CT11.5_RNA	2.0	False	11.5	RNA	Fermentation
+NCU01870.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU10042.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Fermentation
+NCU02252.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU07914.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU01528.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Fermentation
+NCU10106.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU07550.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU07807.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Fermentation
+NCU00629.7	CT11.5_RNA		False	11.5	RNA	Fermentation
+NCU04797.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
+NCU00720.7	CT11.5_RNA	0.3843385246743425	False	11.5	RNA	Fermentation
 NCU02476.7	CT11.5_RNA		False	11.5	RNA	Fermentation
 NCU01754.7	CT11.5_RNA		False	11.5	RNA	Fermentation
 NCU06652.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
 NCU02193.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Fermentation
 NCU02397.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU01666.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU07982.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU09703.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU09621.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Fermentation
-NCU07309.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU00963.7	CT11.5_RNA	1.438371146789078	False	11.5	RNA	Fermentation
-NCU03877.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU03813.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU03350.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-NCU02712.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Fermentation
-NCU09803.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Fermentation
-NCU05731.7	CT11.5_RNA		False	11.5	RNA	Fermentation
-Average	CT11.5_RNA	0.6909514535654445	True	11.5	RNA	Fermentation
-NCU02702.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU00720.7	CT11.5_protein	2.0	False	11.5	protein	Fermentation
+Average	CT11.5_RNA	0.7176710595222364	True	11.5	RNA	Fermentation
 NCU03415.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU02663.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU02571.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU00891.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU11353.7	CT11.5_protein	1.8480480961564256	False	11.5	protein	Fermentation
-NCU08384.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
-NCU02136.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU06142.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU01328.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU00519.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU07608.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU01870.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU10042.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU02252.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
-NCU07914.7	CT11.5_protein	1.438371146789078	False	11.5	protein	Fermentation
-NCU01528.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU10106.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU07550.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
-NCU07807.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU00629.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU07281.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
-NCU04797.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU05805.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU02274.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU03761.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU06075.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
 NCU00780.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU02179.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU10008.7	CT11.5_protein		False	11.5	protein	Fermentation
@@ -1325,21 +1114,40 @@ NCU02482.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU01692.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU02366.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Fermentation
 NCU03857.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU01666.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Fermentation
+NCU07982.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU09703.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU09803.7	CT11.5_protein	0.06030737921409201	False	11.5	protein	Fermentation
+NCU05731.7	CT11.5_protein	0.7580781044003317	False	11.5	protein	Fermentation
+NCU02663.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU02571.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU09621.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU07309.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU00963.7	CT11.5_protein	0.06030737921409201	False	11.5	protein	Fermentation
+NCU03813.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
+NCU03350.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU03877.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Fermentation
+NCU05805.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU02274.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU03761.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU02712.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU07281.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
+NCU02702.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU06075.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
+NCU01870.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU10042.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU02252.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
+NCU07914.7	CT11.5_protein	1.438371146789078	False	11.5	protein	Fermentation
+NCU01528.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU10106.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU07550.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
+NCU07807.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU00629.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU04797.7	CT11.5_protein		False	11.5	protein	Fermentation
+NCU00720.7	CT11.5_protein	2.0	False	11.5	protein	Fermentation
 NCU02476.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU01754.7	CT11.5_protein	1.8480480961564256	False	11.5	protein	Fermentation
 NCU06652.7	CT11.5_protein		False	11.5	protein	Fermentation
 NCU02193.7	CT11.5_protein	0.2806601996613487	False	11.5	protein	Fermentation
 NCU02397.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU01666.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Fermentation
-NCU07982.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU09703.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU09621.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU07309.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU00963.7	CT11.5_protein	0.06030737921409201	False	11.5	protein	Fermentation
-NCU03877.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Fermentation
-NCU03813.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Fermentation
-NCU03350.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU02712.7	CT11.5_protein		False	11.5	protein	Fermentation
-NCU09803.7	CT11.5_protein	0.06030737921409201	False	11.5	protein	Fermentation
-NCU05731.7	CT11.5_protein	0.7580781044003317	False	11.5	protein	Fermentation
-Average	CT11.5_protein	1.5166448103620624	True	11.5	protein	Fermentation
+Average	CT11.5_protein	1.4663306513511953	True	11.5	protein	Fermentation
