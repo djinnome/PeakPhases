@@ -1,28 +1,14 @@
 Gene	variable	value	Average	CircadianTime	Measurement	PathwayClass
-NCU02209.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
-NCU03929.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
-NCU06054.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU08280.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Lipid-Biosynthesis
-NCU01175.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
-NCU02571.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU03922.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
-NCU00712.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
-NCU03633.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
-NCU08671.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
-NCU11381.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU07719.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
-NCU05259.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
-NCU04380.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU06063.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU01654.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU02408.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
-NCU09497.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU06694.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU08976.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Lipid-Biosynthesis
 NCU08927.7	CT12.0_RNA	2.0	False	12.0	RNA	Lipid-Biosynthesis
+NCU02468.7	CT12.0_RNA	2.0	False	12.0	RNA	Lipid-Biosynthesis
 NCU06870.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Lipid-Biosynthesis
 NCU00447.7	CT12.0_RNA	0.38433852467434215	False	12.0	RNA	Lipid-Biosynthesis
 NCU00302.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU06465.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU06761.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU00008.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Lipid-Biosynthesis
 NCU02969.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU10359.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU04721.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
@@ -31,59 +17,59 @@ NCU03504.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
 NCU07761.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU02282.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU03492.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU02468.7	CT12.0_RNA	2.0	False	12.0	RNA	Lipid-Biosynthesis
-NCU00008.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Lipid-Biosynthesis
-NCU01141.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU01371.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU03006.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU04156.7	CT12.0_RNA	1.7660444431189772	False	12.0	RNA	Lipid-Biosynthesis
-NCU06207.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU01333.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU07307.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
-NCU07308.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Lipid-Biosynthesis
-NCU01119.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Lipid-Biosynthesis
-NCU03176.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU03880.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU06342.7	CT12.0_RNA	1.7660444431189772	False	12.0	RNA	Lipid-Biosynthesis
 NCU10400.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
 NCU03955.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU01993.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
 NCU02726.7	CT12.0_RNA	1.7660444431189772	False	12.0	RNA	Lipid-Biosynthesis
 NCU04289.7	CT12.0_RNA	1.3090169943749472	False	12.0	RNA	Lipid-Biosynthesis
+NCU05259.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
+NCU02408.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
+NCU02209.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
+NCU09497.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU03929.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
+NCU03176.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU03880.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01993.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
 NCU03223.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU07307.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Lipid-Biosynthesis
+NCU07308.7	CT12.0_RNA	1.9902680687415704	False	12.0	RNA	Lipid-Biosynthesis
+NCU04380.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU06063.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01654.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU00580.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
 NCU02624.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU08762.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Lipid-Biosynthesis
 NCU06402.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU02693.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
 NCU05991.7	CT12.0_RNA	2.0	False	12.0	RNA	Lipid-Biosynthesis
-NCU00580.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
-NCU06694.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
-NCU08976.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Lipid-Biosynthesis
+NCU03006.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU04156.7	CT12.0_RNA	1.7660444431189772	False	12.0	RNA	Lipid-Biosynthesis
+NCU06207.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01333.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01175.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
+NCU02571.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU03922.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
+NCU00712.7	CT12.0_RNA	1.848048096156426	False	12.0	RNA	Lipid-Biosynthesis
+NCU03633.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
+NCU08671.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Lipid-Biosynthesis
+NCU11381.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU07719.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Lipid-Biosynthesis
+NCU06054.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU08280.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Lipid-Biosynthesis
+NCU01141.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01371.7	CT12.0_RNA		False	12.0	RNA	Lipid-Biosynthesis
+NCU01119.7	CT12.0_RNA	0.7580781044003322	False	12.0	RNA	Lipid-Biosynthesis
 Average	CT12.0_RNA	1.135999636987489	True	12.0	RNA	Lipid-Biosynthesis
-NCU02209.7	CT12.0_protein	0.8954715367323469	False	12.0	protein	Lipid-Biosynthesis
-NCU03929.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU06054.7	CT12.0_protein	0.7580781044003322	False	12.0	protein	Lipid-Biosynthesis
-NCU08280.7	CT12.0_protein	2.0	False	12.0	protein	Lipid-Biosynthesis
-NCU01175.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU02571.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU03922.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU00712.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
-NCU03633.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU08671.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU11381.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU07719.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU05259.7	CT12.0_protein	1.4383711467890776	False	12.0	protein	Lipid-Biosynthesis
-NCU04380.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU06063.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01654.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU02408.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU09497.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU06694.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU08976.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU08927.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU02468.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Lipid-Biosynthesis
 NCU06870.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
 NCU00447.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU00302.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU06465.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU06761.7	CT12.0_protein	1.7660444431189772	False	12.0	protein	Lipid-Biosynthesis
+NCU00008.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU02969.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU10359.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU04721.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
@@ -92,59 +78,59 @@ NCU03504.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU07761.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU02282.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU03492.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU02468.7	CT12.0_protein	1.9902680687415704	False	12.0	protein	Lipid-Biosynthesis
-NCU00008.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01141.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01371.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU03006.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU04156.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
-NCU06207.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01333.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU07307.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU07308.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01119.7	CT12.0_protein	2.0	False	12.0	protein	Lipid-Biosynthesis
-NCU03176.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
-NCU03880.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU06342.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU10400.7	CT12.0_protein	1.3090169943749472	False	12.0	protein	Lipid-Biosynthesis
 NCU03955.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU01993.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU02726.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
 NCU04289.7	CT12.0_protein	2.0	False	12.0	protein	Lipid-Biosynthesis
+NCU05259.7	CT12.0_protein	1.4383711467890776	False	12.0	protein	Lipid-Biosynthesis
+NCU02408.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU02209.7	CT12.0_protein	0.8954715367323469	False	12.0	protein	Lipid-Biosynthesis
+NCU09497.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU03929.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU03176.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
+NCU03880.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01993.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU03223.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU07307.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU07308.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU04380.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU06063.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01654.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU00580.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU02624.7	CT12.0_protein	1.4383711467890776	False	12.0	protein	Lipid-Biosynthesis
 NCU08762.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU06402.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU02693.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
 NCU05991.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU00580.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU06694.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
-NCU08976.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU03006.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU04156.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
+NCU06207.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01333.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01175.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU02571.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU03922.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU00712.7	CT12.0_protein	1.848048096156426	False	12.0	protein	Lipid-Biosynthesis
+NCU03633.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU08671.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU11381.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU07719.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU06054.7	CT12.0_protein	0.7580781044003322	False	12.0	protein	Lipid-Biosynthesis
+NCU08280.7	CT12.0_protein	2.0	False	12.0	protein	Lipid-Biosynthesis
+NCU01141.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01371.7	CT12.0_protein		False	12.0	protein	Lipid-Biosynthesis
+NCU01119.7	CT12.0_protein	2.0	False	12.0	protein	Lipid-Biosynthesis
 Average	CT12.0_protein	1.6557241281152306	True	12.0	protein	Lipid-Biosynthesis
-NCU02209.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
-NCU03929.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
-NCU06054.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU08280.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Lipid-Biosynthesis
-NCU01175.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
-NCU02571.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU03922.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
-NCU00712.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
-NCU03633.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
-NCU08671.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
-NCU11381.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU07719.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
-NCU05259.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
-NCU04380.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU06063.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU01654.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU02408.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
-NCU09497.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU06694.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU08976.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Lipid-Biosynthesis
 NCU08927.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
+NCU02468.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
 NCU06870.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Lipid-Biosynthesis
 NCU00447.7	CT14.1_RNA	0.8954715367323469	False	14.1	RNA	Lipid-Biosynthesis
 NCU00302.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU06465.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU06761.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU00008.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Lipid-Biosynthesis
 NCU02969.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU10359.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU04721.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
@@ -153,59 +139,59 @@ NCU03504.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
 NCU07761.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU02282.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU03492.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU02468.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
-NCU00008.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Lipid-Biosynthesis
-NCU01141.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU01371.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU03006.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU04156.7	CT14.1_RNA	1.3090169943749463	False	14.1	RNA	Lipid-Biosynthesis
-NCU06207.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU01333.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU07307.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
-NCU07308.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Lipid-Biosynthesis
-NCU01119.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Lipid-Biosynthesis
-NCU03176.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU03880.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU06342.7	CT14.1_RNA	1.3090169943749463	False	14.1	RNA	Lipid-Biosynthesis
 NCU10400.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
 NCU03955.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU01993.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
 NCU02726.7	CT14.1_RNA	1.3090169943749463	False	14.1	RNA	Lipid-Biosynthesis
 NCU04289.7	CT14.1_RNA	0.7580781044003322	False	14.1	RNA	Lipid-Biosynthesis
+NCU05259.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
+NCU02408.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
+NCU02209.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
+NCU09497.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU03929.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
+NCU03176.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU03880.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01993.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
 NCU03223.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU07307.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
+NCU07308.7	CT14.1_RNA	1.7660444431189783	False	14.1	RNA	Lipid-Biosynthesis
+NCU04380.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU06063.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01654.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU00580.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
 NCU02624.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU08762.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Lipid-Biosynthesis
 NCU06402.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU02693.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
 NCU05991.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Lipid-Biosynthesis
-NCU00580.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
-NCU06694.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
-NCU08976.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Lipid-Biosynthesis
-Average	CT14.1_RNA	1.1778024469549577	True	14.1	RNA	Lipid-Biosynthesis
-NCU02209.7	CT14.1_protein	1.4383711467890776	False	14.1	protein	Lipid-Biosynthesis
-NCU03929.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU06054.7	CT14.1_protein	0.28066019966134903	False	14.1	protein	Lipid-Biosynthesis
-NCU08280.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
-NCU01175.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU02571.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU03922.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU00712.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
-NCU03633.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU08671.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU11381.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU07719.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU05259.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
-NCU04380.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU06063.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01654.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU02408.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU09497.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU03006.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU04156.7	CT14.1_RNA	1.3090169943749463	False	14.1	RNA	Lipid-Biosynthesis
+NCU06207.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01333.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01175.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
+NCU02571.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU03922.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
+NCU00712.7	CT14.1_RNA	2.0	False	14.1	RNA	Lipid-Biosynthesis
+NCU03633.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
+NCU08671.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Lipid-Biosynthesis
+NCU11381.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU07719.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Lipid-Biosynthesis
+NCU06054.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU08280.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Lipid-Biosynthesis
+NCU01141.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01371.7	CT14.1_RNA		False	14.1	RNA	Lipid-Biosynthesis
+NCU01119.7	CT14.1_RNA	0.28066019966134903	False	14.1	RNA	Lipid-Biosynthesis
+Average	CT14.1_RNA	1.1778024469549575	True	14.1	RNA	Lipid-Biosynthesis
+NCU06694.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU08976.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU08927.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU02468.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Lipid-Biosynthesis
 NCU06870.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
 NCU00447.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU00302.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU06465.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU06761.7	CT14.1_protein	1.3090169943749463	False	14.1	protein	Lipid-Biosynthesis
+NCU00008.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU02969.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU10359.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU04721.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
@@ -214,59 +200,59 @@ NCU03504.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU07761.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU02282.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU03492.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU02468.7	CT14.1_protein	1.7660444431189783	False	14.1	protein	Lipid-Biosynthesis
-NCU00008.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01141.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01371.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU03006.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU04156.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
-NCU06207.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01333.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU07307.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU07308.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01119.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
-NCU03176.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
-NCU03880.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU06342.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU10400.7	CT14.1_protein	0.7580781044003322	False	14.1	protein	Lipid-Biosynthesis
 NCU03955.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU01993.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU02726.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
 NCU04289.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
+NCU05259.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
+NCU02408.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU02209.7	CT14.1_protein	1.4383711467890776	False	14.1	protein	Lipid-Biosynthesis
+NCU09497.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU03929.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU03176.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
+NCU03880.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01993.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU03223.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU07307.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU07308.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU04380.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU06063.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01654.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU00580.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU02624.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
 NCU08762.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU06402.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU02693.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
 NCU05991.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU00580.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU06694.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-NCU08976.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
-Average	CT14.1_protein	1.6528274246084542	True	14.1	protein	Lipid-Biosynthesis
-NCU02209.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
-NCU03929.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
-NCU06054.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU08280.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Lipid-Biosynthesis
-NCU01175.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
-NCU02571.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU03922.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
-NCU00712.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
-NCU03633.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
-NCU08671.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
-NCU11381.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU07719.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
-NCU05259.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
-NCU04380.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU06063.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU01654.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU02408.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
-NCU09497.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU03006.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU04156.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
+NCU06207.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01333.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01175.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU02571.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU03922.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU00712.7	CT14.1_protein	2.0	False	14.1	protein	Lipid-Biosynthesis
+NCU03633.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU08671.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU11381.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU07719.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU06054.7	CT14.1_protein	0.28066019966134903	False	14.1	protein	Lipid-Biosynthesis
+NCU08280.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
+NCU01141.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01371.7	CT14.1_protein		False	14.1	protein	Lipid-Biosynthesis
+NCU01119.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Lipid-Biosynthesis
+Average	CT14.1_protein	1.652827424608454	True	14.1	protein	Lipid-Biosynthesis
+NCU06694.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU08976.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
 NCU08927.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Lipid-Biosynthesis
+NCU02468.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Lipid-Biosynthesis
 NCU06870.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Lipid-Biosynthesis
 NCU00447.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Lipid-Biosynthesis
 NCU00302.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU06465.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU06761.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU00008.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Lipid-Biosynthesis
 NCU02969.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU10359.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU04721.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
@@ -275,59 +261,59 @@ NCU03504.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
 NCU07761.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU02282.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU03492.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU02468.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Lipid-Biosynthesis
-NCU00008.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Lipid-Biosynthesis
-NCU01141.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU01371.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU03006.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU04156.7	CT16.3_RNA	0.7580781044003313	False	16.3	RNA	Lipid-Biosynthesis
-NCU06207.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU01333.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU07307.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
-NCU07308.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Lipid-Biosynthesis
-NCU01119.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Lipid-Biosynthesis
-NCU03176.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU03880.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU06342.7	CT16.3_RNA	0.7580781044003313	False	16.3	RNA	Lipid-Biosynthesis
 NCU10400.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
 NCU03955.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU01993.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
 NCU02726.7	CT16.3_RNA	0.7580781044003313	False	16.3	RNA	Lipid-Biosynthesis
 NCU04289.7	CT16.3_RNA	0.28066019966134903	False	16.3	RNA	Lipid-Biosynthesis
+NCU05259.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
+NCU02408.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
+NCU02209.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
+NCU09497.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU03929.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
+NCU03176.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU03880.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01993.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
 NCU03223.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU07307.7	CT16.3_RNA	2.0	False	16.3	RNA	Lipid-Biosynthesis
+NCU07308.7	CT16.3_RNA	1.309016994374948	False	16.3	RNA	Lipid-Biosynthesis
+NCU04380.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU06063.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01654.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU00580.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
 NCU02624.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU08762.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
 NCU06402.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU02693.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
 NCU05991.7	CT16.3_RNA	1.4383711467890776	False	16.3	RNA	Lipid-Biosynthesis
-NCU00580.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
-NCU06694.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
-NCU08976.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
-Average	CT16.3_RNA	1.1655704162767222	True	16.3	RNA	Lipid-Biosynthesis
-NCU02209.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
-NCU03929.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU06054.7	CT16.3_protein	0.021852399266194308	False	16.3	protein	Lipid-Biosynthesis
-NCU08280.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Lipid-Biosynthesis
-NCU01175.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU02571.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU03922.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU00712.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
-NCU03633.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU08671.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU11381.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU07719.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU05259.7	CT16.3_protein	2.0	False	16.3	protein	Lipid-Biosynthesis
-NCU04380.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU06063.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01654.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU02408.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU09497.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU03006.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU04156.7	CT16.3_RNA	0.7580781044003313	False	16.3	RNA	Lipid-Biosynthesis
+NCU06207.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01333.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01175.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
+NCU02571.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU03922.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
+NCU00712.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Lipid-Biosynthesis
+NCU03633.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
+NCU08671.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Lipid-Biosynthesis
+NCU11381.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU07719.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Lipid-Biosynthesis
+NCU06054.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU08280.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Lipid-Biosynthesis
+NCU01141.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01371.7	CT16.3_RNA		False	16.3	RNA	Lipid-Biosynthesis
+NCU01119.7	CT16.3_RNA	0.021852399266194308	False	16.3	RNA	Lipid-Biosynthesis
+Average	CT16.3_RNA	1.1655704162767224	True	16.3	RNA	Lipid-Biosynthesis
+NCU06694.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU08976.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU08927.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU02468.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Lipid-Biosynthesis
 NCU06870.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
 NCU00447.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU00302.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU06465.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU06761.7	CT16.3_protein	0.7580781044003313	False	16.3	protein	Lipid-Biosynthesis
+NCU00008.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU02969.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU10359.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU04721.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
@@ -336,59 +322,59 @@ NCU03504.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU07761.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU02282.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU03492.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU02468.7	CT16.3_protein	1.309016994374948	False	16.3	protein	Lipid-Biosynthesis
-NCU00008.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01141.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01371.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU03006.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU04156.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
-NCU06207.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01333.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU07307.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU07308.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01119.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Lipid-Biosynthesis
-NCU03176.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
-NCU03880.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU06342.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU10400.7	CT16.3_protein	0.28066019966134903	False	16.3	protein	Lipid-Biosynthesis
 NCU03955.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU01993.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU02726.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
 NCU04289.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Lipid-Biosynthesis
+NCU05259.7	CT16.3_protein	2.0	False	16.3	protein	Lipid-Biosynthesis
+NCU02408.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU02209.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
+NCU09497.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU03929.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU03176.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
+NCU03880.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01993.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU03223.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU07307.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU07308.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU04380.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU06063.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01654.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU00580.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU02624.7	CT16.3_protein	2.0	False	16.3	protein	Lipid-Biosynthesis
 NCU08762.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU06402.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU02693.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
 NCU05991.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU00580.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU06694.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
-NCU08976.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU03006.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU04156.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
+NCU06207.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01333.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01175.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU02571.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU03922.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU00712.7	CT16.3_protein	1.848048096156426	False	16.3	protein	Lipid-Biosynthesis
+NCU03633.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU08671.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU11381.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU07719.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU06054.7	CT16.3_protein	0.021852399266194308	False	16.3	protein	Lipid-Biosynthesis
+NCU08280.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Lipid-Biosynthesis
+NCU01141.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01371.7	CT16.3_protein		False	16.3	protein	Lipid-Biosynthesis
+NCU01119.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Lipid-Biosynthesis
 Average	CT16.3_protein	1.4515339810005738	True	16.3	protein	Lipid-Biosynthesis
-NCU02209.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
-NCU03929.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU06054.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU08280.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Lipid-Biosynthesis
-NCU01175.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU02571.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU03922.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU00712.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU03633.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
-NCU08671.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU11381.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU07719.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
-NCU05259.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
-NCU04380.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU06063.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU01654.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU02408.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
-NCU09497.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU06694.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU08976.7	CT18.4_RNA	2.0	False	18.4	RNA	Lipid-Biosynthesis
 NCU08927.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Lipid-Biosynthesis
+NCU02468.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Lipid-Biosynthesis
 NCU06870.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Lipid-Biosynthesis
 NCU00447.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
 NCU00302.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU06465.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU06761.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU00008.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Lipid-Biosynthesis
 NCU02969.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU10359.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU04721.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
@@ -397,59 +383,59 @@ NCU03504.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
 NCU07761.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU02282.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU03492.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU02468.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Lipid-Biosynthesis
-NCU00008.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Lipid-Biosynthesis
-NCU01141.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU01371.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU03006.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU04156.7	CT18.4_RNA	0.2806601996613481	False	18.4	RNA	Lipid-Biosynthesis
-NCU06207.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU01333.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU07307.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
-NCU07308.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Lipid-Biosynthesis
-NCU01119.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Lipid-Biosynthesis
-NCU03176.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU03880.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU06342.7	CT18.4_RNA	0.2806601996613481	False	18.4	RNA	Lipid-Biosynthesis
 NCU10400.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
 NCU03955.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU01993.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
 NCU02726.7	CT18.4_RNA	0.2806601996613481	False	18.4	RNA	Lipid-Biosynthesis
 NCU04289.7	CT18.4_RNA	0.021852399266194308	False	18.4	RNA	Lipid-Biosynthesis
+NCU05259.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
+NCU02408.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU02209.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
+NCU09497.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU03929.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU03176.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU03880.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01993.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
 NCU03223.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU07307.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Lipid-Biosynthesis
+NCU07308.7	CT18.4_RNA	0.7580781044003333	False	18.4	RNA	Lipid-Biosynthesis
+NCU04380.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU06063.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01654.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU00580.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
 NCU02624.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU08762.7	CT18.4_RNA	2.0	False	18.4	RNA	Lipid-Biosynthesis
 NCU06402.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU02693.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
 NCU05991.7	CT18.4_RNA	0.8954715367323469	False	18.4	RNA	Lipid-Biosynthesis
-NCU00580.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
-NCU06694.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
-NCU08976.7	CT18.4_RNA	2.0	False	18.4	RNA	Lipid-Biosynthesis
-Average	CT18.4_RNA	1.103020905651645	True	18.4	RNA	Lipid-Biosynthesis
-NCU02209.7	CT18.4_protein	2.0	False	18.4	protein	Lipid-Biosynthesis
-NCU03929.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU06054.7	CT18.4_protein	0.06030737921409146	False	18.4	protein	Lipid-Biosynthesis
-NCU08280.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Lipid-Biosynthesis
-NCU01175.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU02571.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU03922.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU00712.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
-NCU03633.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU08671.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU11381.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU07719.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU05259.7	CT18.4_protein	1.848048096156426	False	18.4	protein	Lipid-Biosynthesis
-NCU04380.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU06063.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01654.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU02408.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU09497.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU03006.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU04156.7	CT18.4_RNA	0.2806601996613481	False	18.4	RNA	Lipid-Biosynthesis
+NCU06207.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01333.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01175.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU02571.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU03922.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU00712.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU03633.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
+NCU08671.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Lipid-Biosynthesis
+NCU11381.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU07719.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Lipid-Biosynthesis
+NCU06054.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU08280.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Lipid-Biosynthesis
+NCU01141.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01371.7	CT18.4_RNA		False	18.4	RNA	Lipid-Biosynthesis
+NCU01119.7	CT18.4_RNA	0.06030737921409146	False	18.4	RNA	Lipid-Biosynthesis
+Average	CT18.4_RNA	1.1030209056516453	True	18.4	RNA	Lipid-Biosynthesis
+NCU06694.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU08976.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU08927.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU02468.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Lipid-Biosynthesis
 NCU06870.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
 NCU00447.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU00302.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU06465.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU06761.7	CT18.4_protein	0.2806601996613481	False	18.4	protein	Lipid-Biosynthesis
+NCU00008.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU02969.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU10359.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU04721.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
@@ -458,59 +444,59 @@ NCU03504.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU07761.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU02282.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU03492.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU02468.7	CT18.4_protein	0.7580781044003333	False	18.4	protein	Lipid-Biosynthesis
-NCU00008.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01141.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01371.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU03006.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU04156.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
-NCU06207.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01333.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU07307.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU07308.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01119.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Lipid-Biosynthesis
-NCU03176.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
-NCU03880.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU06342.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU10400.7	CT18.4_protein	0.021852399266194308	False	18.4	protein	Lipid-Biosynthesis
 NCU03955.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU01993.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU02726.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
 NCU04289.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Lipid-Biosynthesis
+NCU05259.7	CT18.4_protein	1.848048096156426	False	18.4	protein	Lipid-Biosynthesis
+NCU02408.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU02209.7	CT18.4_protein	2.0	False	18.4	protein	Lipid-Biosynthesis
+NCU09497.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU03929.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU03176.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
+NCU03880.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01993.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU03223.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU07307.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU07308.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU04380.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU06063.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01654.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU00580.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU02624.7	CT18.4_protein	1.848048096156426	False	18.4	protein	Lipid-Biosynthesis
 NCU08762.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU06402.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU02693.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
 NCU05991.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU00580.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU06694.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
-NCU08976.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU03006.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU04156.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
+NCU06207.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01333.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01175.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU02571.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU03922.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU00712.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Lipid-Biosynthesis
+NCU03633.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU08671.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU11381.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU07719.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU06054.7	CT18.4_protein	0.06030737921409146	False	18.4	protein	Lipid-Biosynthesis
+NCU08280.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Lipid-Biosynthesis
+NCU01141.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01371.7	CT18.4_protein		False	18.4	protein	Lipid-Biosynthesis
+NCU01119.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Lipid-Biosynthesis
 Average	CT18.4_protein	1.1130176412664832	True	18.4	protein	Lipid-Biosynthesis
-NCU02209.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
-NCU03929.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
-NCU06054.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU08280.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Lipid-Biosynthesis
-NCU01175.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
-NCU02571.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU03922.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
-NCU00712.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
-NCU03633.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
-NCU08671.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
-NCU11381.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU07719.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
-NCU05259.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
-NCU04380.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU06063.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU01654.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU02408.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
-NCU09497.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU06694.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU08976.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
 NCU08927.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Lipid-Biosynthesis
+NCU02468.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Lipid-Biosynthesis
 NCU06870.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Lipid-Biosynthesis
 NCU00447.7	CT20.5_RNA	2.0	False	20.5	RNA	Lipid-Biosynthesis
 NCU00302.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU06465.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU06761.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU00008.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Lipid-Biosynthesis
 NCU02969.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU10359.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU04721.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
@@ -519,59 +505,59 @@ NCU03504.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
 NCU07761.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU02282.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU03492.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU02468.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Lipid-Biosynthesis
-NCU00008.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Lipid-Biosynthesis
-NCU01141.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU01371.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU03006.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU04156.7	CT20.5_RNA	0.021852399266194308	False	20.5	RNA	Lipid-Biosynthesis
-NCU06207.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU01333.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU07307.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
-NCU07308.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Lipid-Biosynthesis
-NCU01119.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Lipid-Biosynthesis
-NCU03176.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU03880.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU06342.7	CT20.5_RNA	0.021852399266194308	False	20.5	RNA	Lipid-Biosynthesis
 NCU10400.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
 NCU03955.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU01993.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
 NCU02726.7	CT20.5_RNA	0.021852399266194308	False	20.5	RNA	Lipid-Biosynthesis
 NCU04289.7	CT20.5_RNA	0.06030737921409146	False	20.5	RNA	Lipid-Biosynthesis
+NCU05259.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
+NCU02408.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
+NCU02209.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
+NCU09497.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU03929.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
+NCU03176.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU03880.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01993.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
 NCU03223.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU07307.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Lipid-Biosynthesis
+NCU07308.7	CT20.5_RNA	0.2806601996613497	False	20.5	RNA	Lipid-Biosynthesis
+NCU04380.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU06063.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01654.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU00580.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
 NCU02624.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU08762.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
 NCU06402.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU02693.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
 NCU05991.7	CT20.5_RNA	0.38433852467434215	False	20.5	RNA	Lipid-Biosynthesis
-NCU00580.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
-NCU06694.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
-NCU08976.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
-Average	CT20.5_RNA	1.0091629495276542	True	20.5	RNA	Lipid-Biosynthesis
-NCU02209.7	CT20.5_protein	1.848048096156426	False	20.5	protein	Lipid-Biosynthesis
-NCU03929.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU06054.7	CT20.5_protein	0.3843385246743412	False	20.5	protein	Lipid-Biosynthesis
-NCU08280.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Lipid-Biosynthesis
-NCU01175.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU02571.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU03922.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU00712.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
-NCU03633.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU08671.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU11381.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU07719.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU05259.7	CT20.5_protein	1.4383711467890776	False	20.5	protein	Lipid-Biosynthesis
-NCU04380.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU06063.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01654.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU02408.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU09497.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU03006.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU04156.7	CT20.5_RNA	0.021852399266194308	False	20.5	RNA	Lipid-Biosynthesis
+NCU06207.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01333.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01175.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
+NCU02571.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU03922.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
+NCU00712.7	CT20.5_RNA	0.8954715367323469	False	20.5	RNA	Lipid-Biosynthesis
+NCU03633.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
+NCU08671.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Lipid-Biosynthesis
+NCU11381.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU07719.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Lipid-Biosynthesis
+NCU06054.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU08280.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Lipid-Biosynthesis
+NCU01141.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01371.7	CT20.5_RNA		False	20.5	RNA	Lipid-Biosynthesis
+NCU01119.7	CT20.5_RNA	0.3843385246743412	False	20.5	RNA	Lipid-Biosynthesis
+Average	CT20.5_RNA	1.0091629495276544	True	20.5	RNA	Lipid-Biosynthesis
+NCU06694.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU08976.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU08927.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU02468.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Lipid-Biosynthesis
 NCU06870.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
 NCU00447.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU00302.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU06465.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU06761.7	CT20.5_protein	0.021852399266194308	False	20.5	protein	Lipid-Biosynthesis
+NCU00008.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU02969.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU10359.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU04721.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
@@ -580,59 +566,59 @@ NCU03504.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU07761.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU02282.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU03492.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU02468.7	CT20.5_protein	0.2806601996613497	False	20.5	protein	Lipid-Biosynthesis
-NCU00008.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01141.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01371.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU03006.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU04156.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
-NCU06207.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01333.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU07307.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU07308.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01119.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Lipid-Biosynthesis
-NCU03176.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
-NCU03880.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU06342.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU10400.7	CT20.5_protein	0.06030737921409146	False	20.5	protein	Lipid-Biosynthesis
 NCU03955.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU01993.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU02726.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
 NCU04289.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Lipid-Biosynthesis
+NCU05259.7	CT20.5_protein	1.4383711467890776	False	20.5	protein	Lipid-Biosynthesis
+NCU02408.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU02209.7	CT20.5_protein	1.848048096156426	False	20.5	protein	Lipid-Biosynthesis
+NCU09497.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU03929.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU03176.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
+NCU03880.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01993.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU03223.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU07307.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU07308.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU04380.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU06063.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01654.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU00580.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU02624.7	CT20.5_protein	1.4383711467890776	False	20.5	protein	Lipid-Biosynthesis
 NCU08762.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU06402.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU02693.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
 NCU05991.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU00580.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU06694.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
-NCU08976.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU03006.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU04156.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
+NCU06207.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01333.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01175.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU02571.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU03922.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU00712.7	CT20.5_protein	0.8954715367323469	False	20.5	protein	Lipid-Biosynthesis
+NCU03633.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU08671.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU11381.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU07719.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU06054.7	CT20.5_protein	0.3843385246743412	False	20.5	protein	Lipid-Biosynthesis
+NCU08280.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Lipid-Biosynthesis
+NCU01141.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01371.7	CT20.5_protein		False	20.5	protein	Lipid-Biosynthesis
+NCU01119.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Lipid-Biosynthesis
 Average	CT20.5_protein	0.740154810015688	True	20.5	protein	Lipid-Biosynthesis
-NCU02209.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
-NCU03929.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
-NCU06054.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU08280.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Lipid-Biosynthesis
-NCU01175.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
-NCU02571.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU03922.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
-NCU00712.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
-NCU03633.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
-NCU08671.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
-NCU11381.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU07719.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
-NCU05259.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
-NCU04380.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU06063.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU01654.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU02408.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
-NCU09497.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU06694.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU08976.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Lipid-Biosynthesis
 NCU08927.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Lipid-Biosynthesis
+NCU02468.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Lipid-Biosynthesis
 NCU06870.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Lipid-Biosynthesis
 NCU00447.7	CT22.7_RNA	1.848048096156426	False	22.7	RNA	Lipid-Biosynthesis
 NCU00302.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU06465.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU06761.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU00008.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Lipid-Biosynthesis
 NCU02969.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU10359.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU04721.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
@@ -641,59 +627,59 @@ NCU03504.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
 NCU07761.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU02282.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU03492.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU02468.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Lipid-Biosynthesis
-NCU00008.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Lipid-Biosynthesis
-NCU01141.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU01371.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU03006.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU04156.7	CT22.7_RNA	0.06030737921409191	False	22.7	RNA	Lipid-Biosynthesis
-NCU06207.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU01333.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU07307.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
-NCU07308.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Lipid-Biosynthesis
-NCU01119.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Lipid-Biosynthesis
-NCU03176.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU03880.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU06342.7	CT22.7_RNA	0.06030737921409191	False	22.7	RNA	Lipid-Biosynthesis
 NCU10400.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
 NCU03955.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU01993.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
 NCU02726.7	CT22.7_RNA	0.06030737921409191	False	22.7	RNA	Lipid-Biosynthesis
 NCU04289.7	CT22.7_RNA	0.3843385246743412	False	22.7	RNA	Lipid-Biosynthesis
+NCU05259.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
+NCU02408.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
+NCU02209.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
+NCU09497.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU03929.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
+NCU03176.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU03880.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01993.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
 NCU03223.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU07307.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Lipid-Biosynthesis
+NCU07308.7	CT22.7_RNA	0.021852399266194644	False	22.7	RNA	Lipid-Biosynthesis
+NCU04380.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU06063.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01654.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU00580.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
 NCU02624.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU08762.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Lipid-Biosynthesis
 NCU06402.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU02693.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
 NCU05991.7	CT22.7_RNA	0.06030737921409201	False	22.7	RNA	Lipid-Biosynthesis
-NCU00580.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
-NCU06694.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
-NCU08976.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Lipid-Biosynthesis
-Average	CT22.7_RNA	0.9125203381525644	True	22.7	RNA	Lipid-Biosynthesis
-NCU02209.7	CT22.7_protein	1.4383711467890776	False	22.7	protein	Lipid-Biosynthesis
-NCU03929.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU06054.7	CT22.7_protein	0.8954715367323458	False	22.7	protein	Lipid-Biosynthesis
-NCU08280.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Lipid-Biosynthesis
-NCU01175.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU02571.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU03922.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU00712.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
-NCU03633.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU08671.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU11381.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU07719.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU05259.7	CT22.7_protein	0.8954715367323469	False	22.7	protein	Lipid-Biosynthesis
-NCU04380.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU06063.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01654.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU02408.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU09497.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU03006.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU04156.7	CT22.7_RNA	0.06030737921409191	False	22.7	RNA	Lipid-Biosynthesis
+NCU06207.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01333.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01175.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
+NCU02571.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU03922.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
+NCU00712.7	CT22.7_RNA	0.38433852467434215	False	22.7	RNA	Lipid-Biosynthesis
+NCU03633.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
+NCU08671.7	CT22.7_RNA	2.0	False	22.7	RNA	Lipid-Biosynthesis
+NCU11381.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU07719.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Lipid-Biosynthesis
+NCU06054.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU08280.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Lipid-Biosynthesis
+NCU01141.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01371.7	CT22.7_RNA		False	22.7	RNA	Lipid-Biosynthesis
+NCU01119.7	CT22.7_RNA	0.8954715367323458	False	22.7	RNA	Lipid-Biosynthesis
+Average	CT22.7_RNA	0.9125203381525643	True	22.7	RNA	Lipid-Biosynthesis
+NCU06694.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU08976.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU08927.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU02468.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Lipid-Biosynthesis
 NCU06870.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
 NCU00447.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU00302.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU06465.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU06761.7	CT22.7_protein	0.06030737921409191	False	22.7	protein	Lipid-Biosynthesis
+NCU00008.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU02969.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU10359.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU04721.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
@@ -702,59 +688,59 @@ NCU03504.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU07761.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU02282.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU03492.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU02468.7	CT22.7_protein	0.021852399266194644	False	22.7	protein	Lipid-Biosynthesis
-NCU00008.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01141.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01371.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU03006.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU04156.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
-NCU06207.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01333.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU07307.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU07308.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01119.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Lipid-Biosynthesis
-NCU03176.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
-NCU03880.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU06342.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU10400.7	CT22.7_protein	0.3843385246743412	False	22.7	protein	Lipid-Biosynthesis
 NCU03955.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU01993.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU02726.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
 NCU04289.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Lipid-Biosynthesis
+NCU05259.7	CT22.7_protein	0.8954715367323469	False	22.7	protein	Lipid-Biosynthesis
+NCU02408.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU02209.7	CT22.7_protein	1.4383711467890776	False	22.7	protein	Lipid-Biosynthesis
+NCU09497.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU03929.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU03176.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
+NCU03880.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01993.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU03223.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU07307.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU07308.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU04380.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU06063.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01654.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU00580.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU02624.7	CT22.7_protein	0.8954715367323469	False	22.7	protein	Lipid-Biosynthesis
 NCU08762.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU06402.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU02693.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
 NCU05991.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU00580.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU06694.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-NCU08976.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
-Average	CT22.7_protein	0.44625992141031534	True	22.7	protein	Lipid-Biosynthesis
-NCU02209.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
-NCU03929.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
-NCU06054.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU08280.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Lipid-Biosynthesis
-NCU01175.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
-NCU02571.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU03922.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
-NCU00712.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
-NCU03633.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
-NCU08671.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
-NCU11381.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU07719.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
-NCU05259.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
-NCU04380.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU06063.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU01654.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU02408.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
-NCU09497.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU03006.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU04156.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
+NCU06207.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01333.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01175.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU02571.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU03922.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU00712.7	CT22.7_protein	0.38433852467434215	False	22.7	protein	Lipid-Biosynthesis
+NCU03633.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU08671.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU11381.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU07719.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU06054.7	CT22.7_protein	0.8954715367323458	False	22.7	protein	Lipid-Biosynthesis
+NCU08280.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Lipid-Biosynthesis
+NCU01141.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01371.7	CT22.7_protein		False	22.7	protein	Lipid-Biosynthesis
+NCU01119.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Lipid-Biosynthesis
+Average	CT22.7_protein	0.4462599214103154	True	22.7	protein	Lipid-Biosynthesis
+NCU06694.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU08976.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Lipid-Biosynthesis
 NCU08927.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Lipid-Biosynthesis
+NCU02468.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Lipid-Biosynthesis
 NCU06870.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Lipid-Biosynthesis
 NCU00447.7	CT0.8_RNA	1.4383711467890774	False	0.8	RNA	Lipid-Biosynthesis
 NCU00302.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU06465.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU06761.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU00008.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Lipid-Biosynthesis
 NCU02969.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU10359.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU04721.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
@@ -763,59 +749,59 @@ NCU03504.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
 NCU07761.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU02282.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU03492.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU02468.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Lipid-Biosynthesis
-NCU00008.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Lipid-Biosynthesis
-NCU01141.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU01371.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU03006.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU04156.7	CT0.8_RNA	0.38433852467434215	False	0.8	RNA	Lipid-Biosynthesis
-NCU06207.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU01333.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU07307.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
-NCU07308.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Lipid-Biosynthesis
-NCU01119.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Lipid-Biosynthesis
-NCU03176.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU03880.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU06342.7	CT0.8_RNA	0.38433852467434215	False	0.8	RNA	Lipid-Biosynthesis
 NCU10400.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
 NCU03955.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU01993.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
 NCU02726.7	CT0.8_RNA	0.38433852467434215	False	0.8	RNA	Lipid-Biosynthesis
 NCU04289.7	CT0.8_RNA	0.8954715367323459	False	0.8	RNA	Lipid-Biosynthesis
+NCU05259.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
+NCU02408.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
+NCU02209.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
+NCU09497.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU03929.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
+NCU03176.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU03880.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01993.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
 NCU03223.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU07307.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Lipid-Biosynthesis
+NCU07308.7	CT0.8_RNA	0.06030737921409135	False	0.8	RNA	Lipid-Biosynthesis
+NCU04380.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU06063.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01654.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU00580.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
 NCU02624.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU08762.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Lipid-Biosynthesis
 NCU06402.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU02693.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
 NCU05991.7	CT0.8_RNA	0.021852399266194308	False	0.8	RNA	Lipid-Biosynthesis
-NCU00580.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
-NCU06694.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
-NCU08976.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Lipid-Biosynthesis
-Average	CT0.8_RNA	0.8424631291080941	True	0.8	RNA	Lipid-Biosynthesis
-NCU02209.7	CT0.8_protein	0.8954715367323467	False	0.8	protein	Lipid-Biosynthesis
-NCU03929.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU06054.7	CT0.8_protein	1.438371146789077	False	0.8	protein	Lipid-Biosynthesis
-NCU08280.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Lipid-Biosynthesis
-NCU01175.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU02571.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU03922.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU00712.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
-NCU03633.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU08671.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU11381.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU07719.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU05259.7	CT0.8_protein	0.3843385246743418	False	0.8	protein	Lipid-Biosynthesis
-NCU04380.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU06063.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01654.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU02408.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU09497.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU03006.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU04156.7	CT0.8_RNA	0.38433852467434215	False	0.8	RNA	Lipid-Biosynthesis
+NCU06207.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01333.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01175.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
+NCU02571.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU03922.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
+NCU00712.7	CT0.8_RNA	0.06030737921409191	False	0.8	RNA	Lipid-Biosynthesis
+NCU03633.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
+NCU08671.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Lipid-Biosynthesis
+NCU11381.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU07719.7	CT0.8_RNA	2.0	False	0.8	RNA	Lipid-Biosynthesis
+NCU06054.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU08280.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Lipid-Biosynthesis
+NCU01141.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01371.7	CT0.8_RNA		False	0.8	RNA	Lipid-Biosynthesis
+NCU01119.7	CT0.8_RNA	1.438371146789077	False	0.8	RNA	Lipid-Biosynthesis
+Average	CT0.8_RNA	0.842463129108094	True	0.8	RNA	Lipid-Biosynthesis
+NCU06694.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU08976.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU08927.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU02468.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Lipid-Biosynthesis
 NCU06870.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
 NCU00447.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU00302.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU06465.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU06761.7	CT0.8_protein	0.38433852467434215	False	0.8	protein	Lipid-Biosynthesis
+NCU00008.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU02969.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU10359.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU04721.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
@@ -824,59 +810,59 @@ NCU03504.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU07761.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU02282.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU03492.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU02468.7	CT0.8_protein	0.06030737921409135	False	0.8	protein	Lipid-Biosynthesis
-NCU00008.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01141.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01371.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU03006.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU04156.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
-NCU06207.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01333.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU07307.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU07308.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01119.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Lipid-Biosynthesis
-NCU03176.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
-NCU03880.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU06342.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU10400.7	CT0.8_protein	0.8954715367323459	False	0.8	protein	Lipid-Biosynthesis
 NCU03955.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU01993.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU02726.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
 NCU04289.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Lipid-Biosynthesis
+NCU05259.7	CT0.8_protein	0.3843385246743418	False	0.8	protein	Lipid-Biosynthesis
+NCU02408.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU02209.7	CT0.8_protein	0.8954715367323467	False	0.8	protein	Lipid-Biosynthesis
+NCU09497.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU03929.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU03176.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
+NCU03880.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01993.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU03223.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU07307.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU07308.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU04380.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU06063.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01654.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU00580.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU02624.7	CT0.8_protein	0.3843385246743418	False	0.8	protein	Lipid-Biosynthesis
 NCU08762.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU06402.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU02693.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
 NCU05991.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU00580.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU06694.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-NCU08976.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
-Average	CT0.8_protein	0.32064875115732866	True	0.8	protein	Lipid-Biosynthesis
-NCU02209.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
-NCU03929.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
-NCU06054.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU08280.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Lipid-Biosynthesis
-NCU01175.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
-NCU02571.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU03922.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
-NCU00712.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
-NCU03633.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
-NCU08671.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
-NCU11381.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU07719.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
-NCU05259.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
-NCU04380.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU06063.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU01654.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU02408.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
-NCU09497.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU03006.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU04156.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
+NCU06207.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01333.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01175.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU02571.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU03922.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU00712.7	CT0.8_protein	0.06030737921409191	False	0.8	protein	Lipid-Biosynthesis
+NCU03633.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU08671.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU11381.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU07719.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU06054.7	CT0.8_protein	1.438371146789077	False	0.8	protein	Lipid-Biosynthesis
+NCU08280.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Lipid-Biosynthesis
+NCU01141.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01371.7	CT0.8_protein		False	0.8	protein	Lipid-Biosynthesis
+NCU01119.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Lipid-Biosynthesis
+Average	CT0.8_protein	0.3206487511573286	True	0.8	protein	Lipid-Biosynthesis
+NCU06694.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU08976.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Lipid-Biosynthesis
 NCU08927.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Lipid-Biosynthesis
+NCU02468.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Lipid-Biosynthesis
 NCU06870.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Lipid-Biosynthesis
 NCU00447.7	CT2.9_RNA	0.8954715367323467	False	2.9	RNA	Lipid-Biosynthesis
 NCU00302.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU06465.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU06761.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU00008.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Lipid-Biosynthesis
 NCU02969.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU10359.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU04721.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
@@ -885,59 +871,59 @@ NCU03504.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
 NCU07761.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU02282.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU03492.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU02468.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Lipid-Biosynthesis
-NCU00008.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Lipid-Biosynthesis
-NCU01141.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU01371.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU03006.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU04156.7	CT2.9_RNA	0.8954715367323469	False	2.9	RNA	Lipid-Biosynthesis
-NCU06207.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU01333.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU07307.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
-NCU07308.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Lipid-Biosynthesis
-NCU01119.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Lipid-Biosynthesis
-NCU03176.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU03880.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU06342.7	CT2.9_RNA	0.8954715367323469	False	2.9	RNA	Lipid-Biosynthesis
 NCU10400.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
 NCU03955.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU01993.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
 NCU02726.7	CT2.9_RNA	0.8954715367323469	False	2.9	RNA	Lipid-Biosynthesis
 NCU04289.7	CT2.9_RNA	1.438371146789077	False	2.9	RNA	Lipid-Biosynthesis
+NCU05259.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
+NCU02408.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
+NCU02209.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
+NCU09497.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU03929.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
+NCU03176.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU03880.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01993.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
 NCU03223.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU07307.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Lipid-Biosynthesis
+NCU07308.7	CT2.9_RNA	0.3843385246743407	False	2.9	RNA	Lipid-Biosynthesis
+NCU04380.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU06063.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01654.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU00580.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
 NCU02624.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU08762.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Lipid-Biosynthesis
 NCU06402.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU02693.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
 NCU05991.7	CT2.9_RNA	0.2806601996613481	False	2.9	RNA	Lipid-Biosynthesis
-NCU00580.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
-NCU06694.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
-NCU08976.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Lipid-Biosynthesis
+NCU03006.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU04156.7	CT2.9_RNA	0.8954715367323469	False	2.9	RNA	Lipid-Biosynthesis
+NCU06207.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01333.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01175.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
+NCU02571.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU03922.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
+NCU00712.7	CT2.9_RNA	0.021852399266194308	False	2.9	RNA	Lipid-Biosynthesis
+NCU03633.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
+NCU08671.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Lipid-Biosynthesis
+NCU11381.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU07719.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Lipid-Biosynthesis
+NCU06054.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU08280.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Lipid-Biosynthesis
+NCU01141.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01371.7	CT2.9_RNA		False	2.9	RNA	Lipid-Biosynthesis
+NCU01119.7	CT2.9_RNA	1.8480480961564256	False	2.9	RNA	Lipid-Biosynthesis
 Average	CT2.9_RNA	0.8202819749787925	True	2.9	RNA	Lipid-Biosynthesis
-NCU02209.7	CT2.9_protein	0.3843385246743418	False	2.9	protein	Lipid-Biosynthesis
-NCU03929.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU06054.7	CT2.9_protein	1.8480480961564256	False	2.9	protein	Lipid-Biosynthesis
-NCU08280.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Lipid-Biosynthesis
-NCU01175.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU02571.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU03922.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU00712.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
-NCU03633.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU08671.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU11381.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU07719.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU05259.7	CT2.9_protein	0.06030737921409191	False	2.9	protein	Lipid-Biosynthesis
-NCU04380.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU06063.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01654.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU02408.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU09497.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU06694.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU08976.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU08927.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU02468.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Lipid-Biosynthesis
 NCU06870.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
 NCU00447.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU00302.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU06465.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU06761.7	CT2.9_protein	0.8954715367323469	False	2.9	protein	Lipid-Biosynthesis
+NCU00008.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU02969.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU10359.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU04721.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
@@ -946,59 +932,59 @@ NCU03504.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU07761.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU02282.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU03492.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU02468.7	CT2.9_protein	0.3843385246743407	False	2.9	protein	Lipid-Biosynthesis
-NCU00008.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01141.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01371.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU03006.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU04156.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
-NCU06207.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01333.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU07307.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU07308.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01119.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Lipid-Biosynthesis
-NCU03176.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
-NCU03880.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU06342.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU10400.7	CT2.9_protein	1.438371146789077	False	2.9	protein	Lipid-Biosynthesis
 NCU03955.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU01993.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU02726.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
 NCU04289.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Lipid-Biosynthesis
+NCU05259.7	CT2.9_protein	0.06030737921409191	False	2.9	protein	Lipid-Biosynthesis
+NCU02408.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU02209.7	CT2.9_protein	0.3843385246743418	False	2.9	protein	Lipid-Biosynthesis
+NCU09497.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU03929.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU03176.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
+NCU03880.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01993.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU03223.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU07307.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU07308.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU04380.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU06063.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01654.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU00580.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU02624.7	CT2.9_protein	0.06030737921409191	False	2.9	protein	Lipid-Biosynthesis
 NCU08762.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU06402.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU02693.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
 NCU05991.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU00580.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU06694.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
-NCU08976.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU03006.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU04156.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
+NCU06207.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01333.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01175.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU02571.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU03922.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU00712.7	CT2.9_protein	0.021852399266194308	False	2.9	protein	Lipid-Biosynthesis
+NCU03633.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU08671.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU11381.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU07719.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU06054.7	CT2.9_protein	1.8480480961564256	False	2.9	protein	Lipid-Biosynthesis
+NCU08280.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Lipid-Biosynthesis
+NCU01141.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01371.7	CT2.9_protein		False	2.9	protein	Lipid-Biosynthesis
+NCU01119.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Lipid-Biosynthesis
 Average	CT2.9_protein	0.4014950121846488	True	2.9	protein	Lipid-Biosynthesis
-NCU02209.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
-NCU03929.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
-NCU06054.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU08280.7	CT5.1_RNA	2.0	False	5.1	RNA	Lipid-Biosynthesis
-NCU01175.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
-NCU02571.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU03922.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
-NCU00712.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
-NCU03633.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
-NCU08671.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
-NCU11381.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU07719.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
-NCU05259.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
-NCU04380.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU06063.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU01654.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU02408.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
-NCU09497.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU06694.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU08976.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Lipid-Biosynthesis
 NCU08927.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Lipid-Biosynthesis
+NCU02468.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Lipid-Biosynthesis
 NCU06870.7	CT5.1_RNA	2.0	False	5.1	RNA	Lipid-Biosynthesis
 NCU00447.7	CT5.1_RNA	0.3843385246743418	False	5.1	RNA	Lipid-Biosynthesis
 NCU00302.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU06465.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU06761.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU00008.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Lipid-Biosynthesis
 NCU02969.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU10359.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU04721.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
@@ -1007,59 +993,59 @@ NCU03504.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
 NCU07761.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU02282.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU03492.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU02468.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Lipid-Biosynthesis
-NCU00008.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Lipid-Biosynthesis
-NCU01141.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU01371.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU03006.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU04156.7	CT5.1_RNA	1.4383711467890778	False	5.1	RNA	Lipid-Biosynthesis
-NCU06207.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU01333.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU07307.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
-NCU07308.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Lipid-Biosynthesis
-NCU01119.7	CT5.1_RNA	2.0	False	5.1	RNA	Lipid-Biosynthesis
-NCU03176.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU03880.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU06342.7	CT5.1_RNA	1.4383711467890778	False	5.1	RNA	Lipid-Biosynthesis
 NCU10400.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
 NCU03955.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU01993.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
 NCU02726.7	CT5.1_RNA	1.4383711467890778	False	5.1	RNA	Lipid-Biosynthesis
 NCU04289.7	CT5.1_RNA	1.8480480961564256	False	5.1	RNA	Lipid-Biosynthesis
+NCU05259.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
+NCU02408.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
+NCU02209.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
+NCU09497.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU03929.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
+NCU03176.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU03880.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01993.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
 NCU03223.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU07307.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Lipid-Biosynthesis
+NCU07308.7	CT5.1_RNA	0.8954715367323454	False	5.1	RNA	Lipid-Biosynthesis
+NCU04380.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU06063.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01654.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU00580.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
 NCU02624.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU08762.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Lipid-Biosynthesis
 NCU06402.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU02693.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
 NCU05991.7	CT5.1_RNA	0.7580781044003315	False	5.1	RNA	Lipid-Biosynthesis
-NCU00580.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
-NCU06694.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
-NCU08976.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Lipid-Biosynthesis
-Average	CT5.1_RNA	0.8527178129634501	True	5.1	RNA	Lipid-Biosynthesis
-NCU02209.7	CT5.1_protein	0.06030737921409191	False	5.1	protein	Lipid-Biosynthesis
-NCU03929.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU06054.7	CT5.1_protein	2.0	False	5.1	protein	Lipid-Biosynthesis
-NCU08280.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Lipid-Biosynthesis
-NCU01175.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU02571.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU03922.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU00712.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
-NCU03633.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU08671.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU11381.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU07719.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU05259.7	CT5.1_protein	0.021852399266194308	False	5.1	protein	Lipid-Biosynthesis
-NCU04380.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU06063.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01654.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU02408.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU09497.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU03006.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU04156.7	CT5.1_RNA	1.4383711467890778	False	5.1	RNA	Lipid-Biosynthesis
+NCU06207.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01333.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01175.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
+NCU02571.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU03922.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
+NCU00712.7	CT5.1_RNA	0.2806601996613481	False	5.1	RNA	Lipid-Biosynthesis
+NCU03633.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
+NCU08671.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Lipid-Biosynthesis
+NCU11381.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU07719.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Lipid-Biosynthesis
+NCU06054.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU08280.7	CT5.1_RNA	2.0	False	5.1	RNA	Lipid-Biosynthesis
+NCU01141.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01371.7	CT5.1_RNA		False	5.1	RNA	Lipid-Biosynthesis
+NCU01119.7	CT5.1_RNA	2.0	False	5.1	RNA	Lipid-Biosynthesis
+Average	CT5.1_RNA	0.8527178129634502	True	5.1	RNA	Lipid-Biosynthesis
+NCU06694.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU08976.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU08927.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU02468.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Lipid-Biosynthesis
 NCU06870.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
 NCU00447.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU00302.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU06465.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU06761.7	CT5.1_protein	1.4383711467890778	False	5.1	protein	Lipid-Biosynthesis
+NCU00008.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU02969.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU10359.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU04721.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
@@ -1068,59 +1054,59 @@ NCU03504.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU07761.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU02282.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU03492.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU02468.7	CT5.1_protein	0.8954715367323454	False	5.1	protein	Lipid-Biosynthesis
-NCU00008.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01141.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01371.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU03006.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU04156.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
-NCU06207.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01333.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU07307.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU07308.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01119.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Lipid-Biosynthesis
-NCU03176.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
-NCU03880.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU06342.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU10400.7	CT5.1_protein	1.8480480961564256	False	5.1	protein	Lipid-Biosynthesis
 NCU03955.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU01993.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU02726.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
 NCU04289.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Lipid-Biosynthesis
+NCU05259.7	CT5.1_protein	0.021852399266194308	False	5.1	protein	Lipid-Biosynthesis
+NCU02408.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU02209.7	CT5.1_protein	0.06030737921409191	False	5.1	protein	Lipid-Biosynthesis
+NCU09497.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU03929.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU03176.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
+NCU03880.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01993.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU03223.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU07307.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU07308.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU04380.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU06063.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01654.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU00580.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU02624.7	CT5.1_protein	0.021852399266194308	False	5.1	protein	Lipid-Biosynthesis
 NCU08762.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU06402.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU02693.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
 NCU05991.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU00580.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU06694.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-NCU08976.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
-Average	CT5.1_protein	0.6642292179288043	True	5.1	protein	Lipid-Biosynthesis
-NCU02209.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
-NCU03929.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
-NCU06054.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU08280.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
-NCU01175.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
-NCU02571.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU03922.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
-NCU00712.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
-NCU03633.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
-NCU08671.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
-NCU11381.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU07719.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
-NCU05259.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
-NCU04380.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU06063.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU01654.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU02408.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
-NCU09497.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU03006.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU04156.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
+NCU06207.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01333.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01175.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU02571.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU03922.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU00712.7	CT5.1_protein	0.2806601996613481	False	5.1	protein	Lipid-Biosynthesis
+NCU03633.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU08671.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU11381.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU07719.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU06054.7	CT5.1_protein	2.0	False	5.1	protein	Lipid-Biosynthesis
+NCU08280.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Lipid-Biosynthesis
+NCU01141.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01371.7	CT5.1_protein		False	5.1	protein	Lipid-Biosynthesis
+NCU01119.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Lipid-Biosynthesis
+Average	CT5.1_protein	0.6642292179288042	True	5.1	protein	Lipid-Biosynthesis
+NCU06694.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU08976.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Lipid-Biosynthesis
 NCU08927.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Lipid-Biosynthesis
+NCU02468.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Lipid-Biosynthesis
 NCU06870.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
 NCU00447.7	CT7.2_RNA	0.06030737921409157	False	7.2	RNA	Lipid-Biosynthesis
 NCU00302.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU06465.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU06761.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU00008.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Lipid-Biosynthesis
 NCU02969.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU10359.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU04721.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
@@ -1129,59 +1115,59 @@ NCU03504.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
 NCU07761.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU02282.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU03492.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU02468.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Lipid-Biosynthesis
-NCU00008.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Lipid-Biosynthesis
-NCU01141.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU01371.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU03006.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU04156.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
-NCU06207.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU01333.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU07307.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
-NCU07308.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Lipid-Biosynthesis
-NCU01119.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
-NCU03176.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU03880.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU06342.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
 NCU10400.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
 NCU03955.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU01993.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
 NCU02726.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
 NCU04289.7	CT7.2_RNA	2.0	False	7.2	RNA	Lipid-Biosynthesis
+NCU05259.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
+NCU02408.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
+NCU02209.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
+NCU09497.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU03929.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
+NCU03176.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU03880.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01993.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
 NCU03223.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU07307.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Lipid-Biosynthesis
+NCU07308.7	CT7.2_RNA	1.4383711467890763	False	7.2	RNA	Lipid-Biosynthesis
+NCU04380.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU06063.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01654.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU00580.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
 NCU02624.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU08762.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Lipid-Biosynthesis
 NCU06402.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU02693.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
 NCU05991.7	CT7.2_RNA	1.3090169943749468	False	7.2	RNA	Lipid-Biosynthesis
-NCU00580.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
-NCU06694.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
-NCU08976.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Lipid-Biosynthesis
+NCU03006.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU04156.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
+NCU06207.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01333.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01175.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
+NCU02571.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU03922.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
+NCU00712.7	CT7.2_RNA	0.7580781044003317	False	7.2	RNA	Lipid-Biosynthesis
+NCU03633.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
+NCU08671.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Lipid-Biosynthesis
+NCU11381.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU07719.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Lipid-Biosynthesis
+NCU06054.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU08280.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
+NCU01141.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01371.7	CT7.2_RNA		False	7.2	RNA	Lipid-Biosynthesis
+NCU01119.7	CT7.2_RNA	1.8480480961564263	False	7.2	RNA	Lipid-Biosynthesis
 Average	CT7.2_RNA	0.9299132683930058	True	7.2	RNA	Lipid-Biosynthesis
-NCU02209.7	CT7.2_protein	0.021852399266194308	False	7.2	protein	Lipid-Biosynthesis
-NCU03929.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU06054.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Lipid-Biosynthesis
-NCU08280.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Lipid-Biosynthesis
-NCU01175.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU02571.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU03922.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU00712.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
-NCU03633.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU08671.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU11381.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU07719.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU05259.7	CT7.2_protein	0.2806601996613487	False	7.2	protein	Lipid-Biosynthesis
-NCU04380.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU06063.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01654.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU02408.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU09497.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU06694.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU08976.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU08927.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU02468.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Lipid-Biosynthesis
 NCU06870.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
 NCU00447.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU00302.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU06465.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU06761.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Lipid-Biosynthesis
+NCU00008.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU02969.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU10359.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU04721.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
@@ -1190,59 +1176,59 @@ NCU03504.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU07761.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU02282.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU03492.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU02468.7	CT7.2_protein	1.4383711467890763	False	7.2	protein	Lipid-Biosynthesis
-NCU00008.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01141.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01371.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU03006.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU04156.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
-NCU06207.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01333.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU07307.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU07308.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01119.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Lipid-Biosynthesis
-NCU03176.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
-NCU03880.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU06342.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU10400.7	CT7.2_protein	2.0	False	7.2	protein	Lipid-Biosynthesis
 NCU03955.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU01993.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU02726.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
 NCU04289.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Lipid-Biosynthesis
+NCU05259.7	CT7.2_protein	0.2806601996613487	False	7.2	protein	Lipid-Biosynthesis
+NCU02408.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU02209.7	CT7.2_protein	0.021852399266194308	False	7.2	protein	Lipid-Biosynthesis
+NCU09497.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU03929.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU03176.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
+NCU03880.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01993.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU03223.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU07307.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU07308.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU04380.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU06063.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01654.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU00580.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU02624.7	CT7.2_protein	0.2806601996613487	False	7.2	protein	Lipid-Biosynthesis
 NCU08762.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU06402.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU02693.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
 NCU05991.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU00580.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU06694.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
-NCU08976.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU03006.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU04156.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
+NCU06207.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01333.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01175.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU02571.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU03922.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU00712.7	CT7.2_protein	0.7580781044003317	False	7.2	protein	Lipid-Biosynthesis
+NCU03633.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU08671.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU11381.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU07719.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU06054.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Lipid-Biosynthesis
+NCU08280.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Lipid-Biosynthesis
+NCU01141.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01371.7	CT7.2_protein		False	7.2	protein	Lipid-Biosynthesis
+NCU01119.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Lipid-Biosynthesis
 Average	CT7.2_protein	1.0290054428544877	True	7.2	protein	Lipid-Biosynthesis
-NCU02209.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
-NCU03929.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
-NCU06054.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU08280.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Lipid-Biosynthesis
-NCU01175.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
-NCU02571.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU03922.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
-NCU00712.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
-NCU03633.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
-NCU08671.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
-NCU11381.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU07719.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
-NCU05259.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
-NCU04380.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU06063.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU01654.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU02408.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
-NCU09497.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU06694.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU08976.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Lipid-Biosynthesis
 NCU08927.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Lipid-Biosynthesis
+NCU02468.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Lipid-Biosynthesis
 NCU06870.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Lipid-Biosynthesis
 NCU00447.7	CT9.3_RNA	0.021852399266194308	False	9.3	RNA	Lipid-Biosynthesis
 NCU00302.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU06465.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU06761.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU00008.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Lipid-Biosynthesis
 NCU02969.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU10359.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU04721.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
@@ -1251,59 +1237,59 @@ NCU03504.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
 NCU07761.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU02282.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU03492.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU02468.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Lipid-Biosynthesis
-NCU00008.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Lipid-Biosynthesis
-NCU01141.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU01371.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU03006.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU04156.7	CT9.3_RNA	2.0	False	9.3	RNA	Lipid-Biosynthesis
-NCU06207.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU01333.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU07307.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
-NCU07308.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Lipid-Biosynthesis
-NCU01119.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Lipid-Biosynthesis
-NCU03176.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU03880.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU06342.7	CT9.3_RNA	2.0	False	9.3	RNA	Lipid-Biosynthesis
 NCU10400.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
 NCU03955.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU01993.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
 NCU02726.7	CT9.3_RNA	2.0	False	9.3	RNA	Lipid-Biosynthesis
 NCU04289.7	CT9.3_RNA	1.8480480961564263	False	9.3	RNA	Lipid-Biosynthesis
+NCU05259.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
+NCU02408.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
+NCU02209.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
+NCU09497.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU03929.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
+NCU03176.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU03880.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01993.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
 NCU03223.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU07307.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Lipid-Biosynthesis
+NCU07308.7	CT9.3_RNA	1.8480480961564252	False	9.3	RNA	Lipid-Biosynthesis
+NCU04380.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU06063.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01654.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU00580.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
 NCU02624.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU08762.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Lipid-Biosynthesis
 NCU06402.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU02693.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
 NCU05991.7	CT9.3_RNA	1.7660444431189777	False	9.3	RNA	Lipid-Biosynthesis
-NCU00580.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
-NCU06694.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
-NCU08976.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Lipid-Biosynthesis
-Average	CT9.3_RNA	1.0284083484262743	True	9.3	RNA	Lipid-Biosynthesis
-NCU02209.7	CT9.3_protein	0.2806601996613487	False	9.3	protein	Lipid-Biosynthesis
-NCU03929.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU06054.7	CT9.3_protein	1.438371146789078	False	9.3	protein	Lipid-Biosynthesis
-NCU08280.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Lipid-Biosynthesis
-NCU01175.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU02571.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU03922.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU00712.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
-NCU03633.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU08671.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU11381.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU07719.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU05259.7	CT9.3_protein	0.7580781044003317	False	9.3	protein	Lipid-Biosynthesis
-NCU04380.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU06063.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01654.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU02408.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU09497.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU03006.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU04156.7	CT9.3_RNA	2.0	False	9.3	RNA	Lipid-Biosynthesis
+NCU06207.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01333.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01175.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
+NCU02571.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU03922.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
+NCU00712.7	CT9.3_RNA	1.3090169943749468	False	9.3	RNA	Lipid-Biosynthesis
+NCU03633.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
+NCU08671.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Lipid-Biosynthesis
+NCU11381.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU07719.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Lipid-Biosynthesis
+NCU06054.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU08280.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Lipid-Biosynthesis
+NCU01141.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01371.7	CT9.3_RNA		False	9.3	RNA	Lipid-Biosynthesis
+NCU01119.7	CT9.3_RNA	1.438371146789078	False	9.3	RNA	Lipid-Biosynthesis
+Average	CT9.3_RNA	1.028408348426274	True	9.3	RNA	Lipid-Biosynthesis
+NCU06694.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU08976.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU08927.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU02468.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Lipid-Biosynthesis
 NCU06870.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
 NCU00447.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU00302.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU06465.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU06761.7	CT9.3_protein	2.0	False	9.3	protein	Lipid-Biosynthesis
+NCU00008.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU02969.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU10359.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU04721.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
@@ -1312,59 +1298,59 @@ NCU03504.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU07761.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU02282.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU03492.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU02468.7	CT9.3_protein	1.8480480961564252	False	9.3	protein	Lipid-Biosynthesis
-NCU00008.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01141.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01371.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU03006.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU04156.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
-NCU06207.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01333.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU07307.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU07308.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01119.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Lipid-Biosynthesis
-NCU03176.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
-NCU03880.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU06342.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU10400.7	CT9.3_protein	1.8480480961564263	False	9.3	protein	Lipid-Biosynthesis
 NCU03955.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU01993.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU02726.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
 NCU04289.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Lipid-Biosynthesis
+NCU05259.7	CT9.3_protein	0.7580781044003317	False	9.3	protein	Lipid-Biosynthesis
+NCU02408.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU02209.7	CT9.3_protein	0.2806601996613487	False	9.3	protein	Lipid-Biosynthesis
+NCU09497.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU03929.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU03176.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
+NCU03880.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01993.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU03223.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU07307.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU07308.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU04380.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU06063.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01654.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU00580.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU02624.7	CT9.3_protein	0.7580781044003317	False	9.3	protein	Lipid-Biosynthesis
 NCU08762.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU06402.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU02693.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
 NCU05991.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU00580.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU06694.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-NCU08976.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
-Average	CT9.3_protein	1.3849668032530407	True	9.3	protein	Lipid-Biosynthesis
-NCU02209.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
-NCU03929.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
-NCU06054.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU08280.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Lipid-Biosynthesis
-NCU01175.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
-NCU02571.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU03922.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
-NCU00712.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
-NCU03633.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
-NCU08671.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
-NCU11381.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU07719.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
-NCU05259.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
-NCU04380.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU06063.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU01654.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU02408.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
-NCU09497.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU03006.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU04156.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
+NCU06207.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01333.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01175.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU02571.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU03922.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU00712.7	CT9.3_protein	1.3090169943749468	False	9.3	protein	Lipid-Biosynthesis
+NCU03633.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU08671.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU11381.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU07719.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU06054.7	CT9.3_protein	1.438371146789078	False	9.3	protein	Lipid-Biosynthesis
+NCU08280.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Lipid-Biosynthesis
+NCU01141.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01371.7	CT9.3_protein		False	9.3	protein	Lipid-Biosynthesis
+NCU01119.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Lipid-Biosynthesis
+Average	CT9.3_protein	1.3849668032530404	True	9.3	protein	Lipid-Biosynthesis
+NCU06694.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU08976.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Lipid-Biosynthesis
 NCU08927.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Lipid-Biosynthesis
+NCU02468.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Lipid-Biosynthesis
 NCU06870.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Lipid-Biosynthesis
 NCU00447.7	CT11.5_RNA	0.2806601996613487	False	11.5	RNA	Lipid-Biosynthesis
 NCU00302.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU06465.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU06761.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU00008.7	CT11.5_RNA	2.0	False	11.5	RNA	Lipid-Biosynthesis
 NCU02969.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU10359.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU04721.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
@@ -1373,59 +1359,59 @@ NCU03504.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
 NCU07761.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU02282.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU03492.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU02468.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Lipid-Biosynthesis
-NCU00008.7	CT11.5_RNA	2.0	False	11.5	RNA	Lipid-Biosynthesis
-NCU01141.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU01371.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU03006.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU04156.7	CT11.5_RNA	1.8480480961564256	False	11.5	RNA	Lipid-Biosynthesis
-NCU06207.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU01333.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU07307.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
-NCU07308.7	CT11.5_RNA	2.0	False	11.5	RNA	Lipid-Biosynthesis
-NCU01119.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Lipid-Biosynthesis
-NCU03176.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU03880.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU06342.7	CT11.5_RNA	1.8480480961564256	False	11.5	RNA	Lipid-Biosynthesis
 NCU10400.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
 NCU03955.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU01993.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
 NCU02726.7	CT11.5_RNA	1.8480480961564256	False	11.5	RNA	Lipid-Biosynthesis
 NCU04289.7	CT11.5_RNA	1.438371146789078	False	11.5	RNA	Lipid-Biosynthesis
+NCU05259.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
+NCU02408.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
+NCU02209.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
+NCU09497.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU03929.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
+NCU03176.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU03880.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01993.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
 NCU03223.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU07307.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Lipid-Biosynthesis
+NCU07308.7	CT11.5_RNA	2.0	False	11.5	RNA	Lipid-Biosynthesis
+NCU04380.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU06063.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01654.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU00580.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
 NCU02624.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU08762.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Lipid-Biosynthesis
 NCU06402.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU02693.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
 NCU05991.7	CT11.5_RNA	1.99026806874157	False	11.5	RNA	Lipid-Biosynthesis
-NCU00580.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
-NCU06694.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
-NCU08976.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Lipid-Biosynthesis
-Average	CT11.5_RNA	1.1182700232026948	True	11.5	RNA	Lipid-Biosynthesis
-NCU02209.7	CT11.5_protein	0.7580781044003317	False	11.5	protein	Lipid-Biosynthesis
-NCU03929.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU06054.7	CT11.5_protein	0.8954715367323476	False	11.5	protein	Lipid-Biosynthesis
-NCU08280.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Lipid-Biosynthesis
-NCU01175.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU02571.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU03922.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU00712.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
-NCU03633.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU08671.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU11381.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU07719.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU05259.7	CT11.5_protein	1.3090169943749468	False	11.5	protein	Lipid-Biosynthesis
-NCU04380.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU06063.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01654.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU02408.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU09497.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU03006.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU04156.7	CT11.5_RNA	1.8480480961564256	False	11.5	RNA	Lipid-Biosynthesis
+NCU06207.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01333.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01175.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
+NCU02571.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU03922.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
+NCU00712.7	CT11.5_RNA	1.7660444431189777	False	11.5	RNA	Lipid-Biosynthesis
+NCU03633.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
+NCU08671.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Lipid-Biosynthesis
+NCU11381.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU07719.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Lipid-Biosynthesis
+NCU06054.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU08280.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Lipid-Biosynthesis
+NCU01141.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01371.7	CT11.5_RNA		False	11.5	RNA	Lipid-Biosynthesis
+NCU01119.7	CT11.5_RNA	0.8954715367323476	False	11.5	RNA	Lipid-Biosynthesis
+Average	CT11.5_RNA	1.1182700232026945	True	11.5	RNA	Lipid-Biosynthesis
+NCU06694.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU08976.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU08927.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU02468.7	CT11.5_protein	2.0	False	11.5	protein	Lipid-Biosynthesis
 NCU06870.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
 NCU00447.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU00302.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU06465.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU06761.7	CT11.5_protein	1.8480480961564256	False	11.5	protein	Lipid-Biosynthesis
+NCU00008.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU02969.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU10359.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU04721.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
@@ -1434,32 +1420,46 @@ NCU03504.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU07761.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU02282.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU03492.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU02468.7	CT11.5_protein	2.0	False	11.5	protein	Lipid-Biosynthesis
-NCU00008.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01141.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01371.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU03006.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU04156.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
-NCU06207.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01333.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU07307.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU07308.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01119.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Lipid-Biosynthesis
-NCU03176.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
-NCU03880.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU06342.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU10400.7	CT11.5_protein	1.438371146789078	False	11.5	protein	Lipid-Biosynthesis
 NCU03955.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU01993.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU02726.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
 NCU04289.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Lipid-Biosynthesis
+NCU05259.7	CT11.5_protein	1.3090169943749468	False	11.5	protein	Lipid-Biosynthesis
+NCU02408.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU02209.7	CT11.5_protein	0.7580781044003317	False	11.5	protein	Lipid-Biosynthesis
+NCU09497.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU03929.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU03176.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
+NCU03880.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01993.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU03223.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU07307.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU07308.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU04380.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU06063.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01654.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU00580.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU02624.7	CT11.5_protein	1.3090169943749468	False	11.5	protein	Lipid-Biosynthesis
 NCU08762.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU06402.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU02693.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
 NCU05991.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU00580.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU06694.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
-NCU08976.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU03006.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU04156.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
+NCU06207.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01333.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01175.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU02571.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU03922.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU00712.7	CT11.5_protein	1.7660444431189777	False	11.5	protein	Lipid-Biosynthesis
+NCU03633.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU08671.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU11381.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU07719.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU06054.7	CT11.5_protein	0.8954715367323476	False	11.5	protein	Lipid-Biosynthesis
+NCU08280.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Lipid-Biosynthesis
+NCU01141.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01371.7	CT11.5_protein		False	11.5	protein	Lipid-Biosynthesis
+NCU01119.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Lipid-Biosynthesis
 Average	CT11.5_protein	1.623935286309845	True	11.5	protein	Lipid-Biosynthesis

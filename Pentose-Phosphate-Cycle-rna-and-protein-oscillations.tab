@@ -1,5 +1,11 @@
 Gene	variable	value	Average	CircadianTime	Measurement	PathwayClass
 NCU07281.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT12.0_RNA	0.28066019966134903	False	12.0	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
@@ -8,14 +14,14 @@ NIL	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
 NIL	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT12.0_RNA	0.06030737921409201	False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT12.0_RNA	1.4383711467890776	False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT12.0_RNA	0.8954715367323469	False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT12.0_RNA	0.021852399266194308	False	12.0	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT12.0_RNA		False	12.0	RNA	Pentose-Phosphate-Cycle
-Average	CT12.0_RNA	0.5319560708600403	True	12.0	RNA	Pentose-Phosphate-Cycle
+Average	CT12.0_RNA	0.5319560708600402	True	12.0	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT12.0_protein	2.0	False	12.0	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT12.0_protein	1.7660444431189772	False	12.0	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
@@ -24,14 +30,14 @@ NIL	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT12.0_protein	0.06030737921409201	False	12.0	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
 NIL	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT12.0_protein		False	12.0	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT12.0_protein	1.7660444431189772	False	12.0	protein	Pentose-Phosphate-Cycle
-Average	CT12.0_protein	1.052672586751853	True	12.0	protein	Pentose-Phosphate-Cycle
+Average	CT12.0_protein	1.0526725867518527	True	12.0	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT14.1_RNA	0.021852399266194308	False	14.1	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
@@ -40,14 +46,14 @@ NIL	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
 NIL	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT14.1_RNA	0.38433852467434215	False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT14.1_RNA	1.848048096156426	False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT14.1_RNA	1.4383711467890776	False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT14.1_RNA	0.06030737921409146	False	14.1	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT14.1_RNA		False	14.1	RNA	Pentose-Phosphate-Cycle
-Average	CT14.1_RNA	0.7962053364506553	True	14.1	RNA	Pentose-Phosphate-Cycle
+Average	CT14.1_RNA	0.7962053364506552	True	14.1	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT14.1_protein	1.848048096156426	False	14.1	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT14.1_protein	1.3090169943749463	False	14.1	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
@@ -56,14 +62,14 @@ NIL	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT14.1_protein	0.38433852467434215	False	14.1	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
 NIL	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT14.1_protein		False	14.1	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT14.1_protein	1.3090169943749463	False	14.1	protein	Pentose-Phosphate-Cycle
-Average	CT14.1_protein	1.1092187879845155	True	14.1	protein	Pentose-Phosphate-Cycle
+Average	CT14.1_protein	1.1092187879845152	True	14.1	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT16.3_RNA	2.0	False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT16.3_RNA	0.06030737921409146	False	16.3	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
@@ -72,14 +78,14 @@ NIL	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT16.3_RNA	2.0	False	16.3	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
 NIL	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT16.3_RNA	0.8954715367323469	False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT16.3_RNA	2.0	False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT16.3_RNA	1.848048096156426	False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT16.3_RNA	0.3843385246743412	False	16.3	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT16.3_RNA		False	16.3	RNA	Pentose-Phosphate-Cycle
-Average	CT16.3_RNA	1.1223885762802375	True	16.3	RNA	Pentose-Phosphate-Cycle
+Average	CT16.3_RNA	1.1223885762802372	True	16.3	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT16.3_protein	1.4383711467890776	False	16.3	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT16.3_protein	0.7580781044003313	False	16.3	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
@@ -88,14 +94,14 @@ NIL	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT16.3_protein	0.8954715367323469	False	16.3	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
 NIL	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT16.3_protein		False	16.3	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT16.3_protein	0.7580781044003313	False	16.3	protein	Pentose-Phosphate-Cycle
-Average	CT16.3_protein	1.1325729836777083	True	16.3	protein	Pentose-Phosphate-Cycle
+Average	CT16.3_protein	1.1325729836777085	True	16.3	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT18.4_RNA	2.0	False	18.4	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT18.4_RNA	0.3843385246743412	False	18.4	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
@@ -104,14 +110,14 @@ NIL	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
 NIL	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT18.4_RNA	1.4383711467890776	False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT18.4_RNA	1.848048096156426	False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT18.4_RNA	2.0	False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT18.4_RNA	0.8954715367323458	False	18.4	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT18.4_RNA		False	18.4	RNA	Pentose-Phosphate-Cycle
-Average	CT18.4_RNA	1.4113774617608466	True	18.4	RNA	Pentose-Phosphate-Cycle
+Average	CT18.4_RNA	1.4113774617608463	True	18.4	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT18.4_protein	0.8954715367323469	False	18.4	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT18.4_protein	0.2806601996613481	False	18.4	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
@@ -120,14 +126,14 @@ NIL	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT18.4_protein	1.4383711467890776	False	18.4	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
 NIL	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT18.4_protein		False	18.4	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT18.4_protein	0.2806601996613481	False	18.4	protein	Pentose-Phosphate-Cycle
 Average	CT18.4_protein	1.1156377448347996	True	18.4	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT20.5_RNA	0.8954715367323458	False	20.5	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
@@ -136,14 +142,14 @@ NIL	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
 NIL	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT20.5_RNA	1.4383711467890776	False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT20.5_RNA	1.848048096156426	False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT20.5_RNA	1.4383711467890763	False	20.5	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT20.5_RNA		False	20.5	RNA	Pentose-Phosphate-Cycle
-Average	CT20.5_RNA	1.5753471702156603	True	20.5	RNA	Pentose-Phosphate-Cycle
+Average	CT20.5_RNA	1.57534717021566	True	20.5	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT20.5_protein	0.38433852467434215	False	20.5	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT20.5_protein	0.021852399266194308	False	20.5	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
@@ -152,14 +158,14 @@ NIL	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT20.5_protein	1.848048096156426	False	20.5	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
 NIL	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT20.5_protein		False	20.5	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT20.5_protein	0.021852399266194308	False	20.5	protein	Pentose-Phosphate-Cycle
 Average	CT20.5_protein	1.0635597550242406	True	20.5	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT22.7_RNA	2.0	False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT22.7_RNA	2.0	False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT22.7_RNA	1.4383711467890763	False	22.7	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
@@ -168,14 +174,14 @@ NIL	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
 NIL	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT22.7_RNA	2.0	False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT22.7_RNA	0.8954715367323469	False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT22.7_RNA	1.4383711467890776	False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT22.7_RNA	1.8480480961564252	False	22.7	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT22.7_RNA		False	22.7	RNA	Pentose-Phosphate-Cycle
-Average	CT22.7_RNA	1.564466682899909	True	22.7	RNA	Pentose-Phosphate-Cycle
+Average	CT22.7_RNA	1.5644666828999092	True	22.7	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT22.7_protein	0.06030737921409201	False	22.7	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT22.7_protein	0.06030737921409191	False	22.7	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
@@ -184,14 +190,14 @@ NIL	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT22.7_protein	2.0	False	22.7	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
 NIL	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT22.7_protein		False	22.7	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT22.7_protein	0.06030737921409191	False	22.7	protein	Pentose-Phosphate-Cycle
-Average	CT22.7_protein	0.9921657136461526	True	22.7	protein	Pentose-Phosphate-Cycle
+Average	CT22.7_protein	0.9921657136461525	True	22.7	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT0.8_RNA	2.0	False	0.8	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
@@ -200,14 +206,14 @@ NIL	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
 NIL	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT0.8_RNA	1.8480480961564256	False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT0.8_RNA	0.3843385246743418	False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT0.8_RNA	0.8954715367323467	False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT0.8_RNA	2.0	False	0.8	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT0.8_RNA		False	0.8	RNA	Pentose-Phosphate-Cycle
-Average	CT0.8_RNA	1.3820426213383417	True	0.8	RNA	Pentose-Phosphate-Cycle
+Average	CT0.8_RNA	1.3820426213383414	True	0.8	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT0.8_protein	0.021852399266194308	False	0.8	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT0.8_protein	0.38433852467434215	False	0.8	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
@@ -216,14 +222,14 @@ NIL	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT0.8_protein	1.8480480961564256	False	0.8	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
 NIL	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT0.8_protein		False	0.8	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT0.8_protein	0.38433852467434215	False	0.8	protein	Pentose-Phosphate-Cycle
-Average	CT0.8_protein	0.92315254172151	True	0.8	protein	Pentose-Phosphate-Cycle
+Average	CT0.8_protein	0.9231525417215098	True	0.8	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT2.9_RNA	2.0	False	2.9	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
@@ -232,14 +238,14 @@ NIL	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
 NIL	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT2.9_RNA	1.4383711467890774	False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT2.9_RNA	0.06030737921409191	False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT2.9_RNA	0.3843385246743418	False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT2.9_RNA	1.8480480961564263	False	2.9	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT2.9_RNA		False	2.9	RNA	Pentose-Phosphate-Cycle
 Average	CT2.9_RNA	1.0835143524532729	True	2.9	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT2.9_protein	0.2806601996613481	False	2.9	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT2.9_protein	0.8954715367323469	False	2.9	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
@@ -248,14 +254,14 @@ NIL	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT2.9_protein	1.4383711467890774	False	2.9	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
 NIL	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT2.9_protein		False	2.9	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT2.9_protein	0.8954715367323469	False	2.9	protein	Pentose-Phosphate-Cycle
-Average	CT2.9_protein	0.8774936049787798	True	2.9	protein	Pentose-Phosphate-Cycle
+Average	CT2.9_protein	0.8774936049787797	True	2.9	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT5.1_RNA	1.8480480961564263	False	5.1	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
@@ -264,14 +270,14 @@ NIL	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
 NIL	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT5.1_RNA	0.8954715367323467	False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT5.1_RNA	0.021852399266194308	False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT5.1_RNA	0.06030737921409191	False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT5.1_RNA	1.4383711467890783	False	5.1	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT5.1_RNA		False	5.1	RNA	Pentose-Phosphate-Cycle
 Average	CT5.1_RNA	0.759605753861128	True	5.1	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT5.1_protein	0.7580781044003315	False	5.1	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT5.1_protein	1.4383711467890778	False	5.1	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
@@ -280,14 +286,14 @@ NIL	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT5.1_protein	0.8954715367323467	False	5.1	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
 NIL	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT5.1_protein		False	5.1	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT5.1_protein	1.4383711467890778	False	5.1	protein	Pentose-Phosphate-Cycle
-Average	CT5.1_protein	0.8690648281490245	True	5.1	protein	Pentose-Phosphate-Cycle
+Average	CT5.1_protein	0.8690648281490244	True	5.1	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT7.2_RNA	1.438371146789078	False	7.2	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
@@ -296,14 +302,14 @@ NIL	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
 NIL	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT7.2_RNA	0.3843385246743412	False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT7.2_RNA	0.2806601996613487	False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT7.2_RNA	0.021852399266194308	False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT7.2_RNA	0.8954715367323476	False	7.2	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT7.2_RNA		False	7.2	RNA	Pentose-Phosphate-Cycle
-Average	CT7.2_RNA	0.5087538820166677	True	7.2	RNA	Pentose-Phosphate-Cycle
+Average	CT7.2_RNA	0.5087538820166676	True	7.2	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT7.2_protein	1.3090169943749468	False	7.2	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
@@ -312,14 +318,14 @@ NIL	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT7.2_protein	0.3843385246743412	False	7.2	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
 NIL	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT7.2_protein		False	7.2	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT7.2_protein	1.8480480961564263	False	7.2	protein	Pentose-Phosphate-Cycle
 Average	CT7.2_protein	0.9004277486049515	True	7.2	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT9.3_RNA	0.8954715367323476	False	9.3	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
@@ -328,14 +334,14 @@ NIL	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
 NIL	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT9.3_RNA	0.06030737921409157	False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT9.3_RNA	0.7580781044003317	False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT9.3_RNA	0.2806601996613487	False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT9.3_RNA	0.3843385246743425	False	9.3	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT9.3_RNA		False	9.3	RNA	Pentose-Phosphate-Cycle
-Average	CT9.3_RNA	0.4071935759388722	True	9.3	RNA	Pentose-Phosphate-Cycle
+Average	CT9.3_RNA	0.4071935759388721	True	9.3	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT9.3_protein	1.7660444431189777	False	9.3	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT9.3_protein	2.0	False	9.3	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
@@ -344,14 +350,14 @@ NIL	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT9.3_protein	0.06030737921409157	False	9.3	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
 NIL	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT9.3_protein		False	9.3	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT9.3_protein	2.0	False	9.3	protein	Pentose-Phosphate-Cycle
-Average	CT9.3_protein	0.9620510553998158	True	9.3	protein	Pentose-Phosphate-Cycle
+Average	CT9.3_protein	0.962051055399816	True	9.3	protein	Pentose-Phosphate-Cycle
 NCU07281.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU11353.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU02136.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU06142.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU01328.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU00519.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Pentose-Phosphate-Cycle
+NCU07608.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Pentose-Phosphate-Cycle
 NCU00087.7	CT11.5_RNA	0.3843385246743425	False	11.5	RNA	Pentose-Phosphate-Cycle
 NCU07143.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
 NCU00837.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
@@ -360,14 +366,14 @@ NIL	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
 NCU09111.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Pentose-Phosphate-Cycle
 NCU07483.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
 NIL	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU02136.7	CT11.5_RNA	0.021852399266194308	False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU06142.7	CT11.5_RNA	1.3090169943749468	False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU01328.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU00519.7	CT11.5_RNA	0.7580781044003317	False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU07608.7	CT11.5_RNA	0.06030737921409201	False	11.5	RNA	Pentose-Phosphate-Cycle
-NCU11353.7	CT11.5_RNA		False	11.5	RNA	Pentose-Phosphate-Cycle
-Average	CT11.5_RNA	0.4857893993546553	True	11.5	RNA	Pentose-Phosphate-Cycle
+Average	CT11.5_RNA	0.48578939935465537	True	11.5	RNA	Pentose-Phosphate-Cycle
 NCU07281.7	CT11.5_protein	1.99026806874157	False	11.5	protein	Pentose-Phosphate-Cycle
+NCU11353.7	CT11.5_protein	1.8480480961564256	False	11.5	protein	Pentose-Phosphate-Cycle
+NCU02136.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
+NCU06142.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
+NCU01328.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
+NCU00519.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
+NCU07608.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
 NCU00087.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
 NCU07143.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
 NCU00837.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
@@ -376,10 +382,4 @@ NIL	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
 NCU09111.7	CT11.5_protein	0.021852399266194308	False	11.5	protein	Pentose-Phosphate-Cycle
 NCU07483.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
 NIL	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU02136.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU06142.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU01328.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU00519.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU07608.7	CT11.5_protein		False	11.5	protein	Pentose-Phosphate-Cycle
-NCU11353.7	CT11.5_protein	1.8480480961564256	False	11.5	protein	Pentose-Phosphate-Cycle
 Average	CT11.5_protein	1.0352071909563847	True	11.5	protein	Pentose-Phosphate-Cycle
